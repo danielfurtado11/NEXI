@@ -1,0 +1,24 @@
+VALORES SEM AJUSTE
+
+_________________________
+person
+0    1.412824
+1    0.893933
+2    1.448066
+3    1.756946
+Name: head_movement_x_abs_no_adjust, dtype: float64
+_________________________
+person
+0    0.876947
+1    0.411985
+2    0.629914
+3    1.404350
+Name: head_movement_y_abs_no_adjust, dtype: float64
+_________________________
+person
+0    1.451603
+1    0.746067
+2    0.772771
+3    1.418003
+Name: head_movement_z_abs_no_adjust, dtype: float64
+_________________________

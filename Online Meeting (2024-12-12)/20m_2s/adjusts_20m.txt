@@ -1,0 +1,38 @@
+_________________________
+Size Block: 20 minutes
+time_block
+0.0    24332
+1.0     1450
+Name: count, dtype: int64
+_________________________
+Duration:
+21.133333333333333 minutes
+_________________________
+Person: 3
+Head Yaw values: [-15.06896662  -7.31455041]
+Head Pitch values: [7.83912508 2.28594005]
+Head Roll values: [-6.89825017 -7.10953678]
+Gaze Yaw values: [-18.59013992   1.87828338]
+Gaze Pitch values: [ -5.96278152 -11.37509537]
+_________________________
+Person: 1
+Head Yaw values: [ 0.58566355 -3.40459239]
+Head Pitch values: [10.77341842  2.91994565]
+Head Roll values: [4.16666085 5.84464674]
+Gaze Yaw values: [-0.99767877 -8.49195652]
+Gaze Pitch values: [ -4.44280165 -10.76440217]
+_________________________
+Person: 0
+Head Yaw values: [ -9.62327954 -22.09711864]
+Head Pitch values: [-3.28554067  4.09974576]
+Head Roll values: [-0.21691252  0.05415254]
+Gaze Yaw values: [-15.64880407 -18.20788136]
+Gaze Pitch values: [-4.19604099 -6.12909605]
+_________________________
+Person: 2
+Head Yaw values: [28.18266915 24.21445983]
+Head Pitch values: [-0.88569273  0.96479224]
+Head Roll values: [ 2.16834153 -1.5368144 ]
+Gaze Yaw values: [26.34543836 15.77770083]
+Gaze Pitch values: [-2.62634051  2.16396122]
+_________________________

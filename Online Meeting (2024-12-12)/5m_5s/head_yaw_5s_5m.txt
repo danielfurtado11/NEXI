@@ -1,0 +1,49 @@
+#######################
+Adjusted value: 5s
+Block size: 5 minutes
+#######################
+_________________________
+Person: 3
+count    6299
+mean        0
+std        12
+min       -33
+25%        -6
+50%         0
+75%         8
+max        26
+Name: head_yaw_adjusted, dtype: int32
+_________________________
+Person: 1
+count    6675
+mean        0
+std         5
+min       -14
+25%        -3
+50%         0
+75%         2
+max        17
+Name: head_yaw_adjusted, dtype: int32
+_________________________
+Person: 0
+count    6550
+mean        0
+std         9
+min       -31
+25%        -4
+50%         1
+75%         5
+max        29
+Name: head_yaw_adjusted, dtype: int32
+_________________________
+Person: 2
+count    6258
+mean        0
+std         8
+min       -51
+25%        -4
+50%         0
+75%         4
+max        27
+Name: head_yaw_adjusted, dtype: int32
+_________________________

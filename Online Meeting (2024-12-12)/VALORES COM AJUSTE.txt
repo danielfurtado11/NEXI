@@ -1,0 +1,24 @@
+VALORES COM AJUSTE
+
+_________________________
+person
+0    0.121826
+1    0.173192
+2    0.292849
+3    0.186288
+Name: head_movement_x_abs, dtype: float64
+_________________________
+person
+0    0.096124
+1    0.114293
+2    0.128484
+3    0.163107
+Name: head_movement_y_abs, dtype: float64
+_________________________
+person
+0    0.144990
+1    0.153087
+2    0.158325
+3    0.159824
+Name: head_movement_z_abs, dtype: float64
+_________________________
