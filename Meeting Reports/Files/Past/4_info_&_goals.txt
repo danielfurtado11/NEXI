@@ -1,0 +1,24 @@
+```json
+{
+    "participants": ["André Neiva", "Rita Joana", "Daniel Furtado", "Francisco Falcão"],
+    "duration": 82,
+    "goals": [
+        {
+            "goal": "Presentation of the automatic transcription system and its applicability in training sessions and meetings.",
+            "status": "Objective Achieved: Yes, it was demonstrated how the tool works in real time and how reports can be generated automatically."
+        },
+        {
+            "goal": "Discuss the integration of the platform with academic institutions.",
+            "status": "Objective Achieved: No, the conversation was preliminary, and further discussions are planned."
+        },
+        {
+            "goal": "Identify the next steps for collaboration with the University of Minho.",
+            "status": "Objective Achieved: Yes, plans to send an email and arrange a meeting were established."
+        },
+        {
+            "goal": "Discuss the effectiveness of training sessions and the need for feedback mechanisms.",
+            "status": "Objective Achieved: Yes, the need for participant feedback and engagement metrics was emphasized and discussed."
+        }
+    ]
+}
+```

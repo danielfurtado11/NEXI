@@ -1,0 +1,91 @@
+```json
+[
+    {
+        "minute_start": 0,
+        "minute_end": 5,
+        "topic": "Introduction and Participant Arrival",
+        "subtopics": [
+            "Welcoming participants",
+            "Meeting agenda overview",
+            "Introduction of Daniel as an engineer",
+            "Connection among participants from Barcelos"
+        ]
+    },
+    {
+        "minute_start": 5,
+        "minute_end": 15,
+        "topic": "Discussion of Meeting Reports and Future Development",
+        "subtopics": [
+            "Overview of the meeting report from two days ago",
+            "Importance of capturing engagement and participation",
+            "Plans for automating report generation",
+            "Differentiation in report content for various participants"
+        ]
+    },
+    {
+        "minute_start": 15,
+        "minute_end": 30,
+        "topic": "Analysis of Engagement Metrics",
+        "subtopics": [
+            "Review of student engagement during the lessons",
+            "Feedback on areas for improvement in teaching",
+            "Discussion of engagement statistics and how to utilize them",
+            "Methods for incorporating feedback into future classes"
+        ]
+    },
+    {
+        "minute_start": 30,
+        "minute_end": 45,
+        "topic": "Utilization of Technology in Training",
+        "subtopics": [
+            "Potential applications of the system in corporate settings",
+            "Engagement tracking through visual data",
+            "Use of facial expression analysis for engagement insights",
+            "Integration of feedback mechanisms for continuous improvement"
+        ]
+    },
+    {
+        "minute_start": 45,
+        "minute_end": 60,
+        "topic": "Legal and Ethical Considerations",
+        "subtopics": [
+            "Discussion on permissions and legalities of recording",
+            "Importance of transparency with students regarding data usage",
+            "Strategies for obtaining consent from participants",
+            "Legal framework regarding data protection and privacy"
+        ]
+    },
+    {
+        "minute_start": 60,
+        "minute_end": 75,
+        "topic": "Feedback and Improvement Strategies",
+        "subtopics": [
+            "Importance of receiving feedback from trainees",
+            "Discussion on training effectiveness and areas for adjustment",
+            "Sharing insights from past training sessions",
+            "Methods for enhancing training delivery based on feedback"
+        ]
+    },
+    {
+        "minute_start": 75,
+        "minute_end": 85,
+        "topic": "Next Steps and Action Items",
+        "subtopics": [
+            "Planning follow-up with University of Minho",
+            "Setting expectations for future meetings",
+            "Developing a framework for effective training delivery",
+            "Establishing communication channels for updates"
+        ]
+    },
+    {
+        "minute_start": 85,
+        "minute_end": 90,
+        "topic": "Closing Remarks",
+        "subtopics": [
+            "Recap of meeting effectiveness",
+            "Expressions of gratitude towards participants",
+            "Encouragement for future collaboration"
+        ]
+    }
+]
+```

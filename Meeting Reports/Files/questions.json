@@ -1,0 +1,34 @@
+{
+   "questions": [
+       {
+           "name": "Rita Joana",
+           "questions_and_answers": [
+               {
+                   "question": "Como é que a plataforma garante que os formandos têm acesso ao material de formação após o término do curso?",
+                   "answer": "Atualmente, os formandos têm acesso limitado devido a restrições da plataforma. Planos futuros incluem um espaço pessoal para cada aluno armazenar todas as formações concluídas e rever materiais conforme necessário."
+               },
+               {
+                   "question": "Como podemos armazenar perguntas e respostas durante a formação de maneira útil para os formandos?",
+                   "answer": "O sistema pode registar as perguntas dos participantes e organizá-las num relatório para revisão posterior, incluindo respostas, materiais de apoio e recomendações de estudo personalizadas."
+               },
+               {
+                   "question": "Qual é a melhor forma de vender esta possibilidade de formação online?",
+                   "answer": "A formação será gravada e os formadores receberão um relatório que inclui a eficácia da formação, momentos de atenção dos alunos, e recomendações personalizadas."
+               }
+           ]
+       },
+       {
+           "name": "Francisco Falcão",
+           "questions_and_answers": [
+               {
+                   "question": "Este modelo atual permite recomendações de aprendizagem personalizadas com base na interação dos formandos?",
+                   "answer": "Sim, a plataforma analisa o nível de engajamento de cada formando e sugere materiais adicionais, como vídeos, artigos ou podcasts."
+               },
+               {
+                   "question": "Como garantimos a conformidade legal ao armazenar dados dos formandos?",
+                   "answer": "A equipe jurídica está revisando as melhores práticas para cumprir as leis de proteção de dados, como anonimizar dados ou processar informações em tempo real sem armazenamento prolongado."
+               }
+           ]
+       }
+   ]
+}

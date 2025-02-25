@@ -1,0 +1,1686 @@
+NEXI - Apresentação-20250213_123528-Meeting Recording
+13 de fevereiro de 2025, 11:35damanhã
+1 h 22 m 43 s
+
+André Neiva iniciou a transcrição
+
+André Neiva   0:03
+Estava numa reunião, ele, ele, ele vai entrar a qualquer altura. É assim, sabes Como É Que É?
+A vai entrar para mandar aí uns beat IT, uma coisa assim um.
+
+Rita Joana   0:13
+Pode estabilizar um bocado, não é OK?
+
+André Neiva   0:14
+Para estabilizar exato, mas olha só para que ISTO também fique porreiro. Deixa-me só aqui pôr uma coisa.
+
+Rita Joana   0:16
+Quando estabilizar.
+
+André Neiva   0:25
+Para perceberes, como é que também numa formação coisa poderia funcionar, OK, pera aí deixa-me só tenho aqui uma série de coisas abertas, consegues ver o ecrã.
+
+Rita Joana   0:29
+OK.
+Já consigo, sim.
+
+André Neiva   0:35
+OK pronto, então o que eu vou fazer é só dizer-te aquilo que nós vamos falar aqui aqui Hoje e para começar com uma apresentação pronto, nós já NOS conhecemos. Mas Oo Daniel é é nosso.
+Engenheiro da da nex e também é um. Também é uma pessoa da Web, tirou o curso na Web, está a tirar, está a acabar o curso na Web. A Rita também estudou na Web.
+
+Daniel Furtado   0:55
+Aqui.
+OK.
+
+André Neiva   0:58
+A.
+
+Rita Joana   0:59
+Muito boa escolha.
+
+Daniel Furtado   1:00
+Zé.
+
+André Neiva   1:01
+Porque ele ele está na parte. De pronto, ele é assim, ele é mais inteligente que nós. Ele está na parte de ciências de Computação EEE pronto, e era isso. Ele é de Barcelos também, e eu tinha lhe dito que tu eras de Barcelos também, que éramos todos de Barcelos, por isso está tudo em família quase.
+
+Rita Joana   1:06
+Claro.
+A.
+Ai é.
+
+André Neiva   1:20
+AIEE pronto, essa é a apresentação.
+
+Rita Joana   1:22
+*****.
+
+André Neiva   1:25
+Aquele que nós fazemos que nós já tínhamos explicado.
+É, nós nós fazemos. Nós fazemos esta gravação da aula. Nós tiramos a parte toda de de engagement e de participação ativa na nas na formação.
+A nós aquilo que fazemos também com base, por exemplo, eu aqui estou a fazer a introdução, estou-te a dizer aquilo que vamos falar Hoje vamos falar dos nossos modelos e do desenvolvimento futuro.
+Vamos mostrar aqui um relatório de uma reunião que tivemos há 2 dias atrás, a aquilo em que enviamos ontem à noite para para a pessoa com quem falamos.
+E dos próximos passos, aquilo que acordámos aqui entre nós.
+E ISTO é importante porque magina tens uma formação. Se numa formação dizem ISTO é o que nós vamos falar nesta aula nesta seção nós no final, com base naquilo que foi discutido, conseguimos ver também qual a eficácia da aula da formação. Se Oo formador cobrou cobrir todos os tópicos, queria cobrir ou não e conseguimos ainda dar algumas algumas sugestões para melhoria, EE já vais, já vais ver ISTO.
+A os nossos modelos, nós captamos lá está aquilo que eu estava a dizer no futuro. Nós ainda temos algum algum alguns processos manuais naquilo que fazemos.
+E a nossa ideia ao automatizar tudo é é é. Basicamente nós saímos desta reunião, fechamos a reunião e uns minutos depois está no teu e-mail. Olha, está aqui. O relatório da reunião está aqui. Aquilo que é relevante para Rita.
+
+Rita Joana   2:57
+Pois OK.
+
+André Neiva   3:00
+Eu e o Daniel recebemos relatórios diferentes. O formador recebe um relatório mais global, ISTO é, o que se passou na aula e se calhar, por exemplo, no slide número 33 perdeste os alunos todos vou perder esta média da turma. Uma boa parte da turma em relação à média da atenção. Percebes porque? Por isso, se calhar na próxima aula convém se calhar, começar a recapitular EOK nesta parte aqui que falamos de marketing qualquer coisa pá se calhar não ficou bem percebido só para.
+Percebes ou ou até.
+Porque ISTO também podemos fazer para cada aluno. Qual é que é o plano naquela parte ali em que se falou de de Sei Lá, de de de de 111 questão qualquer de marketing não ficou muito bem percebido, então aqui está aqui um vídeo do YouTube, está aqui um podcast que podem ouvir para só para perceberem.
+
+Rita Joana   3:52
+Ao ver.
+
+André Neiva   3:54
+Pronto AEA nível de propaganda inicial eu se calhar.
+Juntar o que fazia agora era mostrava te o relatório a.
+
+Rita Joana   4:05
+11.
+
+André Neiva   4:06
+Eu até para lá, eu tenho aqui Daniel o.
+
+Daniel Furtado   4:08
+Tenho link.
+
+André Neiva   4:10
+Eu tenho aqui o link que eu posso partilhar, assim é mais fácil.
+
+Daniel Furtado   4:11
+Perfeito.
+
+André Neiva   4:15
+A vou te pedir é só para.
+Falar se calhar falar eu se calhar falo eu quero limpar o nariz e eu quero limpar o nariz, mas mas já faço isso há.
+
+Daniel Furtado   4:22
+Sempre problema.
+
+André Neiva   4:27
+ISTO foi um é um relatório que ainda não está No No no design que nós queremos. Nós queremos fazer uma coisa muito, muito melhor, mas o objetivo para já foi OK. Vamos garantir que o conteúdo está aqui. A este foi uma reunião no dia 11 a 2 dias atrás. A esta hora, com estes participantes a nós tínhamos objetivos definidos que era fazer a mesma coisa. Estamos a fazer contigo que é fazer uma apresentação daquilo que fazemos.
+AE tu podes ver aqui no relatório, diz logo quais foram os objetivos e se foram atingidos.
+Estás a ver para cada um deles. Nós queremos demonstrar a funcionalidade, que é o mesmo que estamos a fazer aqui contigo. EE, fizemos essa essa essa.
+A essa apresentação a explorar a análise do engagement a.
+Como é que o sistema funciona, etc etc. E tu vês que aqui nós fazemos sempre isso? Depois temos, por exemplo, se a reunião de 0 a 100 como é que foi? Como é que foi a eficácia dessa reunião e explica porquê cumprimento dos objetivos.
+OK foi todo atingido, mas algumas melhorias poderiam ser feitas. Como podemos ver aqui pode NOS pontos a melhorar. Poderia ter sido mais objetivo alguns momentos. Alguns pontos técnicos foram muito, foram longamente debatidos, sem sem necessidades imediatas. Tens alguma pergunta? Rita, estavas aí, tá?
+
+Rita Joana   5:49
+Não, não, não estou. Só estou ali.
+
+André Neiva   5:52
+Pronto aí consegues ver aqui a parte de do tempo. Há algumas questões foram, foram longas e que é verdade? Nós era uma reunião de 1 hora e demoraram 70 minutos, por isso nós fazemos esta parte assim mais geral de como é que como é que correu a sessão?
+Depois temos o os temas abordados EE no tempo e o que é que foi falado?
+Há como como podes ver aqui Eu Não vou, não vou ler tudo, mas se tiveres algum interesse até podemos partilhar, mas temos também um resumo.
+Da de tudo o que foi falado tipo a reunião passou-se desta forma, AO que é que as pessoas fizeram os destaques da reunião?
+Há aplicações da tecnologia. A pessoa com quem nós falamos, estávamos a dizer, Oh, pá, ISTO pode ser utilizada em reuniões empresariais, por exemplo, e reuniões de conselhos de administração e tal ou até dele ISTO. A pessoa até NOS disse assim, eh pá, ISTO até a nível desportivo.
+Pode ser utilizado com com com treinadores. Olhe, está aqui ou está aqui ou está aqui o homem.
+
+Rita Joana   6:56
+A chegou. Olá bom dia.
+
+Francisco Falcão   6:58
+Viva, tudo bem conversar.
+Peço desculpa, mas eu tenho. Eu tenho enviado aqui uma Mensagem a Andreia dizer que ia chegar um bocadinho atrasado.
+
+André Neiva   7:01
+A.
+
+Francisco Falcão   7:06
+Mas só.
+Só consegui chegar agora melhor.
+
+Rita Joana   7:09
+Tranquila foi com com com ela.
+
+André Neiva   7:11
+Tranco.
+
+Francisco Falcão   7:11
+Tudo bem.
+
+André Neiva   7:11
+Sim.
+Nós estamos aqui a apresentação e estamos agora aqui a falar do do relatório, a do relatório da da reunião com Diogo há 10 dias atrás.
+
+Francisco Falcão   7:15
+Sim.
+Sim sim.
+
+André Neiva   7:21
+Há e pronto e estava-te a dizer, Rita, nós nós também naquela reunião, no final, tínhamos definido o que é que temos que fazer, ou seja, os próximos passos EE temos aqui uma série de de de de ações.
+A não interessa também entrar muito por aqui, mas mas depois as tarefas atribuídas a cada pessoa, estas 4 pessoas e consegues ver aqui.
+A.
+E estas coisas aqui, não estou a dizer que é 100% infalível. Tivemos, temos aqui alguns erros ortográficos, 11 coisa ou outra, mas mas como podes ver, já está 11 estrutura com que capta a essência da reunião que tivemos.
+Questões relevantes que NOS foram colocadas para nós e para um professor ou formador, poderia ser interessante.
+
+Rita Joana   8:07
+OK.
+
+André Neiva   8:07
+A nós como uma da uma das coisas que nós temos visto também Na Na, na teoria que quantas mais perguntas difíceis?
+Um aluno um professor fizer melhor é o aproveitamento da aula como um todo. A explicação de conceitos também do professor, por isso é que nós estamos a captar aqui também estas estas estas questões. AA parte do Engage uma por participante eu vou, vou pôr aqui.
+Por exemplo, podemos ver aqui?
+Por pessoa, a média global, a turma depois, por exemplo, no caso do Daniel.
+Nós para estes picos.
+Conseguimos ver o porquê?
+A.
+Temos aqui uma série de de de de de fotos desses momentos.
+
+Rita Joana   8:54
+Documento.
+
+André Neiva   8:56
+Nós pronto aqui com ISTO, estamos entre amigos também e pedimos a permissão também para para tirar estas fotos, mas obviamente que depois ISTO relatório da Rita Joana o relatório do Manuel Joaquim, cada um vê a sua coisa, não vê dos outros a mas pronto temos aqui a parte de the engagement da participação ativa de quem falou e em que momentos conseguimos ver aqui também médias e por pessoa.
+
+Rita Joana   9:11
+Da sim exato pronto.
+
+André Neiva   9:26
+A.
+Aliás, podemos aqui ver os momentos e neste caso em que eu falei e intervenções feitas.
+
+Francisco Falcão   9:33
+O que é relevante? Deixa-me só dizer, deixa-me só dar aqui uma nota que é relevante, por exemplo, é que nestes momentos não é o identificamos que que basicamente até pode haver aqui uma, por exemplo, que não está aqui, mas pode haver, por exemplo, uma média. Nós aqui temos por aluno, não é? Ou por por participante neste caso, mas podia haver uma média em alturas em que houve mais ou menos participação, não é EE, dá para identificar aqui está identificado, digamos, com um eixo temporal, não é? Mas podemos identificar ISTO depois correndo, por exemplo, o rato em cima perceber qual é que foi a matéria que foi dada naquele período.
+
+André Neiva   9:35
+Deus diz.
+
+Francisco Falcão   10:06
+Não é porque como em cima, dá para ver logo no início, nós, por tópico temos qual é que foi o período de tempo da aula? Não é em que em que cada tópico foi foi seleccionado. Aliás, dá para fazer isso já agora aqui que é uma matéria. Como é que foi OOA participação de cada de cada um, não é?
+
+André Neiva   10:14
+Oi.
+
+Francisco Falcão   10:26
+Ao longo do tempo.
+
+André Neiva   10:27
+Não está aqui um exemplo ou quando, quando tivermos no tópico de falar, como é que utilizamos ISTO Na Na parte educacional? Temos aqui por aluno OOO que o Francisco estava a dizer, Eh, Eh, Eh eh que que eles neste momento o layout que me tinha dito no início está assim. Nós queremos mostrar que temos os dados e conseguimos fazer as coisas a parte estética. Estamos a trabalhar em paralelo.
+Parecer mais user friendly.
+
+Rita Joana   10:56
+Sim exato.
+
+André Neiva   10:57
+EE temos exatamente a mesma coisa por expressão facial por temas.
+E por pessoas.
+Neste caso, até é bom termos aqui o Francisco Falcão, porque eles eles tiveram a fazer a gozar comigo com a minha cara. Era de não era, não estava lá muito simpática, digamos assim, EE enquanto que aqui temos uma pessoa muito sorridente e que nós composto, não sei se consegues ver aqui há, sim, está aqui. Tenha parte do do Frowning Smiling cansado, percebes? Conseguimos ver picos de cansaço que está correlacionado com o engagement.
+
+Rita Joana   11:27
+Não.
+
+André Neiva   11:32
+É.
+EE pronto e.
+
+Rita Joana   11:34
+Não há que enganar, não é? Não há que enganar aqui.
+
+André Neiva   11:37
+Eh Eh Eh Eh.
+
+Rita Joana   11:38
+Então.
+
+Francisco Falcão   11:39
+Eu acho eu acho que eu acho que o modelo está a funcionar muito bem.
+Eu estou sempre feliz e o André está sempre pá com uma cara de casa.
+
+André Neiva   11:46
+É um casmurro, é um casmurro e o político e o casmurro e o político.
+
+Francisco Falcão   11:49
+Exato.
+É isso, é isso?
+
+Rita Joana   11:53
+Faz parte.
+
+André Neiva   11:53
+A.
+E pronto, Oh, Rita, este era o peixe que tínhamos para vender e de uma forma geral, pronto. ISTO como consegues ver? Tenho um relatório.
+
+Rita Joana   11:58
+OK.
+
+André Neiva   12:04
+E na minha opinião Super interessante daquilo que conseguimos fazer a Hein.
+Em em um curto espaço de tempo AEE pronto.
+
+Rita Joana   12:15
+Nenhum ISTO é, ISTO é muito interessante e deixam que eu também esqueci me de dizer aquela enquanto na minha reunião, quando eu tive do Ifmt, o Ifmt não dá, porque era uma coisa muito interessante porque posso vos dizer que o ifmt neste momento está a dar formações diariamente. Desde as 9 da manhã às 11 da noite, tudo on-line para para motoristas, mas o ifmt por o regulamento dele e é muito rigoroso. Ou seja, não tu não podes fazer nada, ou seja, terias que ir pelo ifmt.
+Seja era o ifmt comprar uma situação destas, porque é interessante, porque ele, ele ele forma. Não sei quantas pessoas por por dia, não é porque o ifmt não tem só uma empresa como a mim a certificar não é o país inteiro a, mas nós não podemos fazer. Aí Eu Não tenho hipótese nenhuma. Agora eu posso vos, vou partilhar que Na Na outra semana foi nesta, eu fui abrir uma informação a uma empresa.
+
+André Neiva   12:59
+11.
+
+Rita Joana   13:12
+EEE foi Se Eu tivesse ISTO ai, eu consegui exatamente perceber o que é que o que é que o que é que foi feito. Eu tenho formadora dar uma dizer uma coisa, eu tenho os formandos a dizer uma coisa e tenho a directora de recursos humanos que não estava na sala a dizer outra coisa.
+E eu e Eu Acredito que aquilo não tivesse corrido bem, OK? Eu Não, não vou dizer que, mas a verdade é que também não consigo, porque a expectativa que a empresa cria sobre uma formação também não é da minha responsabilidade, muito menos de formador. O formador tem que saber o que é que vai lá fazer, OK, depois as expectativas, as variáveis que a empresa pode não é sofrer uma dor se risso formador não se ri, isso pode ficar ao meu critério, Se Eu quero um formador que vá para ser mais simpático, para que a formação não seja tão a suga.
+Outra coisa é ter um formador que vai lá e que, desde que aquilo que a empresa contratou, foi feito a pronto. Depois podíamos discutir aqui o método OKE para mim, como entidade formadora de formadores, para mim são essenciais. São aqueles que me convidam, fazem quase um convite para que eu tenha formação daquele lado outra vez. Mas neste momento Eu Não sei eu eu tenho. Eu tenho um formadora, dar uma a dizer uma coisa, tem os formandos a dizer outra que avaliaram, porque este relatório que acontece aqui.
+Não tão eficaz aparece na formação de eu sou obrigada a ter 11. Eu tenho, eu tenho 111.
+Uma seca, digamos assim, uma século. E se uma série de perguntas do questionário de avaliação que ele tem que fazer o formando o formando faz sobre a avaliação, a avaliação da formação e do formador e formador. Fase da formação. Por isso, eu estou cheia de papelada, não é? Ou seja, eu tenho esses relatórios todos, só que nem sempre aquilo é muito verdade, não é raro, é o formato, comete um.
+Não é gostei muito, não é pronto e não é. Nunca é muito verdadeiro ISTO aqui não. O que sair daqui foi o que aconteceu em sala.
+
+André Neiva   15:07
+11.
+
+Rita Joana   15:17
+Certo, e eu acho que é a única coisa. Acho que é aquilo que é interessante nisto e que eu acho que também vai ser difícil no Na Na, pelo menos numa primeira fase, deu convidar os meus formandos a que a formação seja com esta eficiência. Não é porque uma coisa é eles irem para uma formação de carácter obrigatório e que aquilo que eles mais querem é não fazer nada, não é está no Instagram e não ser avaliado se teve a tente, não teve atendente, foi à casa de banho 10 vezes e ele aquilo que ele não vai querer.
+Na formação financiada que tu não estavas, mas nós podemos, ou seja, eu tenho autorização para poder fazer desde que os formandos queiram, eu consigo fazer estas formações online com esta com esta ferramenta e aí e pronto e pode ser interessante, porque no mínimo são 25 horas que se consegue me ir melhorando, falando com formador e ir melhorando a formação do que uma formação que eu vou uma empresa dar de 8 horas. Certo que o que aconteceu naquela formação só vai melhorar as futuras formações.
+
+André Neiva   16:12
+Um.
+
+Rita Joana   16:17
+Com um Público diferente não é? E com uma empresa diferente e por isso eu acho ISTO pronto, eu estou, estou vos a dizer que tive numa situação dessas na segunda-feira e neste momento não sei onde é que está a verdade, não é?
+E se tivesse uma coisa destas, já sabia.
+
+André Neiva   16:31
+Depois.
+
+Francisco Falcão   16:34
+Ainda tens outra questão por essa formação, digamos, contínua. Vamos dizer assim que é o facto de os próprios formandos não é? Eu acho que o ângulo de digamos, o ângulo pelo qual o formando poderá ter interesse e que basicamente pá fica com as notas todas da aula, não é? Esta é a primeira questão, é porque tem acesso às transcrições e segundo fica com os resumos dessa aula e no limite, ISTO é, ISTO não é, já que não não é na no na fase em que estamos, mas.
+
+Rita Joana   16:52
+Sim.
+
+Francisco Falcão   17:01
+No produto final. A ideia é que cada cada aluno tenha acesso àquela plataforma e que até essa plataforma, por exemplo, possa agregar várias formações que ele vai fazendo ao longo da sua carreira.
+E, portanto, e agora imagina? Ponho ISTO desta forma que é.
+E ao longo da da da da da vida de cada aluno que vai fazendo várias formações em várias universidades, em várias com várias entidades formadoras. Ele vai tendo num só sítio a informação de tudo o que fez e consegue ir para trás. Imagina o que é que era agora?
+De um Tema, qualquer que nós demos há 10 anos, tu conseguires ir ver exatamente dizer é pá, Eu eu acho que eu lembro. Eu dei alguma coisa sobre isso, eh Pá Entras no teu login e vais procurar e vais procurar pela palavra chave e vais encontrar imagina 3 ou 4 aulas a falar sobre aquilo em vez de estares a ler a transcrição toda. Obviamente o que é que vais fazer, vais pegar no resumo.
+
+Rita Joana   17:43
+2.
+
+Francisco Falcão   17:56
+E vais ver por Tema OK? Foi nesta altura OK, vou ver ISTO, vou ver aqui os temas principais, vou ler sobre sobre o que é que foi dado naquela, até consigo consultar os slides que foram dados na aula, não é?
+Portanto, e ISTO é basicamente tu conseguires fazer um refresh EE até muitas vezes até te relembrares da da entidade formadora, que também é positivo. Não é que tu chegas e diz, é pá esta entidade formadora, será que ISTO ainda existe? Será que eles ainda dão formação sobre ISTO? Eu gostava de aprofundar o Tema, estás a ver, portanto, ISTO tem acaba por ter uma dupla função, uma de ferramenta de acompanhamento na vida profissional da pessoa.
+
+Rita Joana   18:08
+Sim sim.
+Sim sim.
+
+Francisco Falcão   18:35
+E outra também sobre o ponto de vista da entidade formadora, que permite que seja relembrada ao longo da do tempo, não é?
+
+Rita Joana   18:43
+AO sistema de nacional, ou seja, uma pessoa que tira uma formação, ela vai para uma plataforma que se chama, sigo o que é aí que eu vou tirar o certificado.
+E a partir daí, agora, quando eu comecei nesta vida, não, não era tudo muito manual, agora não. Agora há uma plataforma em que tu método ou o cartão de cidadão ou se calhar, cartão de cidadão e mais, e é logo muito rápido e tu consegues ver o que é que ele fez onde fez, ou seja, qualquer formato pode se e entra na plataforma e ver onde fez o que fez.
+
+Francisco Falcão   19:05
+Sim.
+Sim.
+Pode ser mas.
+
+Rita Joana   19:18
+Em que data fez pronto isso eu consigo ver, não é? Até porque eu, por exemplo, não posso certificar 11 formando duplamente no meu FC DOK. Eu tenho que ter acesso a tudo o que ele deu. A outra coisa que tu estás a dizer é que esta plataforma.
+
+Francisco Falcão   19:32
+Do outro ponto de vista, não é ISTO que eu estava a dizer, é isso.
+
+Rita Joana   19:35
+Não ponto de vista em que ele tem acesso a tudo.
+
+Francisco Falcão   19:37
+ISTO que estás a dizer é importante para A Entidade formadora e é importante, por exemplo, para a empresa que o emprega que é, e ele garantiu que efetivamente tem aquela formação, certo?
+
+Rita Joana   19:46
+Certo, sim.
+
+Francisco Falcão   19:47
+Outra coisa é do ponto de vista do formando.
+Não é do ponto de vista da pessoa.
+
+Rita Joana   19:50
+Exatamente.
+
+Francisco Falcão   19:53
+Que tenha formação ou que foi paga Por Ela o que foi oferecida pela empresa, o que foi financiada? O que foi whatever não é obrigatória e não obrigatória essa pessoa. Mesmo que vamos dar um exemplo, a formação obrigatória e o tipo diz assim, eh pá, estou-me a marimbar, não quero estar atento, mas é o telefone e etc. OK, aquilo ficou lá, ficou lá informação. Ficaram lá as notas ficaram, ficou lá tudo.
+
+Rita Joana   19:58
+Ora lá sim.
+Sim sim.
+
+Francisco Falcão   20:13
+E daqui a 6 meses, ele é despedido.
+E diz é pá olha esta entidade. Agora eu tenho esta formação aqui de empilhador, não é? Vamos imaginar que andei a olhar para o balão, tá? Mas agora vou precisar mesmo de me amarrar aos empilhadores, porque é a única empresa que eu arranjo.
+Eh pá toca lá ver onde é que está a informação do empilhador, deixa-me lá ver.
+Pá EU estive desatento, mas tenho aqui as notas todas e pelo menos consigo apanhar o básico para ir à entrevista do empilhador e não ficar logo arrumados, não é?
+E percebe e esta é que é a grande questão, é dar um pulo, não de verificação, não de certificação, mas de apoio contínuo.
+
+Rita Joana   20:42
+Não é?
+
+Francisco Falcão   20:50
+A de que aquela aquela formação não morreu no dia em que acabou, não é? Não é só dizer que tenho aqui o diploma, não é? Tenho aqui o diploma da informação há 10 anos atrás, nunca exerci ISTO é a mesma coisa, é pá, é a mesma coisa que não tem formação nenhuma, não é, tem um canudo, mas não sabe fazer nada, não é?
+
+Rita Joana   21:05
+Sim sim.
+
+Francisco Falcão   21:07
+E nem têm forma de saber mesmo que queira que essa questão não é.
+
+Rita Joana   21:12
+Sim tá aqui.
+
+Francisco Falcão   21:13
+OK cria aqui teria que fazer outra informação, por exemplo, não é, mas se calhar nem consegue ser muito bem que a formação se calhar, nem consegue saber muito bem. Que formação é essa questão?
+
+Rita Joana   21:18
+Não dava, por exemplo.
+Exatamente.
+Não é da é este cruzamento de dados e mesmo ou as plataformas depois começam a fazer se calhar cruzamento de dados não é nós, dizíamos muitas vezes consigo devia fazer o ciclo é que quando nós tiramos o certificado, devia fazer um cruzamento de dados com a formação que o que o formando está a ter e que depois passa automaticamente aqueles dados para uma plataforma que os fundos também exigem. Quer dizer, há aqui uma dupla, de repente Tens uma dupla ou tripla o trabalho.
+
+Francisco Falcão   21:39
+Sim.
+
+Rita Joana   21:56
+Na Na Na porque os os isso não se cruza, não é? Por exemplo, nós não mudam. Temos a matéria toda lá, não é? Ele tem acesso. O modelo da nossa plataforma não é de formato elearning, ou seja, eles têm acesso e onde online têm matéria toda, querem descarregadas, carregam, não querem descarregar, não descarregam que eles têm que fazer na plataforma. Para mim é o teste avaliação e eu sei que tem que estar na plataforma e depois aquilo tem um cruzamento de dados, aquilo consigo ver essa avaliação.
+
+Francisco Falcão   22:06
+Portanto.
+Sim.
+Mas ó ó ó Rita. Deixa-me fazer-te uma pergunta, porque nós tivemos aqui uma situação relativamente a uma plataforma que era disponibilizada por uma entidade que a Fitch learning pronto é uma, é uma, é uma empresa basicamente ligada à área financeira que faz rating de empresas e etc, mas também tenho uma entidade formadora pronto.
+E a Fitch Learning tem vários cursos pronto relacionados com questões regulamentares, etc. EEO que EEE largue. Portanto, basicamente o assiste aos vídeos Tens os Slides e portanto basicamente tem x horas de vídeo xixi e depois os slides se quiseres assiste não quiseres não assistes. Se quiseres descarrega se não quiseres não descarregues, mas por exemplo, aquilo é muita coisa para descarregar muita coisa, não é é slides e slide, pois cada capítulo tem quantos slides e não sei quantos vídeos e etc.
+
+Rita Joana   23:05
+Muito.
+
+Francisco Falcão   23:10
+Portanto, eu por acaso no meu caso eu descarrego aquilo tudo e aquilo até tenho por por magina, por capítulo tem um teste no fim de cada capítulo. Este tipo de mim não é um teste para tu de escolha múltipla para ires treinando, não é? E depois, no final tens depois de rever a matéria toda, tens imagina 10 testes da mim e então depois é que passas para o texto final, onde faz o teste, dão-te uma graduação e com base nisso, passaste ou não passaste emite certificado. Basicamente é ISTO, mas o que acontece?
+
+Rita Joana   23:22
+Sim.
+
+Francisco Falcão   23:38
+Quando eu acabo?
+Se não descarreguei.
+Morreu nunca mais na vida. Eu vou conseguir aceder àquela informação no vosso caso também funciona assim o ADN eles tem acesso.
+
+Rita Joana   23:48
+É assim.
+Não, eles não têm porque a plataforma não me permite, não é. Por exemplo, eu tenho. Eu tive, comecei a plataforma com possibilidade de ter 50 formandos. Entretanto, as coisas foram evoluindo, não é? Eu passei para 100. Depois eu passei para 200 OKE, eles têm x tempo. Eu neste momento, em uma plataforma que não posso dar ao luxo de ter 200 formandos que queiram estar ali a fazer a formação durante 3 ou 4 meses, porque senão eu tenho que começar a pagar muito mais a plataforma para conseguir ter lá 1000, mas não é não sou só eu que Toda A Gente que trabalha.
+
+Francisco Falcão   24:01
+Sim.
+Sim.
+
+Rita Joana   24:21
+Vai retirando as pessoas e vai lembrando que elas têm, por exemplo, 15 dias para poder. Tá lá que é o que eu tento dizer aos meus formandos, mas como os formandos?
+
+Francisco Falcão   24:26
+OK.
+
+Rita Joana   24:29
+Como aqui é diferente, porque eles o que querem ou certificado no imediato não é. As empresas ligam. Eu tenho uma obra parada, ISTO é, para fazer rápido. Eu preciso de certificado para ontem, por isso formando tem que ir, tem que descarregar. Tem que passar lá as horas que é necessário fazer o teste para eu poder ir lá, tirar a avaliação e poder certificá-lo. Por isso aqui esta rapidez, mas posso dizer que eu ainda noutro dia.
+
+Francisco Falcão   24:48
+Mas ó ó Rita obrigatoriedade a obrigatoriedade descarrega. Existe uma obrigatoriedade descarregar para passar.
+Ou porque, por exemplo, nós neste caso concreto.
+
+Rita Joana   24:56
+Não, eles têm só Eu Não te sei dizer.
+
+Francisco Falcão   24:58
+Nós nesse caso concreto, nós já tínhamos que fazer ou só tínhamos que fazer outro exame. Eu podia, por exemplo, visualizar sem descarregar. Eu podia visualizar os vídeos, podia visualizar os os os Power points dentro do sistema e não precisava descarregá-los e, por exemplo, eu sei que muita gente o que fazia era não descarregava nada, havia fazia pronto, chegava ali, lá está já para 5. Não é aquilo, o que é que eles faziam uma coisa muito simples, pá, havia meia dúzia de vídeos daquelas matérias que tinham, menos que depois faziam, eram os textos da mi, de cada, de cada capítulo.
+
+Rita Joana   25:02
+O que mais tu tens?
+Mas mas sim.
+
+Francisco Falcão   25:28
+E depois faziam os testes finais que ela NOS testes davam pelos testes. Não é porque na realidade, as perguntas eram repetidas. Portanto, grande parte das vezes aquilo perguntas repetidas, portanto, eles estudavam pelos testes, faziam, imagina 10 capítulos, 10 testes mais os 5 testes da Mis 15 estavam aquilo numa tarde e à noite faziam o teste está feito, está na arte de ser e portanto, mas o que acontece?
+Dali a 6 meses eh pá imagina coisas? Vou dar um exemplo compliance, não é?
+É que tem componente jurídica, não é? É pá, ISTO não podes fazer por causa do artigo. Não sei quando não sei quanto.
+A maior parte das pessoas não descarregava aquilo, não descarregava passado 6 meses, eh pá, nem 6 meses, 2 meses, 2 semanas.
+Pá, já não sabia se lhe fizessem a pergunta, qual é que é OA? Não, isso não se faz assim, não é assim e assado, OK, isso até se lembrava agora, mas com base em que artigo não faço, ideia, não é, já está acabou, Sei Lá, um artigo que era leme, não é que sei que não é assim, mas Eu Não sei porquê.
+EEEA minha pergunta é, é obrigatório para passar isso?
+
+Rita Joana   26:26
+Sim.
+Não, nós, nós e como nós temos um cartão, daí eu quando eu criei, criei esta forma de fazer a formação, ou seja, uma numerador se fores para o mercado, agora já me copiaram já empresas a fazer igual a mim. Mas eu, quando vim, quando abri a empresa, disse que queria 11 coisa diferente, ou seja, eu tenho um cartão agregado de uma numerador, ou seja, o que é que significa 11 numerador tira-me empilhadores, mas depois precisa para pontes rolantes e depois agrega sobre as suas categorias.
+Máquinas certo e o modelo está feito desta forma, a minha, o meu OK, ele tira só descarrega aquilo que efetivamente vai certificar, não tem acesso às outras matérias, mas eu percebo o que tu estás a dizer. Eu Não sei se nós temos 11 separador, digamos assim, uma etapa que é obrigatória. A não sei se se não é um manual, é o é o PowerPoint, alguma coisa ali para ele poder avançar, OK, mas de ISTO é tudo muito, não é?
+11 não é nada difícil, não é? Não vamos agora dizer que que é noutra empresa que foram fazer, que não era a minha não tinha, era só validadas, validava as ilhas. O teste fazias ia e era o que eles queriam, OK?
+Chita ascensão.
+
+Daniel Furtado   27:48
+Posso.
+
+Francisco Falcão   27:50
+Tens outra coisa que é estar estares no e por isso é que eu acho que este Tema TXT, uma plataforma agregada do conhecimento, vamos dizer assim, conhecimento, plataforma, uma plataforma agregada do conhecimento adquirido na realidade, ISTO não é EEO que é que acontece esta plataforma permite, é que tu primeiro não, não, não percas informação o que acontece? Eu vou te dar exemplos, eu próprio já fiz pós-graduações de informações executivas, etc Pá, algumas delas já nem sei onde é que estão os apontamentos e alguns até eram em formato digital, só que pá se calhar está num e-mail algures.
+
+Rita Joana   28:02
+É isso.
+Mail claro claro.
+
+Francisco Falcão   28:20
+Pronto tal outra coisa eu dizer, tenho tudo aqui, não é? Tenho tudo nesta plataforma. Eu chego ali e entro. Procuro exatamente aquilo que quero e a distância de um de uma palavra-chave. Encontro, não é?
+
+Rita Joana   28:24
+Sim.
+Olha eu eu a eu quando abri a empresa para não e 5 anos a minha ideia e a minha irmã está aqui que não vai dizer eu e agora vou-vos passar a ideia porque Eu Não vou conseguir, não tenho, não é, portanto o importante e eu dizia assim, mais dia menos dia.
+
+Francisco Falcão   28:31
+É.
+
+Rita Joana   28:48
+AOAO Spotify, estás a ver das músicas? Vai ser na área da formação.
+
+Francisco Falcão   28:51
+Sim.
+
+Rita Joana   28:53
+Eu dizia ISTO.
+
+Francisco Falcão   28:53
+É um marketplace marketplace sim.
+
+Rita Joana   28:56
+O iá mas como é que tu se pões pagas ao formador que mete lá, eu estou a falar de formações de de de de conteúdo para mim, Como Eu vos disse, quando eu abri, dizia que queria formação de luxo que muito em Lisboa acontece. Há há muitas mais empresas que dão formação de executivos e da luz lá em baixo na capital do que aqui não é quer dizer, olha a minha irmã agora foi com quero fazer uma formação na numa área da psicologia vai pagar 1000 EUR por 3 dias ou não sei se vai, mas se quiser ir.
+
+Francisco Falcão   29:26
+Sim.
+
+Rita Joana   29:26
+Então esses valores aqui no Norte, esquece, não é, tu não consegues que as pessoas lá em baixo e eu dizia muito, eu mais dia menos dia tu vais ter as formações de luxo de uma forma digital, OK? Eu dizia, eu vocês não imaginam o Spotify, tu escolhes, tá lá, tu vês aí, como é que pagas ao formador? Porque por exemplo, eu quando meto a formação no Moodle, tu formador tem que tudo bem, tu podes ir para Internet, dar formação, vais pesquisar e até tu montas outra não é crias o teu grupo, o teu curso, mas a verdade é que não te interessa.
+
+Francisco Falcão   30:13
+Sim sim.
+
+Rita Joana   30:14
+Coisas que nós queremos ainda presencial e com alguém que que dá área e com experiência, e isso sim, eu dizia. Era um Spotify 11, coisa em que o formador iria receber consoante cada pessoa que vai descarregando. Não é que têm tu queres tirar agora uma formação executiva de secretariado?
+Que foi aí que começa a minha ideia, não é tu aqui cá no Norte, poucas pessoas tiram as empresas lá em baixo. em Lisboa, por exemplo, consultórios de de advogados querem essa formação toda xpto de secretariado e excelência e essas coisas, ou seja, e tu teres a capacidade de conseguires procurar de teres uma plataforma onde está lá tudo.
+Não é? E aí o onde tu rapidamente fizeste uma formação disso, não é de de coaching especializado em qualquer coisa e tu teres a tua plataforma em que sabes exatamente onde é que vais buscar toda essa informação. Eu posso ter pago, não é claro que uma ISTO é tudo pago, não é? Não é tudo.
+
+Francisco Falcão   31:09
+Sim.
+Pagas uma subscrição sim e depois pagas. Cada uma não é sim.
+
+Rita Joana   31:17
+Isso vai ser.
+
+Francisco Falcão   31:18
+De borla não é de borla, não é muita coisa.
+
+Rita Joana   31:20
+De borla, não vai ser.
+
+Francisco Falcão   31:21
+Às vezes em Lisboa algumas coisas, mas mais para Lisboa, mas posso.
+
+Rita Joana   31:23
+Olha, estas assim é, não é?
+Não é todos AEE pronto, essas são uma são ideias no sentido da plataforma ter conseguido juntar tudo aquilo que nós temos, porque aquilo que tu és vais fazer que não tens muito interesse ou porque não estás a aplicar diariamente àquilo e de repente pronto vais, tens o trabalho, tens outras funções e facilmente consegues ter acesso àquilo a pronto e era aquilo.
+
+Francisco Falcão   31:33
+Sim.
+Sim, sim, não, ainda não, mas eu percebo.
+
+Rita Joana   31:55
+Eu agora Eu Não é. Eu Não mudo aquilo que eu vendo e pronto é por ontem, é para resolver um problema e para resolver um problema na empresa. Não é que tem uma obra pública muito tu agora Tens agora 11 pro sies que me está agora a pedir de certeza que tem a ver também bem, aí auditoria Chaves mais ou menos o que tem que acontecer e aquilo tem que ser rápido, eficaz, linha de produção a pagar se não é não se pode parar o mínimo dos mínimos.
+
+Francisco Falcão   31:55
+Oo Tema do mar.
+Sim.
+Não, eu percebo.
+Percebes sim sim.
+Uma coisa específica? Sim, sim, sim.
+Sim sim.
+
+Rita Joana   32:25
+Então eles e o quanto mais rápido tu fizeres e o acesso ao online desta formação só aconteceu no Covide. Jamais a formação de uma moradora era online. Quer dizer, então que é e depois o Covide ajudou-nos AA esse processo um bocadinho mais facilitador não é? E as empresas e mesmo e mesmo assim AA instituição de de permitir que ISTO acontecesse não é como é que um formador é uma pessoa de empilhador, vai tirar um curso? Sim, ele só vai para a parte teórica, não é porque a parte prática ele já tem.
+
+Francisco Falcão   32:32
+Sim.
+Sim.
+Sim sim.
+Tá.
+Não, mas é sim.
+
+Rita Joana   32:56
+Por isso, agora a formação teórica da formação e eu só olha, era o que eu estava a dizer ao André no início, eu tinha agora uma turma com 18 pessoas online. Pronto era técnicas de vendas com uma formadora.
+Vai e eu espero que seja espetacular. Pelo menos tenho uma referência espectacular. Ela ela dá ela, ela dá pelo país inteiro EE ela é muito boa referência que eu tenho dela, mas é o que eu digo a nós Na Na formação financiada, nós temos uma série de requisitos, OK, nós que eu tinha uma turma de 18 Rita para arrancar para ontem e de repente pronto falando com a consultora, tenho 2 pessoas de Lisboa e não posso porquê, porque não posso colocar No No curso porque o meu, o meu, o meu projeto é para o Norte.
+OKE, então a eu estas 2 pessoas de Lisboa, porque antigamente tu dizias, há pronto, arranjei uma morada a português, não é? Arranjei uma morada daí de cima de um primo do não sei quê não.
+O projeto exige a morada atirar-se do das finanças.
+
+Francisco Falcão   33:53
+Sim.
+Sim sim.
+
+Rita Joana   33:58
+Ó pá, por favor. Também agora dificultam todo as pessoas não tenho tenho, neste momento, estou a falar. A formação era na trans Neiva. Não sei se vocês estão a ver aquela aquela empresa muito grande de transportes, sim.
+
+Francisco Falcão   34:07
+A transportadora não é transportadora, caminha camiões e 7.
+
+Rita Joana   34:10
+Olha, para essa trans não é boa, está em cima da mesa. Pronto, estamos a tentar arranjar mais 2 formantes para arrancar. Se os formandos permitirem, nós já temos uma turma para vocês fazerem, basta eles assinarem o documento que vocês vão criar e ele e nós Arrancámos, não.
+
+Francisco Falcão   34:25
+Sim.
+
+Rita Joana   34:28
+Pronto está agora está ainda ontem tive reunião com a minha consultora, ela Rita. Estás completamente à vontade desde que haja autorização dos formatos.
+A os formandos deixam, está tudo bem e formador, não é claro, mas eu conformador.
+
+Francisco Falcão   34:40
+Claro, não? Como é óbvio? Sim, sim.
+
+Rita Joana   34:42
+Eu para o formador.
+
+Francisco Falcão   34:42
+Não e nós temos nós basicamente temos ASRSS, que é basicamente a sociedade de advogados que NOS está a dar apoio. ISTO assim também entre nós é muito simples. Ou tu viste? Esta reunião? Provavelmente não sei se viste ou se reparaste, mas a reunião tinha Oo Diogo Feio na reunião. ESRSEE basicamente o ele é vogado, não é para além de político ou ex político mais propriamente, mas estou a dizer, é advogado e portanto, é é A Entidade onde ele trabalha, que NOS dá esse apoio em Lisboa a sobre esta matéria, portanto, nós aí estamos.
+
+Rita Joana   35:11
+Sim.
+
+Francisco Falcão   35:15
+Relativamente à vontade que o documento redigido será em linha para para salvaguardar essas questões, percebes?
+
+Rita Joana   35:23
+Agora o que a consultora disse, curiosamente, foi uma coisa que ela e que depois AA falar com a minha sócia, olha, mas ela falou sobre que quando os alunos sabem que estão a ser filmados AO comportamento, também vai mudar. E eu isso demora 2 demora minutos.
+
+André Neiva   35:38
+5 minutos.
+
+Francisco Falcão   35:40
+Iá.
+
+André Neiva   35:40
+5 minutos.
+
+Rita Joana   35:40
+Demora e ela assim eu isso demora 5 minutos Como Eu agora não é? Está a ser filmado, não é? No primeiro uma pessoa fica naquela pronta e de repente.
+
+Francisco Falcão   35:44
+Sim.
+Não está, está até porque começas AE mais e até se for imagina que essa se for um dia é uma coisa. Se for vários dias, estou ao fim do segundo ou terceiro dia. Até quanto é quanto desta autorização que te lembras a partir daí?
+
+André Neiva   36:01
+Tá.
+
+Francisco Falcão   36:01
+Caído.
+
+Rita Joana   36:01
+Está tudo bem?
+
+André Neiva   36:02
+Olha, e até digo mais é pá, EU eu comecei aqui a comer.
+Eu sei que me lembrei me de a paz estar no vídeo vou estar eu ali a comer e tal vai me alterar o engagement da minha formação é Oh pá OKEEE estamos temos feito ISTO todos os dias.
+
+Rita Joana   36:17
+Mas faz parte à direita.
+E faz parte, faz parte para perceber que até comer está conseguimos estar focados se quisermos se quisermos estar pá é tudo uma. É uma questão, tudo de leitura. Vai ser interessante. O Daniel ainda não disse nenhuma palavra o, né? Mas a imaginar o gráfico dele estás a imaginar o gráfico.
+
+André Neiva   36:26
+Não é?
+Depois.
+Depois.
+Daniela tua participação vai estar baixa. Fala lá.
+
+Daniel Furtado   36:34
+Não, não.
+É só.
+
+André Neiva   36:39
+Diz lá qualquer coisa, ele, ele, ele tem trabalhado NOS modelos.
+
+Rita Joana   36:42
+Estou a brincar.
+
+André Neiva   36:45
+É é.
+
+Daniel Furtado   36:49
+Na.
+
+André Neiva   36:49
+OK.
+
+Daniel Furtado   36:49
+Estou estou estou aqui só a observar se for preciso dar aqui alguma.
+
+Rita Joana   36:52
+Exatamente.
+Pode ouvir, não é?
+
+Daniel Furtado   36:54
+Olá palavra mais técnica se for preciso, mas estou a gostar de ouvir.
+
+André Neiva   36:55
+K.
+
+Rita Joana   36:59
+Exato não é porque é aqui que depois surge as as as outras, as outras a conversa, se for uma conversa sincera e eu cada vez mais acho que as coisas vão se depois evoluindo para uma coisa boa, para uma coisa boa. Não é? Porque chegava a 15 Ana, olha, ISTO é assim, não é? Não acho que em uma conversa fluída que as que as ideias vão surgindo também.
+
+Daniel Furtado   37:21
+E depois aí depois ter pessoas desse lado, não é que já estão no mundo trabalho diferente mesmo no objetivo da nossa plataforma? Não é? É bom de ter ideias, por exemplo, se calhar na parte dos participantes que nós estávamos a falar da voz a nós não possuímos a média, não é? Mas eu se quiser neste relatório, já posso incluir essa funcionalidade, ou seja.
+É bom estar aqui, a ouvir que é para depois acrescentar coisas novas, se for preciso retirar, mesmo que há pessoas que pronto.
+
+Rita Joana   37:45
+Sim.
+
+Daniel Furtado   37:48
+Nós estamos a fazer, estamos a seguir uma linha, mas se calhar a podemos ter opiniões de pessoas, se calhar.
+
+Rita Joana   37:48
+Que não.
+
+Daniel Furtado   37:55
+Tem interesse mesmo e vão trabalhar com a plataforma. Não é o pessoas da área que podem trabalhar e podem ter outra linha, outra linha de pensamento e nós temos que ouvir essas pessoas, que nós é que estamos a tentar.
+
+Rita Joana   38:05
+É bolada e mesmo eu quando falei da da Universidade do Minho vai, pode correr o é assim. Eu acho quem é que a reunião pode ser eu? Eu só disse um bocado daquilo e a pessoa minha amiga que está lá, que já não está, está na Presidência. Ela Rita, depois dá-me só pra ver Se Eu consigo pelo menos a reunião, OK, até porque a Universidade do Minho é muito ela. Acompanhe sempre projetos piloto, tudo o que é inovação, ela gosta de ouvir, pelo menos percebes gosta de de poder poder, nós percebermos que podemos contar com com a universidade.
+
+Daniel Furtado   38:06
+Essas pessoas aqui usam a plataforma.
+
+André Neiva   38:23
+11.
+
+Rita Joana   38:37
+E então ela ela dizia, mas isso é muito interessante. Já viste o que é quando tu estavas 100 e tal alunos que tu estavas lá, que eu tive dias em que tínhamos 100 e tal alunos?
+Um 100 e tal a Londres a tentar. Eles estão em em modo stress, não é porque aquela.
+Aquela sim, aquela cadeira a lá, que é um laboratório de aptidões clínicas e da falta-me sempre o nome, mas é quando estás a ver aquelas cadeiras de referência, ou seja, tu até podes ser um aluno de 20, mas não passas se não passares aquela cadeira. Recordo como é que se chama essas essas disciplinas e essa disciplina era interessante que eles às vezes tinham de manhã parte teórica e depois vinham fazer os episódios hospitalares. Não é de de de contexto de comunicação e no faziam não conseguiam. Tudo bem que eles estavam nervosos.
+
+André Neiva   39:07
+Não é? Sim, sim.
+
+Rita Joana   39:25
+Está tudo bem, principalmente estão em avaliação. Nós percebemos isso tudo, mas pode ser que isso lhe também NOS traga uma certa calma. Não é que eles percebem que estão em num índice de ansiedade muito elevada, mas que o essencial daquela daquela daquela sessão de esclarecimento antes do exame vai lhe cair no e-mail ou vai lhe não é? Vai sair um relatório daquilo e eu pronto, eu só falei assim mesmo, mesmo assim com alguma pronto só com a com a sou completamente ignorante nisto não é, mas eu só falei.
+
+André Neiva   39:49
+Bem.
+
+Rita Joana   39:56
+Aquilo que vocês me conseguiram transmitir, EAE aquilo pareceu e pronto, e o médico Se Eu já não vou ao m algum tempo, mas a pessoa que está pá, ela é espetacular o aí ele chama-se Braga Simões é médico e ele é Oh pá. É uma pessoa muito super sensível EE acima de tudo super acessível. Era isso que eu queria mais que sensível a super acessível OK, ou seja, o que lhes interessa, eles fazerem diferente de todas as universidades, certo?
+
+André Neiva   40:08
+OK.
+
+Rita Joana   40:29
+A UEM, agora já tens alunos de medicina que não querem entrar no Porto.
+
+André Neiva   40:33
+Não há e eu, aliás eu, Eu Não sei se tinha dito Rita. Eu falei com a psicóloga da the week, mas que que disse que em termos de medicina, Universidade do Minho como é como é mais nova? Já criou currículo.
+
+Rita Joana   40:34
+Não.
+Combinado.
+Educativa.
+
+André Neiva   40:48
+Para para.
+E estes exames de especialidade e eles têm muito melhores notas que o da da Faculdade de Medicina do Porto e do Icbas a.
+
+Rita Joana   40:56
+EEEE. Depois eu dei alguns exemplos EE nós estávamos aí. Eles estão muito contentes quando no início do ano, tu tens sempre no início do lectivo, tens uma reunião sempre com o diretor de medicina, o Presidente da medicina pronto, e eles estavam a dizer que na Suíça, por exemplo, os valores que se pagam nós, nós, aquilo era, não é? Portanto, nós tentávamos sempre que os valores fossem alterados. Não é porque às vezes, aliás, eu já não estou lá a trabalhar tanto, por que não me compensa e de Esposende dar 1 hora e meia, a Braga não é.
+E então ele dizia que na Suíça, quem quem fazia estes? Estes trabalhos ganhavam pronto. Quase que era uma profissão, tem quanto eu tinha um cronograma que ir lá 2 ou 3 vezes a Universidade do Minho. Depois os exames são, em Junho, eram 2 dias, não é tudo, não era não, não, não se conseguia fazer profissão disto, mas na Suíça fazem. Ou seja, esta comunicação de testar NOS médicos a comunicação, cada vez mais a forma de se dizer as coisas. AE aí pronto ISTO.
+
+André Neiva   41:34
+11.
+Pois.
+
+Rita Joana   41:57
+Quanto mais a nós éramos filmados.
+Nós somos filmados, nós somos filmados e depois íamos para Eu Estou Aqui, estou a ter Oo exercício como médico e depois vou para ali para falar sobre o feedback e eu até disse que sim, olha, já viste o que era no na altura do feedback? Nós temos acesso logo ao relatório do que foi passado lá, porque às vezes nós também não dizemos tudo.
+
+André Neiva   42:01
+Pois.
+
+Rita Joana   42:20
+Boa noite, ficamos assim um bocado sensíveis pronta. Há alturas em que se calhar também até nem está tão atento se ele te cumprimentou se desinfetam as mãos, não desinfetou EE esta não é, e ISTO tudo dá-nos aquela pelo menos os pontos mais essenciais. Pronto, eu posso estar muito enganada e pode não criar ele e eu já queria há algum interesse neles, não é, mas eu também falei muito, não é de uma forma mais entusiasmo agora, quando vocês pronto a questão aqui é, é eles saberem que ISTO existe no mercado, certo?
+
+André Neiva   42:31
+Sim.
+Pois.
+Pois.
+
+Rita Joana   42:51
+ISTO é muito importante a universidade saber que que ISTO existe no mercado e aos poucos fazer fazer caminho, digo eu.
+
+André Neiva   42:58
+OK, nós nós vamos enviar para eles um e-mail, se calhar ainda Hoje, só só com base naquilo que falámos.
+
+Rita Joana   43:04
+E para o Alexandre responder? Sim.
+
+André Neiva   43:05
+E ia sugerir também uma reunião para explicar melhor AEE. Depois, naquele ponto que falaste legal.
+E aquilo que nós vamos ver, é é é tipo, OK, vamos precisar de autorização dos alunos, mas precisamos da autorização dos alunos. Antes, durante.
+
+Rita Joana   43:22
+Nós.
+
+André Neiva   43:26
+Porque, por exemplo.
+
+Rita Joana   43:26
+Não, eu acho na minha perspetiva, aquilo que é. Por exemplo, vamos imaginar, eu vou dar uma formação 25 horas? OKE, eu vou dizer que nós estamos num projeto, não é OAA fazer 11. Depois vamos ter que entender como é que se faz AA apresentação disso e eles da mesma maneira como têm que mandar documentos oficiais e assinados, inclusive, por exemplo, para utilizar o cartão de cidadão deles. Eles têm que dizer que é para.
+
+André Neiva   43:54
+11.
+
+Rita Joana   43:55
+Que é que era que é só para a formação e a luz. Até neste momento até fizemos um lá dizer que é só para fins de formação na forma Skol, ou seja, está mesmo a minha empresa, seja aquele documento tem que existir. AEAE vai ter que juntar. Se esse não é nas formas, na nas aulas online há 111 ferramenta que para que as aulas sejam mais eficazes. Entretanto, aí vai ter que encontrar a melhor a melhor frase para se dizer.
+
+Francisco Falcão   43:56
+São sim específico? Sim.
+
+André Neiva   44:22
+Depois.
+
+Rita Joana   44:25
+Não é apelativo, até não é mais que tudo mais apelativa e depois aquilo é No No primeiro dia, às vezes até se pode assinar no primeiro dia. Quer dizer, não posso assinar não peço desculpa no primeiro dia, não se não eles levantam-se e vão embora. Seja isso é uma coisa que eu vou ter que fazer anteriormente, não é a lhes dizer que lá fui.
+
+Francisco Falcão   44:40
+Não, não, Rita, deixa-me só, deixa-me só dizer-te uma coisa. É perfeitamente possível, obviamente, a gravação é uma coisa, mas, por exemplo, é perfeitamente possível ou não tratamento da imagem.
+Porque há aqui 2 há 2 momentos sob o ponto de vista jurídico, não é? Há o momento da gravação.
+
+Rita Joana   44:53
+OK.
+
+Francisco Falcão   44:58
+E há um momento de basicamente o tratamento.
+Da imagem e da informação mesmo sob o ponto de vista do que é que foi dito, não é animis ação dessa informação, por exemplo.
+Podemos ter aqui várias versões, dependendo de de de se os alunos aceitam ou não aceitam e se todos aceitam todos não aceitam.
+ISTO, por exemplo, se fosse feito live. Portanto, se o modelo corresse, eu estou a falar sobre o ponto de vista. Câmbio Trevisan tanto visualmente, se o modelo correr live, nós conseguíamos. Imagina que tu não tinhas dado autorização para que se processassem os dados das tuas expressões faciais do teu enfoque do teu engagement, OK?
+
+Rita Joana   45:21
+OK.
+Sim.
+OK.
+
+Francisco Falcão   45:39
+Tu IAS ter apenas o meu, o André e o Daniel.
+Em termos de média e as ter a nossa achu apenas os nossos. Portanto, a informação dessa pessoa era completamente retirada da ela. Não era processada, OK?
+Pronto, a única diferença é que neste momento nós gravamos e depois passamos pelo modelo.
+
+Rita Joana   45:54
+OK.
+
+Francisco Falcão   46:00
+Nós não conseguimos não gravar daquela pessoa.
+Pronto é basicamente só ISTO, no entanto, pode acontecer se dependendo do quão rápido acontecer isso ou não de nós.
+Conseguimos aqui uma evolução para conseguirmos processar a informação live e não termos que gravar. Depende um bocadinho do que é que for necessário, mas é possível. Temos, temos a informação.
+
+Rita Joana   46:22
+Mas, eu acho que é nesse por natação, sheet Ó, eu eu acho que acima de tudo, acho que é é vamos indo. Vamos imaginar eu até agora podia ter corrido, não é? Eu tenho uma turma agora e ninguém se importa com isso, não é? Fazíamos se calhar.
+
+Francisco Falcão   46:35
+Sim, sim, até porque é gravação. A gente apaga a gravação só para saberes, não é, portanto, as gravações. O que a gente faz e processa os dados e apaga a gravação, OK, só para teres essa também, mas isso tudo fica explícito. Isso tudo fica explícito, obviamente, portanto, a forma isso é obrigatório, não é? Quando tu dás autorização, tem que saber exatamente. Primeiro para quem aquela gravação vai servir segundo, qual é que vai ser a durabilidade daquela gravação e terceiro os dados que são retirados daquela gravação, de que forma é que são tratados? ISTO é, são analisados, por exemplo, porque.
+
+Rita Joana   46:39
+Exatamente mas, por exemplo.
+OK.
+Nenhuma disse, o André já tinha.
+Foi.
+
+Francisco Falcão   47:06
+Voltar um exemplo para mim como formando é me indiferente. Quem é que fez as perguntas?
+É me indiferente.
+
+Rita Joana   47:13
+OK.
+
+Francisco Falcão   47:14
+Para mim como aluno de uma aula se foi o João Manoel, o Pedro para mim é absolutamente irrelevante para mim. É irrelevante perceber que houve perguntas e que perguntas é que foram e quais é que foram as respostas?
+
+Rita Joana   47:19
+Ok.
+
+Francisco Falcão   47:25
+Porque isso é que pode adicionar informação a matéria ou ou adicionar forma de de explicar algo que Eu Não percebi.
+
+Rita Joana   47:32
+Exatamente é é, sim, esse é o esse é o foco, não é? Esse é exatamente.
+
+Francisco Falcão   47:33
+Pronto, portanto.
+Estás a ver, portanto, a questão é se se nós identificamos o aluno 1234 como aluno 1234 e não como aluno, António Pedro Manuel, João Joaquim.
+Na realidade é irrelevante, pois é uma questão de nós delinearmos.
+Como É Que É, é melhor fazê-lo. Eu sei que neste momento, se calhar os formandos estão um bocadinho a borrifar se para isso, mas estou a dizer Down the Line é este o ponto, Percebes?
+
+Rita Joana   47:54
+Melhor porque?
+Por exemplo, eu há quando saiu aquela o regime de proteção de dados. Antigamente as pessoas davam NOS o cartão de cidadão tranquilamente, não é tu tiravas cópia pronto quando veio essa cena, essa situação as empresas eu tinha, por exemplo, na mesma sala, quem me desse o cartão de cidadão OKE tinha outros que não dão.
+Assinam 111 documento e de veracidade, ou seja, eles assinam como aquilo que eles estão a dizer é exatamente a verídico, porque eu vou porque eu vou certificá-lo numa plataforma de e ele vai ter um documento oficial, por isso eu tenho que me salvaguardar de alguma maneira que aquilo que eu estou a pôr na minha na plataforma não é do do do Estado e que lhe vai sair um documento oficial que seja válido. Uma coisa eu ter um cartão de cidadão e errar naqueles naqueles naquele naqueles dados.
+
+Francisco Falcão   48:32
+Verdade.
+
+Rita Joana   48:53
+Outra coisa é a pessoa OKE. Acontece isso agora. Cada vez mais assinam a veracidade e Eu Não tenho acesso à cópia, por isso nós vamos NOS adaptando. OK olhe, você não, não, não aparece nada da sua imagem ou a pronto e vamos tentando percebendo o que é que o.
+
+Francisco Falcão   49:09
+Sim.
+Ainda tens, nesse caso concreto? Ainda tens outro problema, não é porque, por exemplo, eu vou dizer isso noutros noutros casos, mas não deixa de ser uma formação carta de caçador, por exemplo, não é chegas lá, não mostras o bi e agora vai o Joaquim, que faz 10 cartas de caçador pelo pelo pela Malta toda que lhe paga para ele e lá não é.
+É que cuidar mas não, mas é verdade, ISTO não é. E depois são apanhados a meio do do do percurso. Portanto, esse tipo de situação não é eu assino. Eu atesto que sou Manuel Joaquim. Passado 3 semanas vai AA Castro Verde e eu atesto que sou o António Pedro depois vai a Castelo Branco, eu atesto que não sei quê, portanto é o mesmo tipo, é fazer os testes e vários sítios, não é?
+
+Rita Joana   49:52
+Exato exato.
+
+Francisco Falcão   49:53
+Portanto, o Tema é lá está nas formações também. Certamente acredito que possa algures no tempo começar a acontecer isso e claro que a gravação aí se a gravação ficasse depositada, aí era um problema para eles, não é para essas pessoas.
+
+Rita Joana   50:00
+Alguns.
+Claro.
+Claro.
+Sim.
+Certo.
+Live.
+
+Francisco Falcão   50:36
+Mais já puxou essa informação toda, portanto, não nem sequer grava, não é?
+
+Rita Joana   50:39
+Tu não gravas nem tens acesso. Aquilo foi momentâneo e acabou o capa.
+
+Francisco Falcão   50:41
+Não.
+
+André Neiva   50:43
+Depois.
+
+Francisco Falcão   50:43
+Tal como é a transcrição? Exemplo, neste momento, nós, o André, já está a ter acesso à transcrição está a ser feita automaticamente, não é? Depois essa transcrição entra num modelo que vai fazer um resumo, não é? E que vai fazer aqueles pontos que deve haver. Um relatório é mesma coisa acontece relativamente à parte gráfica, não é que identifica ali as médias e os comportamentos e estes especiais é exatamente a mesma coisa.
+
+Rita Joana   51:03
+Sim sim, sim.
+
+Francisco Falcão   51:06
+Enquanto que agora ele faz a transcrição e só depois é que corre no modelo, enquanto que agora grave e só depois é que corre no modelo Na Na quando estiver em pleno funcionamento, o modelo vai correr automaticamente em cima do da da da, da do vídeo e em cima da transcrição.
+Vai ser mais rápido e não vai permitir, não vai ter 2 passos, vai ser tão vai ser só um passo. Percebes? Vai ser só um.
+
+Rita Joana   51:24
+Para ser mais rápido, sim.
+O passo exatamente.
+E se calhar aí a mesma autorização passa a ser bem mais bem mais fácil, digo eu.
+
+André Neiva   51:35
+Sim.
+
+Francisco Falcão   51:36
+É só dos dados, é só que autoriza que o tratamento de dados na realidade já não existe. O Tema da gravação não é?
+
+Rita Joana   51:38
+Exato.
+
+André Neiva   51:44
+11.
+
+Francisco Falcão   51:44
+É basicamente só isso.
+
+André Neiva   51:46
+OK.
+
+Rita Joana   51:47
+Muito bem.
+
+André Neiva   51:48
+Olha para garantir que que temos 11 score máximo na eficácia da reunião para.
+
+Francisco Falcão   51:53
+Esta rir e estás a ver se consegues melhorar o índice de rir.
+
+André Neiva   51:55
+Então aqui um bocadinho para ver se aparece.
+Bem, olha, sabes, Lembrei-me, Lembrei-me aos 50 minutos, eu eu vou aparecer outra vez de carrancudo a, mas pronto é 11 coisa é Rita em termos de próximos passos. Eu então vou mandar um e-mail à Universidade do Minho.
+
+Rita Joana   51:58
+É para ver se o índice melhor.
+
+André Neiva   52:12
+Eu coloco, tenho cópia EE olha, eu vou ver esta questão com os advogados. Aliás, nós vamos ver esta questão com os advogados esta parte toda legal. Qual a melhor forma de fazer se é uma declaração? Se for uma declaração, nós até podemos ter essa essa declaração que é mais fácil para TI.
+
+Rita Joana   52:12
+É facilmente.
+
+André Neiva   52:30
+EEE, depois, se conseguirmos lá com a tua formação com a Trang Neiva.
+
+Rita Joana   52:36
+Era espectacular.
+
+André Neiva   52:37
+Engraçado é engraçado Hoje em dia, Hoje em dia, Hoje em dia trans na é bom nome péssimo. Não é porque dá ideia que é o os niveis transexuais neste mundo Hulk os gajos deviam mudar de nomes a trans trans parnahyba.
+
+Francisco Falcão   52:48
+Realmente tens uma imaginação. Olha que Eu Não tinha pensado nessa nessa perspetiva.
+
+André Neiva   52:52
+K.
+
+Rita Joana   52:52
+Já é ser.
+
+André Neiva   52:52
+Eu trouxe.
+
+Francisco Falcão   52:53
+Primeiro, o primeiro nem tinha pensado no Neiva e segundo na no trans, mas realmente segue.
+
+André Neiva   52:57
+Foi.
+Eu como tenho Neiva.
+
+Francisco Falcão   52:59
+Estás mesmo eu agora que estou a perceber que estás mesmo em baixo?
+
+Rita Joana   53:00
+Nesta calhar, eles vão ser combinados.
+
+Francisco Falcão   53:02
+Ele está mesmo em baixo, Rita está está mesmo? Já percebi a semana correu lhe mesmo mal a semana correu lhe mesmo mal.
+
+André Neiva   53:02
+Eu, como tenho Neiva, nunca me chamaram trans Neiva, mas mas quem sabe um dia.
+
+Francisco Falcão   53:11
+Para ele estar com este tipo de pensamentos, a semana com outro mal.
+
+André Neiva   53:13
+É pá ISTO e tu sabes, está a correr mal, mas mas.
+
+Rita Joana   53:19
+Mas ainda falta.
+
+Francisco Falcão   53:19
+Olha, para mim posso desculpa lá, mas pode ser outra coisa. Pode ser transformar a semana do Neiva também pode ser assim, não é? Estás a ver. É sempre uma forma de ver a coisa.
+
+André Neiva   53:19
+Portanto.
+Bota olha, estás a ver olha é.
+
+Rita Joana   53:26
+Então uma questão de perspetiva.
+
+André Neiva   53:28
+É.
+É.
+
+Rita Joana   53:30
+Não vejam isso eu eu Hoje de tarde vou efetivamente, vou agora começar a ver acesso, acesso à informação vai arrancar ou não, porque depois o importante é conseguir essa aceitação passa a ser aceite, são 25 horas. Acho que vocês vão. Acho que é muito já é, já já já é.
+
+André Neiva   53:45
+Depois.
+
+Francisco Falcão   53:49
+É relevante e importante, era importante para nós.
+
+Rita Joana   53:51
+Já já começa a ser.
+Não é, é?
+
+André Neiva   53:53
+Irrita.
+Sim, sim e não a única coisa que a dizer é olha. E a parte mais importante é nós vamos te mandar. O relatório do resumo desta reunião que estamos a ter se tu quiseres falar com a formadora.
+
+Rita Joana   53:55
+O quê?
+
+André Neiva   54:07
+É que dessa formação sobre mostrar-lhe o relatório, dizer, olha, podemos fazer ISTO é uma coisa gira EEE tirar aqui ao pode tirar também alguns insights. Ela para ela própria, não é, mas começar já para não deixarmos também a última, mas já já termos esse engagement da da formadora potencial até algumas questões que ela tenha.
+
+Rita Joana   54:12
+Sim sim, sim.
+Sim sim e.
+Sim e daí eu e eu e eu estava-me a lembrar, eu tenho a certeza que dei uma formação em que esta coisinha vermelha estava ligada. Eu tenho que saber quem é que está a vermelho a todos e agravar a gravar. Eu tenho ideia de de de de nós termos. Eu Não sei se foi a minha formação de coaching que fiz no em Lisboa, porque inscrevi me numa formação e era online.
+
+André Neiva   54:27
+A.
+O quê?
+Depois linha vermelha.
+
+Daniel Furtado   54:38
+A gravação.
+
+André Neiva   54:40
+Vá vá.
+
+Rita Joana   54:51
+Honestamente, Eu Não sei, mas sei que que lembro-me disto deste cenário de estar, de de e de estar a gravar. Não sei se era live, também não sei, não, isso não, não, não, não consigo dizer iá, porque às vezes nós, por exemplo, esta formadora que dá no país inteiro e tem grandes superfícies, não é. Estamos a falar de uma formadora que dá no Luar que dá pronto se calhar essas coisas, não é? Em termos de gravação, já pode estar às vezes até bem mais, sendo já podem estar formadores bem mais sensíveis.
+
+André Neiva   54:59
+11.
+
+Rita Joana   55:22
+ISTO não é? E eu falei com os meus.
+
+André Neiva   55:22
+11.
+
+Rita Joana   55:24
+Da maneira ai não sei se queria ai menos pronto vamos tentar.
+
+André Neiva   55:24
+Mais.
+Mas, mas acho que também vendo aquilo que sai depois, acho que também dá.
+
+Rita Joana   55:34
+Esta diferente, é diferente.
+
+André Neiva   55:35
+Deixa de ser menos Big Brother e passa a ser mais do K está uma ferramenta de auxílio, não é?
+
+Rita Joana   55:40
+Sim sim é exatamente o caso. Pensa nisso nesse nesse nome de dizer em Big Brother e só que eu pensei não, não ainda iam dizer.
+
+André Neiva   55:40
+A andarem por aí.
+
+Francisco Falcão   55:41
+E.
+EE.
+
+André Neiva   55:46
+Pronto.
+
+Francisco Falcão   55:46
+EE também eu ó Rita explicar que basicamente a gravação é só. É só na realidade para este intuito EEE é automaticamente apagada, portanto é é só essa a questão.
+
+Rita Joana   55:52
+Exatamente.
+E as pessoas estão sempre a ser filmadas.
+
+Francisco Falcão   55:57
+Esta formação seria quando grita.
+Desculpa.
+
+Rita Joana   56:00
+Estou sempre a ser filmadas Hoje em dia, às vezes é só mesmo por não e nós passamos a vida a ser filmados.
+
+André Neiva   56:02
+É.
+Tá.
+
+Francisco Falcão   56:07
+Rita, só uma coisa informação seria pra quando essa formação.
+
+Rita Joana   56:08
+Eu digo.
+Eu vi-te, olha. Esta formação técnica de vendas. Se Eu não tivesse tido esta situação de termos 2 formandos que que são de Lisboa, era para. Para ontem ia ser 2 dias por semana, se calhar terças e quintas e é mas pronto. Estamos neste momento com esta situação que não posso. Angry Birds não a transbordar, negociar se vai pagar, OK, agora o que tem em cima da mesa é o pagámos e fazemos o.
+
+Francisco Falcão   56:29
+OK está pendente, mas certo.
+
+Rita Joana   56:40
+Vamos, vamos esperar para ter uma formação grátis.
+Mas têm que ter, mas têm de cumprir requisitos, OK, então o que é que está aqui neste momento? O que está em cima da mesa e outro engenheiro apaga me não é pá gaguinho pronto, o que está em cima não é ou vai me pagar, ou seja, vai pagar porque ela precisa desta formação e Então Vai mete Toda A Gente a nível nacional ou então para ter formação gratuita, tem que ter requisitos e o que está em cima da mesa neste momento?
+
+Francisco Falcão   56:47
+OK.
+Sim sim, sim.
+
+André Neiva   57:08
+Portanto, é quando é que sabes alguma coisa, quando é que sabes alguma coisa, se é que vais saber.
+
+Rita Joana   57:09
+Se não, eu tinha já uma.
+Olha eu o meu posso pronto eu eu posso saber agora até inclusive se mandar um WhatsApp perguntar não é? Olha, como é que as coisas estão se falares com o teu bolso?
+
+André Neiva   57:22
+Perguntar ao Neiva, como é que pergunta lá Neiva, como é que tem?
+
+Rita Joana   57:22
+Já.
+Como é que ela não é? É tão simples como perceber como é que como é que as coisas estão e eu depois posso vos dar OOO feedback disso de perceber como é que essa turma, mas o mais interessante e pronto eu posso ter esta e esta pode esperar pronto, eu como não sei, mas a questão é que é assim. O facto de ontem a consultora ter dito que nós estamos completamente à vontade, desde que formando a.
+
+André Neiva   57:31
+OK.
+
+Rita Joana   57:48
+Desde que o formando possa dizer baixa, ter autorização do formando. Deixa-me logo muito mais tranquila, OK, porque outra coisa era chegar à vossa beira da mesma maneira das formações do Ifmt e dizer, Olha, Eu Não consigo ajudar porque o Ifmt não deixa se ela dissesse ou pessoas 2030 não autoriza, não quer não, Eu Não posso, não é porque, como vocês sabem, eles são meus patrocinadores, não é? E eu tenho uma série de de não é, eu tenho, eu tenho uma série de requisitos a cumprir por isso, o que significa que aqui iríamos passar para outro.
+
+André Neiva   57:55
+11.
+
+Francisco Falcão   58:10
+Repare perde perde-se claro que perdes os sim.
+
+André Neiva   58:11
+Pois.
+Pois.
+
+Francisco Falcão   58:16
+Sim.
+
+Rita Joana   58:19
+Acho que é OQ eu como forma School, arrancar uma turma online que não acontece com frequência. Estou a tentar fazer a de tacógrafos online. Aquilo que eu vos disse não é pronto, ou seja, está todo e eu estou a trabalhar para conseguir resolver.
+
+André Neiva   58:28
+K.
+
+Rita Joana   58:33
+Dessa maneira, o que esta formação on-line não, não financiada pronto o facto de eles dizerem que ia que, desde que o formando assine, não é o anão e ou autorização pronto nós temos. Então aqui já temos muita mais margem para poder trabalhar, percebem?
+
+André Neiva   58:51
+K.
+
+Rita Joana   58:51
+AE, pronto Eu Não está, não está esquecido e está e eu quero fazer isso o mais rápido possível para vocês começarem também a ter dados e começarem a perceber como é que como é que pode ser. Também não sei quem é que neste momento já está a fazer formação financiada online. Não é porque, senão até imagina que alguma empresa que eu conheço não é era é só passar informação e olha, estás disposto dá, porque basicamente nós não podemos nada, não é? Quer dizer, a questão aqui é que é assim.
+
+André Neiva   58:58
+Boa.
+Claro.
+
+Rita Joana   59:21
+Madeira e abrir a plataforma do da da da maneira que vocês vão enviar, digamos assim, não é. Neste momento não há nada, é tecnicamente difícil para criar a formação, certo? Vocês devem mandar um link. Não sei como é que como é que Há de Ser. Imagina que agora a formação começa amanhã?
+
+Francisco Falcão   59:38
+Na realidade.
+
+Rita Joana   59:40
+Como é que se faz?
+
+Francisco Falcão   59:41
+Eu acho que se calhar até até até podemos explicar isso assim, sim, muito, muito facilmente.
+
+André Neiva   59:41
+OK.
+
+Francisco Falcão   59:46
+Tu, normalmente as formações online são dadas em Q Time em zoom em quê?
+
+Rita Joana   59:54
+Ana as nossas a eu acho que é ótimo do ifmt, não é porque é o que eu tenho. É ótimo.
+
+Francisco Falcão   1:00:00
+Temos pronto, pronto, estou a dar aqui um exemplo pronto, temos que estamos a usar agora.
+É André, quer explicar o Daniel que eu sou o menos técnico possível aqui, mas eu posso explicar pronto.
+
+Rita Joana   1:00:11
+O Daniel, vem consolidar o Daniel, não é?
+
+André Neiva   1:00:11
+Miguel anda lá, estás a falar pouco, Daniel.
+
+Daniel Furtado   1:00:13
+Posso falar eu posso falar eu então a.
+
+Francisco Falcão   1:00:15
+Alto pronto já vai começar a contar aqui para os índices. Daniel, para já estava sempre lá a linha flat.
+
+Daniel Furtado   1:00:18
+Certo já.
+Para ganhar pontos a.
+
+Francisco Falcão   1:00:24
+Para ganhar pode exatamente.
+
+Daniel Furtado   1:00:26
+Então o processo que ISTO normalmente tem era na reunião pronto a Rita, se calhar devia dar formação a formadora estar a dar formação a nós íamos ter 111 pessoa ou num caso mais avançado, iria ser até mesmo um bote, ou seja, o próprio computador, uma aplicação iria pedir permissão para entrar na reunião.
+Ou seja, o formador convidava o essa essa pessoa por nós. Por nossa parte, o esse essa aplicação e pedir permissão para entrar.
+A juntava se a chamada e depois até podia até permissão, escreveu. Mandar uma Mensagem ou caso já estivessem aceitar essa autorização de ser gravada ou de ser recolhidos dados ele, numa fase inicial, talvez começasse a gravar chamada mas Oo perfeito seria no NOS. No espaço mais avançados era mesmo como Doutor Francisco disse, era não gravar isso, apenas fazer aquilo Live, recolher os dados, recolher a transcrição também live.
+EEE. Depois, numa segunda fase era pegar nesses dados, ou seja, ter os dados das informações da do engagement e os dados da transcrição. E depois esse esse, esses dados iriam passar num modelo em que esses irão ser tratados os dados porque a transcrição só coroa não pronto, não fornece. Temos que fazer o resumo dessa transcrição, os pronto, os destaques é assim.
+
+Francisco Falcão   1:01:30
+E processaram.
+
+Daniel Furtado   1:01:53
+E colocamos isso todo num numa espécie de um relatório que é uma página web na Internet e depois esse essa página, que é um link, irá ser enviado para cada pessoa, não é para para a pessoa específico que ela recebe no e-mail ou ou por onde ela preferir.
+
+Francisco Falcão   1:02:11
+Não.
+
+André Neiva   1:02:11
+E.
+
+Francisco Falcão   1:02:11
+Eu no momento atual, Rita só para dizer no momento atual, portanto, o que acontece é existe a entrada de um aluno da mi OK, portanto.
+
+Rita Joana   1:02:11
+OK.
+
+André Neiva   1:02:13
+K.
+
+Francisco Falcão   1:02:19
+Na realidade.
+Mas vamos imaginar que nós éramos os que tínhamos aqui o formador e que nós éramos os alunos, certo? Entravam quinto aluno, que era que não era aluno que era basicamente 11 domingo.
+Havendo já autorização de todos.
+
+André Neiva   1:02:33
+Então e até a Câmara não e até Câmara.
+
+Francisco Falcão   1:02:35
+Não tinha, não tinha Câmera, portanto não aparecia essa pessoa ali, não é, portanto, é é é. É como se tivesse aqui uma pessoa sem Câmera, não é pronto.
+E essa pessoa coloca o.
+OAAA formação a gravar.
+E a transcrição da gravação, a transcrição da da aula e basicamente a seguir entrega o relatório a cada um e obviamente, ao formador com base no que ficar combinado. Não é ISTO a começar amanhã, OK?
+É que na realidade é exatamente o que acontece agora, só que agora estamos todos com Câmera. Aqui abriu 111 quinta pessoa que pode ser um bote que é basicamente uma realidade, não é uma pessoa, é é um agente, não é é virtual que entra, grava.
+Os seus dados todos e no final a.
+Procede ao processamento desses dados por forma a criar um relatório. Basicamente é ISTO, OK?
+Portanto, amanhã é assim que funciona.
+No, no segunda, na segunda etapa, como o Daniel Tava a dizer e que também já falamos, isso tudo será live. Portanto não há, não há gravação.
+
+Rita Joana   1:03:44
+OK.
+E eu peço desculpa, mas eu mandei aqui um WhatsApp, mas eu como sou mulher, consigo fazer 2 coisas ao mesmo tempo, está mandei aqui no WhatsApp e ela quer Rita, posso te ligar pronto eu, entretanto já vou saber o que é que, Como É Que É questão é vamos imaginar que ela diz, olha, consegui, consegui aqui os formadores, é preciso arrancar etc. Qual é a melhor frase numa frase simples básica, depois, em termos de contexto na área da formação, nós temos que ser muito explicar de uma forma simples aquilo que é para fazer.
+Qual é a frase? Ou seja, vocês estão aqui os 3 qual é aqui ou ou qual é a melhor? A melhor forma de eu vender, digamos assim, esta a possibilidade de a próxima formação online que eu tiver. Como é que eu o responsável digo, Olha, eu tenho aqui uma eu eu digo já como é que eu dizia, não é, mas Eu Não posso, não é pá, têm que ser vocês a dizer que porque eu era capaz não é, olha lá, trata disso, é rápido, está bem, eu preciso disto é um projeto que.
+Pelo.
+
+André Neiva   1:04:42
+K.
+
+Rita Joana   1:04:42
+Mas pronto preciso usar os formadores formandos, porque aquilo depois, sem os relatórios e uma pessoa consegue ver a eficácia daquilo que é interessante, pois eles recebem por e-mail pronto. Eu Não posso dizer ISTO assim, certo?
+Quer dizer, posso, mas não posso dizer assim, tenho que dizer de uma forma mais organizada, Ka, por isso digam-me qual é AA melhor frase que assim de uma forma mesmo muito redutora redutora no sentido de de redução das palavras para dizer a vantagem, até podíamos ir só pela vantagem. Não é pronto a parte que implica autorização. Pronto, a formação vai ser gravada, OK, vai ser gravada porque depois nós vamos precisar de retirar de lá dados, mas esta ferramenta lê.
+Exatamente a eficácia do que aconteceu naquela determinadas horas.
+Certo.
+
+Daniel Furtado   1:05:28
+Sim.
+
+André Neiva   1:05:29
+Certo.
+
+Rita Joana   1:05:30
+Mais ou menos?
+Onde é que e depois? O próximo passo é o relatório. O formador recebe um ou porque eu tenho que dizer? Os formatos só se formando, não tiver interesse. Numa primeira fase, os formandos têm todos interesse em receber, certo? O relatório?
+
+André Neiva   1:05:43
+Sim.
+Sim.
+
+Rita Joana   1:05:47
+Da dos.
+
+Francisco Falcão   1:05:47
+E daí à partida? Sim, eu diria a partida a partida. André Queres?
+
+André Neiva   1:05:49
+Tenho.
+
+Rita Joana   1:05:49
+À partida, não é?
+
+Francisco Falcão   1:05:53
+Quer.
+
+André Neiva   1:05:53
+Tenho dá não pode, pode.
+
+Francisco Falcão   1:05:54
+E as inspirar-te depois da semana, quer se inspirar depois desta semana dura? Ou queres que eu?
+
+Rita Joana   1:05:55
+Diz todo.
+
+André Neiva   1:05:59
+Não, mas eu Eu Não, mas eu diria, tipo não, não se quiseres, eu acho que estás inspirado. Estou-te a ver, é inspirado.
+
+Francisco Falcão   1:06:04
+Eu Não, mas Eu Não estou nada, eu estou, estou-te a fazer rico. Já estou a ficar contente, anda lá.
+
+André Neiva   1:06:05
+K.
+OK Olha ISTO Rita e eu dizia assim o formador.
+Vai receber Oo de uma forma agregada aquilo que se passou na turma e vai ver os momentos em que perdeu os alunos em que ganham os alunos. Que tipo de perguntas é que os alunos fizeram? Vai ter isso tudo guardado, não é? Como visto no relatório.
+
+Rita Joana   1:06:25
+Certo.
+
+André Neiva   1:06:25
+Cada um dos alunos vai ver para si próprio. Vai, vai ter uma parte comum a todos, que é aquela o SMART Dalla os os pontos fundamentais e vai haver para ele próprio ou ela própria. Quais foram os momentos da aula com menos atenção? Vai ter recomendações, por exemplo. Por exemplo, o Daniel vai receber agora uma recomendação que, eh pá, devias ter falado mais porque nós sabemos quem participa mais na aula.
+A tenho uma melhor performance, por exemplo.
+Ele vai ter negativa no teste agora e.
+
+Rita Joana   1:06:57
+E eu e eu e eu também só tinha essa melhor, a minha melhor performance nas aulas secundário era essa. Não era nas novas.
+
+André Neiva   1:07:00
+K.
+
+Francisco Falcão   1:07:02
+Mas tu mas tu participavas muito.
+
+André Neiva   1:07:02
+Exato.
+Exato.
+A.
+
+Francisco Falcão   1:07:07
+Participavas para o lado, participavas para o lado.
+
+André Neiva   1:07:10
+Mas mas pronto o aluno vai ter essa parte personalizada para para para ela ou ela de de como é que o que é que se passou naquela aula, o que é que o que é que aprendeu, quais são os pontos mais fracos, EE coisas que pode melhorar coisas que vão ser gerais e coisas específicas ao conteúdo da aula.
+
+Rita Joana   1:07:24
+OK.
+OK, portanto.
+
+Francisco Falcão   1:07:29
+Mas é o Rita, eu por acaso acho que que eu como ISTO é o detalhado, mas aquele ponto tu disseste não é, portanto, tu consegues através da do do sistema consegues medir a eficácia?
+Da formação ISTO para o formador, não é? Ele consegue lá está Como Eu estava a dizer ver os vários momentos em que as coisas correram melhor e pior em termos de conteúdo da da turma de forma agregada e etc. Mas mesmo isso aconteceu NOS ontem. ISTO é mais um aparte, nem é aconteceu NOS ontem, na reunião, que é o próprio formador em causa, ou neste caso o professor não é é o Diogo, é dá formação de direito, salvo erro fiscal a não juristas.
+E o que ele dizia, eu tenho um problema que é maior parte dos manuais, são extremamente técnicos.
+
+Rita Joana   1:08:15
+Sim.
+
+Francisco Falcão   1:08:15
+E, portanto, como as pessoas a quem eu estou a dar à formação, são juristas.
+Bem os manuais que eu introduzo, tenho termos técnicos sobre o ponto de vista de de de de de de advocacia. Não é que a maior parte dos não juristas não compreende e, portanto, ISTO permite-me estes resumos das aulas que eu dou e das explicações que eu dou permite-me criar quase um manual, um conjunto de slides muito mais adaptado.
+A realidade dos meus alunos?
+Pronto, portanto, ISTO para o formador é permite não só medir a eficácia daquela formação que ele deu, mas também melhorar ou ajudar a melhorar os conteúdos que ele apresentou.
+
+Rita Joana   1:08:44
+Claro.
+Exatamente sim, sim.
+
+Francisco Falcão   1:08:57
+Porque, dependendo, dependendo da audiência que ele vai encontrar, pronto.
+Por um lado do aluno, EU acho que Oo os pontos que o André mencionou são exatamente ou os fulcrais. Não é que é tu teres num resumo, o que foi dado numa formação ponto número 1 e depois teres os Highlights. Todos quer dizer tens entre aspas a Papinha tens o tens um tens AA aula como um todo e depois tens os Highlights todos do que é que foi dado, não é, quer dizer é é fazer-te um resumo em vez de ser tudo em vez de seres tu a tirares notas e a máquina a tirar notas por TI não é, basicamente é ISTO.
+
+Rita Joana   1:09:07
+O que tem que ser porque tem?
+Sim, sim, sim, sim, sim, só vejo vantagens pronto, mas tudo bem, não é, não é beijo, não é? Eu vejo e digo-vos mais, digo mais cada vez mais vejo naquilo que que é minha experiência, o kde tu efetivamente a primeira coisa que tu fazes quando acaba uma formação numa empresa e ligar formador correu bem. Ele sim, correu, mas pronto. Agora temos que ver a avaliação e não sei quê, quer dizer, foi uma dor, disse não e depois tu ligas para o diretor de recursos humanos que diz, Ai tive um bom feedback, correu tudo muito bem e não sei quê e se calhar.
+Formandos passaram mais tempo a ir à casa de banho do que propriamente da sala.
+Perto e eu nunca vou saber, não é tu ouves sempre o que é que como é que foi a eficácia das pessoas que quiserem falar e a quem tu efetivamente ligas não é? EEO formador é logo o formador, é é a primeira pessoa a quem uma pessoa liga no final de cada formação e dizer como é que como é que correu a formadores que dizem que foi uma seca porque os formandos não falam, não é não, são interativos, querem ir embora, estão fartos de olhar para o relógio pronto e aí a.
+
+André Neiva   1:10:30
+OK.
+
+Francisco Falcão   1:10:30
+Até.
+
+André Neiva   1:10:48
+Pois.
+
+Rita Joana   1:10:49
+Tens quando estás a fazer casos práticos, por exemplo.
+
+Francisco Falcão   1:10:49
+O.
+Estou aqui, consegues fazer uma coisa curiosa, por exemplo, nessa história dos casos práticos, tu como consegues, por exemplo, aquele relatório que é um bocadinho? Estávamos a mostrar EE depois aqui neste também, mas estou a dizer que que será feito. Dá para ver, por exemplo, por matéria. Não é porque tu sabes que como tu em cima tens os tópicos itens os períodos de tempo em que esses tópicos foram dados. Se fores ao gráfico, tu Veres imagina por matéria, independentemente das pessoas, não é no agregado por matéria que é o formador vai ver em que alturas em que houve mais participação.
+
+Rita Joana   1:11:11
+Certo.
+
+Francisco Falcão   1:11:22
+Ele consegue ver imagina. Numa determinada altura, houve imensas perguntas, portanto, houve ali um Tema que despoletou, eh pá imensa intervenção, não é?
+
+Rita Joana   1:11:30
+Não? Sim, sim.
+
+Francisco Falcão   1:11:31
+EEE ele vai se lembrar, nós não, mas ele vai se lembrar, OK? Este foi aquela altura em que eu fiz esta em que eu basicamente introduzi este Tema, pá, e ninguém percebeu nada. Eu tive que responder ou Toda A Gente achou que foi muito interessante e ISTO se calhar este esta forma como introduzi é diferente das outras que eu tinha introduzido nas outras formações. Pai vai passar a ser esta que eu vou que eu vou introduzir. ISTO é só para dar um exemplo ao formador, como é que ISTO pode ser utilizado positivamente para ele, melhorar também a forma como como dá formação, não é?
+
+Rita Joana   1:11:56
+K.
+
+André Neiva   1:11:57
+Certo.
+
+Francisco Falcão   1:12:03
+E isso é corroborado e isso depois é corroborado uma parte, uma parte muito engraçada, que é quando tu vais ver ou por aluno ou por ou no agregado. Como é que foi o enfoque engagement ou até as expressões faciais?
+
+Rita Joana   1:12:04
+Sim, sim, eu sei.
+
+Francisco Falcão   1:12:19
+Do do de cada um, e tu vais ver que nessa altura, por exemplo, há muito mais gente o espantada, portanto, admirada, não é?
+Eu Não percebeu nada ou basicamente que é basicamente tipo a franzir a as as sobrancelhas tipo, eh pá, que é que este tipo está aqui a dizer não é? Ou então basicamente entusiasmado, não é? Portanto, contente em pá tem motivado EEEA verdade é que consegues cruzar essa informação porque tu sabes exatamente é consegues cruzar isso e como tens os temas até consegues ir por Tema e filtrar por Tema, não precisa de andar ali a tentar ver o gráfico ali com uns pontinhos.
+
+Rita Joana   1:12:29
+Certo.
+Nada.
+
+André Neiva   1:12:45
+Bem.
+
+Rita Joana   1:12:51
+Nessa leitura.
+
+André Neiva   1:12:55
+Olha.
+
+Francisco Falcão   1:13:02
+Não é pões os temas pá, ISTO realmente deve ter sido este Tema que eu pus aqui vais lá acima metes o Tema filtros pelo Tema é verdade, está aqui está está é verdade e as pessoas estavam efetivamente contentes com com o Tema, não é?
+
+André Neiva   1:13:15
+Olha Rita.
+
+Francisco Falcão   1:13:15
+Portanto, como entidade formadora, tu como entidade formadora também consegues ter essa essa, digamos essa essa esse granular do quão positivo a formação foi em que períodos não é?
+
+Rita Joana   1:13:30
+Sim, sim, e aí depois a outra a uma coisa que nós temos que desmistificar cada vez mais. A formação financiada que ela é quando eles dizem e aquilo é uma são muito claras, mas é uma seca, aquelas pessoas que só são as chamadas Papa, Papa, cursos, não é que é só serão inscritos inscrever porque vão receber um subsídio e nós a Lua de cada vez mais ainda noutro dia tivemos um encontro das entidades formadoras e a dgert e as pessoas que NOS certificam também era é tentar desmistificar porque ter uma formação gratuita de inglês não.
+
+Francisco Falcão   1:13:46
+Hein.
+
+André Neiva   1:13:46
+É.
+
+Rita Joana   1:14:01
+Pode ser só para teres um certificado para ir lá buscar o não é. Tem que ter um formador, tem que ser apelativo. Um formador bom é aquele que tu fazes 25 horas com ele e ele tem a turma que transita para a próxima 25 para as 25 horas. OKE esta estes, estas coisas começassem a ser implementadas. O próprio formador consegue numa turma de 20, começar a perceber que, ao invés de pôr um caso prático, quando 2 não é consegue se analisar de outra maneira, ou seja, este sistema começa a ajuda as pessoas a pensar também, não é?
+
+Francisco Falcão   1:14:05
+Sim.
+
+André Neiva   1:14:06
+Claro.
+
+Rita Joana   1:14:32
+Porque Hoje em dia, os formadores e os professores têm uma linha que eles próprios também nem sabiam que tinham que ia avançar. Não é porque os professores pronto tudo era aquilo era.
+
+Francisco Falcão   1:14:41
+Eu.
+
+André Neiva   1:14:42
+É.
+
+Rita Joana   1:14:42
+E Hoje as coisas têm que ser e aqui esta ferramenta pode ajudar. Ou seja, aquilo é uma, é uma fotografia do que ele fez, por isso não é. Olha, tens que fazer assim, não é? Ou seja, o formador aquilo é uma fotografia do que ele fez e ele pode, aquilo vai me ajudar a pensar e ele melhorar, percebes? E eu como como agora.
+
+André Neiva   1:15:00
+Olha.
+IPO, Rita, nós nós temos um caso engraçado, nós 111, entidade formadora com quem nós nós colaboramos numa formações e o formador nós nós tivemos um relatório um bocadinho mais massudo que este que mostramos era um relatório bem longo, mas houve uma coisa super engraçada quando nós fizemos a correlação com os temas.
+
+Rita Joana   1:15:02
+Era top.
+
+André Neiva   1:15:20
+Nós vimos uma quebra de engagement quando ele passou um vídeo, ele disse, Eh pá, ISTO não pode ser porque o pessoal adora. Quando eu passo, passo um vídeo só com o que se passou o vídeo em inglês e haver pessoas que não falavam inglês. Ele fez tradução simultânea, então tinhas os alunos dele, é pá, se calhar não corre bem o vídeo se calhar. Tenho que pensar quando há uma turma que não falam inglês, que este vídeo, afinal, não tem o resultado esperado. Foi para mim, foi um exemplo. Já usei algumas vezes que eu acho que veio, foi super engraçado.
+
+Rita Joana   1:15:48
+Para mim, tinham que ter logo não é não para logo de urgência, para mim tinha que ser logo assim, ó com Fontes, brincar, estou a brincar, não, não há, não há, não eras línguas que eu falo melhor português.
+
+André Neiva   1:15:53
+Pois.
+K.
+
+Rita Joana   1:16:02
+E eu lá melhor.
+Pronto, olha, parece-me pronto, olha, eu vou ligar eu eu digo-vos já o que é que o que é que ficou conversado aqui?
+
+André Neiva   1:16:05
+É.
+K.
+
+Rita Joana   1:16:14
+Nah Trang Neiva que e pronto e aí tentar agilizar ISTO. Tenho muito interesse em que vocês que se consiga agilizar o mais rápido possível uma percebem para vocês começarem também AA pronto AA perceber a já percebi que fisicamente vocês isso já está tudo mais ou menos orientado, não é as presenciais certo.
+
+André Neiva   1:16:37
+Por acaso.
+
+Rita Joana   1:16:37
+Presenciais, vocês não têm tanto interesse, não é?
+
+Francisco Falcão   1:16:37
+Sim.
+Vamos precisar eu vou e força.
+
+André Neiva   1:16:39
+Temos mais.
+Não, não estamos a dizer tipo online e é mais fácil para nós, porque pá as pessoas podem estar sentadas onde quiserem nós na parte do presidencial, ainda não temos bem feita e transcrição porque não temos. Nós temos a parte vídeo, mas não temos a parte de voz ainda ainda, mas o objetivo é termos.
+
+Rita Joana   1:16:47
+Claro.
+OK, mas aí, por exemplo, estás numa sala. Vocês têm que trazer algum alguma ferramenta, não é? Mas está OK.
+
+André Neiva   1:17:04
+Sim equipamento sim.
+
+Francisco Falcão   1:17:05
+Fazemos.
+Sim.
+
+André Neiva   1:17:07
+Sim, nós temos equipamento.
+
+Francisco Falcão   1:17:07
+Mas No No nas formações que foram feitas as offline, portanto, em sala presencial, basicamente eram utilizadas 2 câmaras. No caso porque basicamente, como era uma sala flat, não era anfiteatro, não é tu tinhas 11 quebra que apanhava as primeiras filas depois uma outra Câmera que apanhava as filas de trás. Não é? Portanto, aquilo tinha salvo erro mais do que sei quantas já não me recordo quantas filas e que tinha, mas tinha mais do que mais do que 2 e a primeira Câmara apanhava as primeiras filas, as primeiras 2 depois é a segunda que apanhava as outras.
+
+Rita Joana   1:17:15
+11.
+OK.
+OK.
+
+Francisco Falcão   1:17:37
+Atrás, basicamente é ISTO, mas o processamento é igual. Portanto, em termos de imagem, é exatamente igual. A única questão que nós ainda não validamos Na Na Na sala Física, portanto, tem aula física. É o Tema voz e o Tema vós que que pode ser desenvolvido de 2 maneiras. Obviamente a primeira, que é um bocadinho macarrónico, é haver um microfone em cada em cada local, não é? E aí era uma coisa quase no online, tu consegues identificar perfeitamente no lugar 1234, quem é que falou? Quem é que não falou?
+E a outra, obviamente, é uma em que cruza a imagem com o som é, por exemplo, estamos aqui. Eu estou a falar, não é a som, eu é que estou a mexer os lábios e basicamente eu tenho um modelo que corre e que diz O Francisco está a falar ao mesmo tempo, a voz que foi gravada naquele segundo era, era o que eu estou a dizer e, portanto, e esse associar a essa voz ao Francisco.
+OK, portanto, e as associar essa esses dizeres ao Francisco ou a Rita, o André ou a Daniel, que obviamente é mais difícil quando falam, por exemplo, em cima dos outros. Não é que às vezes acontece.
+Enquanto que no online isso é fácil, não é porque tu tens um microfone identifica no offline é mais difícil, isso é uma coisa. Outra é que como obviamente o em termos de eficiência não faz sentido ter um microfone para cada um, provavelmente vais pôr aqueles microfones de captação e vais ter um microfone de captação ou 2 para captar as vozes EE vais ter que ter este modelo desenvolvido para a leitura de quem é que está a falar ou quem é que não está, que não é uma coisa difícil, mas é uma coisa que nós ainda não testamos.
+
+Rita Joana   1:18:45
+Sim.
+Públicas.
+Sim.
+
+Francisco Falcão   1:19:15
+Tudo o que é basicamente visual, portanto, capitão, veja, já está testado e aliás, os modelos funcionarão primeiro com isso.
+E não com online, OK?
+
+Rita Joana   1:19:26
+OK.
+
+Francisco Falcão   1:19:26
+A transcrição voz e depois o relatório e que para já foi só feito com online, portanto só temos experiência nessa matéria no online, mas gostaríamos de estar offline. Depois estamos aqui a só a ver se fechamos o online, estás a ver se fechamos o Tema do online, isso refinamos ISTO e depois voltamos atrás. Voltamos à primeira interação e fechamos a primeira interação também na questão da da voz, não é?
+
+Rita Joana   1:19:42
+11.
+OK.
+Pronto, primeiro quarto.
+
+André Neiva   1:19:55
+Pronto olha.
+
+Rita Joana   1:19:57
+Tranquilo primeiro passo depois vocês o facto de eu receber este relatório também vou conseguir vender ISTO de maneira não consigo. Eu vou ter conteúdo para conseguir fazer, não é porque eu sou uma comercial, não é vocês que percebem, não é. Tem que saber nós quando para vender tens que dominar o produto e ao dominar se este relatório juda Na Na Na experiência que sabem, porque eu acho que é na experiência que nós evoluímos e eu ter visto, sei exatamente o que é que posso dizer, por exemplo, agora não é quando falar agora com a directora de recursos humanos e.
+
+André Neiva   1:19:57
+Vamos lá.
+
+Rita Joana   1:20:27
+Olha eu vou como vos disse eu vou eu vou lá pro X quer dizer está em cima da mesa. À partida, eles vão adjudicar o nosso, o nosso orçamento, mas e todo e todo presencial EE nas instalações de lá e se calhar isso não, mas tem porque é que isso não vai ter interesse para vocês porque eles vão andar NOS empilhadores.
+Certo, eles vão ter aulas prática.
+Eles vão dar imagina x horas no teórico, numa sala, e depois vêm para o armazém.
+
+Francisco Falcão   1:20:49
+Sim.
+
+Rita Joana   1:20:54
+E se calhar, vocês não, não sei, não sei como é que depois se calhar vocês, entretanto, não é. Estamos a falar. Tudo em sala não é? Não estamos a ir para. Como é que vocês analisam e se calhar não têm interesse em analisar questão prática não é? E então pronto, essas são as que estão assim em cima de pronto em cima da mesa para poder arrancar e eu dou-vos feedback Hoje ainda da da da transnet, não é porque ela está aqui, posso ligar Eu Não.
+
+André Neiva   1:20:56
+Depois.
+
+Francisco Falcão   1:21:05
+Não.
+
+André Neiva   1:21:22
+Olá.
+Boa bom então pronto ó pá, Eu acho que o objetivo foi atingido desta reunião, independentemente do que o modelo vai dizer agora e eficácia temos 30 minutos aí vai vai ser, vamos ser penalizados, mas mas Rita Pá muito obrigado a.
+
+Rita Joana   1:21:28
+Oi.
+Nada, nada. Nós estamos aqui para isso.
+
+André Neiva   1:21:40
+É.
+Eu, depois levo-te a Marbella?
+
+Rita Joana   1:21:44
+Corra melhor.
+
+André Neiva   1:21:44
+Vamos amar beber um cafezinho?
+
+Rita Joana   1:21:47
+Lá sim, quando vieres, quando vieres não sei, não é? Quando é que quando vem ISTO depois não tens tempo para nada. Percebes por isso?
+
+André Neiva   1:21:47
+Tá é é.
+OK.
+Tem tem tem tem para ti vou ter tempo.
+
+Rita Joana   1:21:55
+Arranjas um tempo, chicote também estava também estás mais perto, por isso, quando vieres, não é quer dizer tu tu Patinhas para o Dende.
+
+André Neiva   1:21:57
+Bem.
+
+Francisco Falcão   1:22:01
+Barba ela é mais próximo para para podermos ir mais vezes nós ele vai comer chocolates, mas é chocolates suíços, percebes?
+
+Rita Joana   1:22:07
+Suíços, ele tem.
+
+André Neiva   1:22:08
+Olha mais, mais depressa me vês a mim do que a ele que vivem perto de cada um.
+
+Francisco Falcão   1:22:08
+Suítes.
+
+Rita Joana   1:22:12
+Bem também.
+
+André Neiva   1:22:13
+Se calhar passa mais tempo aqui na Suíça do que eu na Marbella.
+
+Francisco Falcão   1:22:15
+Mas eu é, mas eu trabalho muito, sabes, é isso.
+Anda lá que estás a precisar de te animar?
+Estás quase fim de semana.
+
+Rita Joana   1:22:24
+Não é meu Deus, olha um beijinho a todos. Bom trabalho Iowa. Eu, entretanto digo-vos alguma coisa de resultado deste telefonema. Está bem, tchau, Daniel.
+
+André Neiva   1:22:25
+É.
+Muito bem.
+
+Francisco Falcão   1:22:28
+Obrigado Rita, mais uma vez meu trabalho também.
+
+André Neiva   1:22:29
+Obrigado.
+Perfeito vá tchau. Obrigado Rita.
+
+Francisco Falcão   1:22:34
+Obrigado. Muito obrigado. Obrigado, obrigado.
+
+Daniel Furtado   1:22:35
+Muito obrigado Rita. Obrigado.
+
+Rita Joana   1:22:35
+Prazer. Obrigada tchau. Tchau.
+
+André Neiva   1:22:38
+Deixar de gravar.
+
+André Neiva parou a transcrição

@@ -1,0 +1,30 @@
+{
+   "questions": [
+       {
+           "name": "Participant A",
+           "questions_and_answers": [
+               {
+                   "question": "How can the platform ensure trainees have access to training materials after the course ends?",
+                   "answer": "Currently, trainees have limited access due to platform restrictions. Future plans include a personal space for each student to store all completed training and revisit materials as needed."
+               },
+               {
+                   "question": "How can we store questions and answers during training in a useful way for trainees?",
+                   "answer": "The system can log participants' questions and organize them into a report for later review, including answers, support materials, and personalized study recommendations."
+               }
+           ]
+       },
+       {
+           "name": "Participant B",
+           "questions_and_answers": [
+               {
+                   "question": "Does the current model allow personalized learning recommendations based on trainee interaction?",
+                   "answer": "Yes, the platform analyzes each trainee's engagement level and suggests additional materials like videos, articles, or podcasts."
+               },
+               {
+                   "question": "How do we ensure legal compliance when storing trainee data?",
+                   "answer": "The legal team is reviewing best practices to comply with data protection laws, such as anonymizing data or processing information in real-time without extended storage."
+               }
+           ]
+       }
+   ]
+}

@@ -1,0 +1,17 @@
+Here’s a summary of the topics discussed during the meeting, formatted as requested:
+
+```python
+[
+    (0, 5, "Introdução e Apresentações", ["André Neiva", "Rita Joana", "Daniel Furtado"]),
+    (5, 15, "Relatório de Reunião", ["Objetivos da reunião", "Análise de engagement"]),
+    (15, 25, "Funcionalidades da Plataforma", ["Relatórios personalizados", "Feedback para formadores"]),
+    (25, 35, "Experiências de Formação", ["Exemplos práticos", "Desafios com alunos"]),
+    (35, 45, "Discussão sobre Dados e Relatórios", ["Métricas de eficácia", "Análise de participação"]),
+    (45, 55, "Aspectos Legais e Autorizações", ["Tratamento de dados", "Consentimento dos alunos"]),
+    (55, 65, "Próximos Passos", ["Envio de e-mails", "Reuniões futuras"]),
+    (65, 75, "Feedback e Melhoria Contínua", ["Importância do feedback", "Melhorias na formação"]),
+    (75, 82, "Encerramento e Despedidas", ["Conclusões da reunião", "Próximos encontros"])
+]
+```
+
+This list captures the main topics discussed along with their respective time frames and subtopics.

@@ -1,0 +1,77 @@
+```json
+[
+    {
+        "minute_start": 0,
+        "minute_end": 5,
+        "topic": "Introduction and Participant Arrival",
+        "subtopics": [
+            "Welcoming participants",
+            "Overview of meeting agenda",
+            "Introduction of Daniel as a new engineer"
+        ]
+    },
+    {
+        "minute_start": 5,
+        "minute_end": 15,
+        "topic": "Discussion on Meeting Recording and Engagement Analysis",
+        "subtopics": [
+            "Importance of recording training sessions",
+            "Methods of capturing engagement and participation",
+            "Customization of reports based on participant roles"
+        ]
+    },
+    {
+        "minute_start": 15,
+        "minute_end": 35,
+        "topic": "Presentation of Meeting Report from Previous Session",
+        "subtopics": [
+            "Review of objectives set in the last meeting",
+            "Discussion of effectiveness of the previous meeting",
+            "Identification of areas for improvement",
+            "Analysis of topics discussed and time management"
+        ]
+    },
+    {
+        "minute_start": 35,
+        "minute_end": 50,
+        "topic": "Engagement Metrics and Participant Feedback",
+        "subtopics": [
+            "Detailed assessment of engagement levels",
+            "Presentation of individual participant metrics",
+            "Discussion on facial expressions and participant reactions",
+            "Strategies for enhancing future engagement"
+        ]
+    },
+    {
+        "minute_start": 50,
+        "minute_end": 75,
+        "topic": "Future Actions and Recommendations",
+        "subtopics": [
+            "Next steps based on the insights gained from the report",
+            "Potential collaboration with the University of Minho",
+            "Discussion on legal considerations regarding participant consent",
+            "Ideas for improving the training format and content delivery"
+        ]
+    },
+    {
+        "minute_start": 75,
+        "minute_end": 80,
+        "topic": "Participant Involvement and Feedback",
+        "subtopics": [
+            "Encouraging participant feedback on the training process",
+            "Importance of understanding participant needs",
+            "Strategies for maintaining engagement in future sessions"
+        ]
+    },
+    {
+        "minute_start": 80,
+        "minute_end": 85,
+        "topic": "Closing Remarks and Next Steps",
+        "subtopics": [
+            "Summary of key points discussed in the meeting",
+            "Commitment to follow up with participants after the meeting",
+            "Setting expectations for the next meeting"
+        ]
+    }
+]
+```

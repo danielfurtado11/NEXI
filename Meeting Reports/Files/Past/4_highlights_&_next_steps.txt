@@ -1,0 +1,20 @@
+```json
+{
+    "highlights": [
+        "André Neiva introduced the meeting, discussing the purpose of the presentation and the participants involved.",
+        "The team emphasized the importance of capturing engagement metrics during training sessions and how the data can be used to improve future training effectiveness.",
+        "A detailed report format was presented, highlighting objectives from previous meetings, engagement levels of participants, and feedback on session effectiveness.",
+        "The team discussed the functionality of the system in tracking individual student engagement and providing personalized feedback to both students and instructors.",
+        "Rita Joana shared insights about the challenges faced in traditional training sessions and how the new system could offer more accurate evaluations of training outcomes.",
+        "Francisco Falcão highlighted the potential for the platform to provide a comprehensive overview of participants' performance over time, enhancing the training process.",
+        "The idea of partnering with the University of Minho for potential pilot projects was mentioned, focusing on the benefits of having a structured feedback mechanism."
+    ],
+    "next_steps": [
+        "André Neiva will send an email to the University of Minho to initiate discussions and set up a potential meeting.",
+        "The team will work on refining the report templates based on feedback received during the meeting.",
+        "Francisco Falcão will explore legal considerations regarding data processing and student consent for recording sessions.",
+        "Daniel Furtado will investigate technical requirements for implementing the recording and analysis features in both online and offline training environments.",
+        "Rita Joana will follow up with her contacts to gauge interest in the new training platform and report back to the team."
+    ]
+}
+```

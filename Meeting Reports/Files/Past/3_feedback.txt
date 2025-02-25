@@ -1,0 +1,28 @@
+{
+   "feedback": [
+       {
+           "name": "Participant Name",
+           "positive_aspects": [
+               "Clearly explained the project's structure and objectives.",
+               "Maintained active interaction with other participants.",
+               "Brought practical examples to illustrate the system's functionality."
+           ],
+           "improvement_aspects": [
+               "Could communicate more concisely, avoiding lengthy explanations.",
+               "Reduce informal comments to maintain focus during the meeting.",
+               "Ensure others have space to speak, avoiding monopolizing the discussion."
+           ]
+       },
+       {
+           "name": "Another Participant",
+           "positive_aspects": [
+               "Showed genuine interest and provided valuable insights about the system's application.",
+               "Clearly explained the challenges of online and in-person training."
+           ],
+           "improvement_aspects": [
+               "Could be more concise to avoid repeating ideas.",
+               "Structure interventions better to keep the discussion focused."
+           ]
+       }
+   ]
+}

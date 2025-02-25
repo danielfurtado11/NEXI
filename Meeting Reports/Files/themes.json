@@ -1,0 +1,72 @@
+[
+    {
+        "minute_start": 0,
+        "minute_end": 5,
+        "topic": "Introduction and Participant Arrival",
+        "subtopics": [
+            "Welcoming participants",
+            "Overview of meeting agenda",
+            "Introduction of team members"
+        ]
+    },
+    {
+        "minute_start": 5,
+        "minute_end": 15,
+        "topic": "Presentation of Educational Tools",
+        "subtopics": [
+            "Explanation of recording and reporting process",
+            "Importance of engagement tracking in education",
+            "Future development plans for educational tools"
+        ]
+    },
+    {
+        "minute_start": 15,
+        "minute_end": 30,
+        "topic": "Review of Recent Meeting Report",
+        "subtopics": [
+            "Discussion of the meeting held on February 11",
+            "Analysis of objectives set and achieved",
+            "Identifying areas for improvement in future sessions"
+        ]
+    },
+    {
+        "minute_start": 30,
+        "minute_end": 45,
+        "topic": "Engagement Metrics Analysis",
+        "subtopics": [
+            "Review of individual and group participation",
+            "Correlation between engagement and content delivery",
+            "Feedback from participants about specific topics"
+        ]
+    },
+    {
+        "minute_start": 45,
+        "minute_end": 60,
+        "topic": "Legal and Ethical Considerations",
+        "subtopics": [
+            "Discussion on data protection and consent",
+            "Importance of clarity on how data will be used",
+            "Legal frameworks for recording and reporting in educational settings"
+        ]
+    },
+    {
+        "minute_start": 60,
+        "minute_end": 75,
+        "topic": "Future Collaboration with Educational Institutions",
+        "subtopics": [
+            "Plans for reaching out to the University of Minho",
+            "Potential for pilot projects and innovations",
+            "Strategies for presenting the educational tools to interested parties"
+        ]
+    },
+    {
+        "minute_start": 75,
+        "minute_end": 82,
+        "topic": "Next Steps and Closing Remarks",
+        "subtopics": [
+            "Action items for follow-up with the University",
+            "Summary of key points discussed",
+            "Acknowledgments and concluding the meeting"
+        ]
+    }
+]
