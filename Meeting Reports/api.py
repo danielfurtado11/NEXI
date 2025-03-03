@@ -20,7 +20,7 @@ if transcription:
     # Create a summary of the meeting
     summary_prompt = f"Here's a transcript of a meeting:\n\n{transcription}\n\nMake a long summary without topics in english, just long text about this transcript of the meeting, detailed enough so that someone who didn't attend can understand what was discussed."
     summary_response = generate_response(client, summary_prompt, max_tokens=4000)
-    save_to_file("Files/summary.json", summary_response)
+    save_to_file("Files/summary.txt", summary_response)
 
 
     # Extract the main info and goals

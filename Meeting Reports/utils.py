@@ -31,3 +31,9 @@ def generate_response(client, prompt, max_tokens, model="gpt-4o-mini", temperatu
         max_tokens=max_tokens
     )
     return response.choices[0].message.content.strip()
+
+def format_time(hour, minute):
+    if (minute < 60):
+        return f"{hour:02d}:{minute:02d}"
+    else:
+        return f"{hour+1:02d}:{minute-60:02d}"
