@@ -1,0 +1,43 @@
+{
+   "questions": [
+       {
+           "name": "André",
+           "questions_and_answers": [
+               {
+                   "question": "How is the thesis model being developed?",
+                   "answer": "The focus is on creating and testing various models before finalizing the report."
+               },
+               {
+                   "question": "What is the deadline for thesis submission?",
+                   "answer": "The final submission deadline is in October."
+               }
+           ]
+       },
+       {
+           "name": "Hugo",
+           "questions_and_answers": [
+               {
+                   "question": "What are the next steps for the data cataloging project?",
+                   "answer": "We need to finalize the data sets and ensure collaboration with professors for validation."
+               },
+               {
+                   "question": "Is there a solution for the professor's lack of responsiveness?",
+                   "answer": "We can consider involving other professors or seeking alternative guidance to keep the project on track."
+               }
+           ]
+       },
+       {
+           "name": "Daniel",
+           "questions_and_answers": [
+               {
+                   "question": "How can we optimize the application's design and functionality?",
+                   "answer": "We will focus on user authentication and multi-page access to enhance the user experience."
+               },
+               {
+                   "question": "What is the plan for the next meeting?",
+                   "answer": "We will reconvene on Wednesday to review progress and discuss any arising issues."
+               }
+           ]
+       }
+   ]
+}

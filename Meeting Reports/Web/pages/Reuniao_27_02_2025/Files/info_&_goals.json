@@ -1,0 +1,42 @@
+{
+    "participants": ["André", "Hugo", "Daniel", "Francisco"],
+    "duration": 62,
+    "goals": [
+        {
+            "goal": "Discuss the cataloging of data for the thesis.",
+            "status": "Objective Achieved: Yes, a plan for cataloging data was discussed and actions were outlined."
+        },
+        {
+            "goal": "Plan the delivery of the thesis by October.",
+            "status": "Objective Achieved: Yes, the timeline for submission was confirmed."
+        },
+        {
+            "goal": "Establish partnerships with professors for data validation.",
+            "status": "Objective Achieved: Yes, potential professors for collaboration were identified."
+        },
+        {
+            "goal": "Implement user authentication for the web application.",
+            "status": "Objective Achieved: Yes, a plan for user authentication was discussed and resources were allocated."
+        },
+        {
+            "goal": "Prepare a mockup for the platform.",
+            "status": "Objective Achieved: Yes, discussions about the design and mockup were initiated."
+        },
+        {
+            "goal": "Finalize the API outputs and ensure functionality.",
+            "status": "Objective Achieved: Yes, the API outputs were confirmed to be functional."
+        },
+        {
+            "goal": "Create a plan for the MVP to present to stakeholders.",
+            "status": "Objective Achieved: Yes, a preliminary plan was developed, and further discussions are scheduled."
+        },
+        {
+            "goal": "Discuss the integration of AI regulations into the project.",
+            "status": "Objective Achieved: Yes, discussions on the implications of GDPR and AI Act were held."
+        },
+        {
+            "goal": "Set up a roadmap for future development phases.",
+            "status": "Objective Achieved: Yes, a roadmap for upcoming tasks was discussed and established."
+        }
+    ]
+}

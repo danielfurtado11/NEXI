@@ -1,0 +1,56 @@
+{
+   "feedback": [
+       {
+           "name": "André",
+           "positive_aspects": [
+               "Demonstrated good understanding of the project timeline and requirements.",
+               "Engaged with others by asking questions and clarifying points.",
+               "Shared personal experiences that added depth to the discussion."
+           ],
+           "improvement_aspects": [
+               "Could focus on summarizing points more succinctly.",
+               "Avoided excessive informal language to maintain professionalism.",
+               "Should ensure a balanced discussion by inviting input from others."
+           ]
+       },
+       {
+           "name": "Hugo",
+           "positive_aspects": [
+               "Provided clear insights into the data cataloging process.",
+               "Maintained an open dialogue and encouraged collaboration.",
+               "Offered practical examples from previous experiences."
+           ],
+           "improvement_aspects": [
+               "Could be more concise in explanations to enhance clarity.",
+               "Should monitor the flow of conversation to avoid interruptions.",
+               "Ensure all participants have the opportunity to share their views."
+           ]
+       },
+       {
+           "name": "Daniel",
+           "positive_aspects": [
+               "Effectively summarized previous discussions and next steps.",
+               "Showed initiative in organizing tasks and responsibilities.",
+               "Contributed constructive feedback based on technical knowledge."
+           ],
+           "improvement_aspects": [
+               "Could clarify technical terms to ensure all participants understand.",
+               "Should avoid overloading the conversation with technical jargon.",
+               "Encourage more input from quieter participants during discussions."
+           ]
+       },
+       {
+           "name": "Francisco",
+           "positive_aspects": [
+               "Brought a positive energy to the meeting, celebrating milestones.",
+               "Engaged the team with motivational comments.",
+               "Fostered a supportive atmosphere by acknowledging contributions."
+           ],
+           "improvement_aspects": [
+               "Could focus on specific project points instead of general comments.",
+               "Should ensure that discussions remain on topic and timely.",
+               "Encourage more structured updates to keep the meeting organized."
+           ]
+       }
+   ]
+}

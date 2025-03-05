@@ -1,0 +1,28 @@
+{
+   "tasks": [
+       {
+           "name": "André",
+           "assigned_tasks": [
+               "Create the dataset for the project.",
+               "Test various models and report the results.",
+               "Coordinate with professors for data validation."
+           ]
+       },
+       {
+           "name": "Hugo",
+           "assigned_tasks": [
+               "Work on the user authentication and multi-page app structure.",
+               "Integrate feedback from the team regarding the web app design.",
+               "Prepare the initial user interface mockups."
+           ]
+       },
+       {
+           "name": "Daniel",
+           "assigned_tasks": [
+               "Research user engagement metrics and how to implement them.",
+               "Coordinate with the design team to finalize branding elements.",
+               "Test the output of the API and ensure it meets the requirements."
+           ]
+       }
+   ]
+}

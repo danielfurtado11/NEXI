@@ -1,0 +1,30 @@
+cookie:
+  expiry_days: 30
+  key: cookie_nexi_key
+  name: cookie_nexi_name
+credentials:
+  usernames:
+    andreneiva:
+      failed_login_attempts: 0
+      first_name: André
+      last_name: Neiva
+      logged_in: false
+      password: $2b$12$.p4KlJMvj7ukyB1/lbYoouLxn6ynS41HglwwBedD.aWfJl5kSEas2
+    danielfurtado:
+      failed_login_attempts: 0
+      first_name: Daniel
+      last_name: Furtado
+      logged_in: false
+      password: $2b$12$R8KwRIrS9Ec7QnhMu61Sm.2GD918JxtMjc/.j9PS0/66YMcgacXCC
+    franciscofalcao:
+      failed_login_attempts: 0
+      first_name: Francisco
+      last_name: Falcão
+      logged_in: false
+      password: $2b$12$5J2dJT3xOH2jKueM4uJkRecQy4l8oAphjFHP6QGC1mKf9OVc3lfw2
+    hugooliveira:
+      failed_login_attempts: 0
+      first_name: Hugo
+      last_name: Oliveira
+      logged_in: false
+      password: $2b$12$xlsbFaKenKkjdzXp4BhVDeu8wyP1mNJtD4FDIq85aifVepfeX3GWG

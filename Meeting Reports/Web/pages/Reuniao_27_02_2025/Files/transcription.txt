@@ -1,0 +1,5979 @@
+90
+00:03:10,000 --> 00:03:12,000
+E aí
+
+91
+00:03:12,000 --> 00:03:14,000
+Não sigam, não sigam.
+
+92
+00:03:14,000 --> 00:03:16,000
+Já vi que se está a gravar.
+
+93
+00:03:16,000 --> 00:03:18,000
+Já está, tivo.
+
+94
+00:03:18,000 --> 00:03:20,000
+Porque agora já está tudo.
+
+95
+00:03:20,000 --> 00:03:22,000
+Atermos.
+
+96
+00:03:22,000 --> 00:03:24,000
+Mais dados.
+
+97
+00:03:24,000 --> 00:03:26,000
+É isso, é isso.
+
+98
+00:03:26,000 --> 00:03:28,000
+É preciso.
+
+99
+00:03:28,000 --> 00:03:30,000
+O Hugo tinha me falado que ele
+
+100
+00:03:30,000 --> 00:03:32,000
+quer começar a fazer, a catalogar
+
+101
+00:03:32,000 --> 00:03:34,000
+os dados.
+
+102
+00:03:36,000 --> 00:03:38,000
+Mas para isso também precisa ser
+
+103
+00:03:38,000 --> 00:03:40,000
+sequer a teu professor, não é?
+
+104
+00:03:40,000 --> 00:03:42,000
+Não, olha, por acaso até ontem
+
+105
+00:03:42,000 --> 00:03:44,000
+tive a falar com uma amiga minha
+
+106
+00:03:44,000 --> 00:03:46,000
+que até estava com ela,
+
+107
+00:03:46,000 --> 00:03:48,000
+eu até lhe perguntei, olha,
+
+108
+00:03:48,000 --> 00:03:50,000
+foi porreiro porque via
+
+109
+00:03:50,000 --> 00:03:52,000
+encontrei-me com ela e até perguntei.
+
+110
+00:03:52,000 --> 00:03:54,000
+Ela estava fazendo a tese como orientador
+
+111
+00:03:54,000 --> 00:03:56,000
+e eu perguntei, então como é que está?
+
+112
+00:03:56,000 --> 00:03:58,000
+Ele responde, ele não te responde
+
+113
+00:03:58,000 --> 00:04:00,000
+e ela também diz que ele deixou de responder
+
+114
+00:04:00,000 --> 00:04:02,000
+eu acho que foi mesmo qualquer coisa
+
+115
+00:04:02,000 --> 00:04:04,000
+da operação porque ele também deixou de
+
+116
+00:04:04,000 --> 00:04:06,000
+responder a partir de uma fase
+
+117
+00:04:06,000 --> 00:04:08,000
+que foi muito que parecia da minha.
+
+118
+00:04:08,000 --> 00:04:10,000
+Pronto. E eu, por acaso, depois também
+
+119
+00:04:10,000 --> 00:04:12,000
+me perguntei então como é que
+
+120
+00:04:12,000 --> 00:04:14,000
+é feito e assim que ela também está a fazer
+
+121
+00:04:14,000 --> 00:04:16,000
+com a empresa, mas na universidade
+
+122
+00:04:16,000 --> 00:04:18,000
+já a universidade já tinha, pronto, já tinha
+
+123
+00:04:18,000 --> 00:04:20,000
+parceriax feu até já no ano passado
+
+124
+00:04:20,000 --> 00:04:22,000
+que podemos falar e ela neste
+
+125
+00:04:22,000 --> 00:04:24,000
+momento também tem um acoriantador
+
+126
+00:04:24,000 --> 00:04:26,000
+também de empresa
+
+127
+00:04:26,000 --> 00:04:28,000
+que lhe ajuda também
+
+128
+00:04:28,000 --> 00:04:30,000
+na tese e
+
+129
+00:04:30,000 --> 00:04:32,000
+e também está, e ela
+
+130
+00:04:32,000 --> 00:04:34,000
+disse que estava na fase também de formar
+
+131
+00:04:34,000 --> 00:04:36,000
+o data sete.
+
+132
+00:04:36,000 --> 00:04:38,000
+Mas
+
+133
+00:04:38,000 --> 00:04:40,000
+pronto, o
+
+134
+00:04:40,000 --> 00:04:42,000
+projeto dele já era diferente, até o ano
+
+135
+00:04:42,000 --> 00:04:44,000
+passado é sempre, é uma start-up
+
+136
+00:04:44,000 --> 00:04:46,000
+também, vieram a nossa aula
+
+137
+00:04:46,000 --> 00:04:48,000
+uma aula nossa, era de
+
+138
+00:04:48,000 --> 00:04:50,000
+de desporto, eles colocam um aparelho
+
+139
+00:04:50,000 --> 00:04:52,000
+na sala, na palmelha
+
+140
+00:04:52,000 --> 00:04:54,000
+da sapatilha
+
+141
+00:04:54,000 --> 00:04:56,000
+e monitorizam o jogo, quando é que
+
+142
+00:04:56,000 --> 00:04:58,000
+ele toca no chão, acho que é assim
+
+143
+00:04:58,000 --> 00:05:00,000
+qualquer coisa, essas informações todas
+
+144
+00:05:00,000 --> 00:05:02,000
+para um desportista. E ela também diz que
+
+145
+00:05:02,000 --> 00:05:04,000
+está um bocado atrasado aos dados
+
+146
+00:05:04,000 --> 00:05:06,000
+normalmente, e os meus amigos por acaso
+
+147
+00:05:06,000 --> 00:05:08,000
+têm projetos relacionados, eles estão a dizer
+
+148
+00:05:08,000 --> 00:05:10,000
+que estão a começar, estão a começar a
+
+149
+00:05:10,000 --> 00:05:12,000
+fazer os data sets e os dados
+
+150
+00:05:12,000 --> 00:05:14,000
+os dados.
+
+151
+00:05:14,000 --> 00:05:16,000
+Se o André
+
+152
+00:05:16,000 --> 00:05:18,000
+todo sete se perceba de professor
+
+153
+00:05:18,000 --> 00:05:20,000
+só se você imagina
+
+154
+00:05:20,000 --> 00:05:22,000
+em termos de
+
+155
+00:05:22,000 --> 00:05:24,000
+aceitar ele, acho que não precisa, agora
+
+156
+00:05:24,000 --> 00:05:26,000
+poderia ser era ajudar a
+
+157
+00:05:26,000 --> 00:05:28,000
+validar, não era dizer olha, que está
+
+158
+00:05:28,000 --> 00:05:30,000
+desateando, aqui não.
+
+159
+00:05:30,000 --> 00:05:32,000
+Aí era por aí.
+
+160
+00:05:32,000 --> 00:05:34,000
+E os professores, é engraçado, eles na
+
+161
+00:05:34,000 --> 00:05:36,000
+tese, é o que eles dizem, eles não
+
+162
+00:05:36,000 --> 00:05:38,000
+parece que não quer saber disto.
+
+163
+00:05:38,000 --> 00:05:40,000
+É engraçado,
+
+164
+00:05:40,000 --> 00:05:42,000
+mas a
+
+165
+00:05:42,000 --> 00:05:44,000
+universidade não,
+
+166
+00:05:44,000 --> 00:05:46,000
+depois não tem, no direto
+
+167
+00:05:46,000 --> 00:05:48,000
+de curso não tem que arranjar uma solução
+
+168
+00:05:48,000 --> 00:05:50,000
+para isso. Ah, não sei.
+
+169
+00:05:50,000 --> 00:05:52,000
+Por acaso eu não sei, ele nunca há mais de notícias
+
+170
+00:05:52,000 --> 00:05:54,000
+mas em princípio é por isso que eu gostava
+
+171
+00:05:54,000 --> 00:05:56,000
+de saber na próxima, principalmente
+
+172
+00:05:56,000 --> 00:05:58,000
+na apresentação da prentese, gostava de saber
+
+173
+00:05:58,000 --> 00:06:00,000
+se o Deus está presente ou não.
+
+174
+00:06:00,000 --> 00:06:02,000
+Deberia arranjar
+
+175
+00:06:02,000 --> 00:06:04,000
+uma solução, não era?
+
+176
+00:06:04,000 --> 00:06:06,000
+Pois, acho que sim.
+
+177
+00:06:06,000 --> 00:06:08,000
+Enfim, vamos ver.
+
+178
+00:06:08,000 --> 00:06:10,000
+Depois precisa de alguma coisa?
+
+179
+00:06:10,000 --> 00:06:12,000
+Não, o pai, eu estou tranquilo, por exemplo
+
+180
+00:06:12,000 --> 00:06:14,000
+eu vou fazendo um trabalho, o importante
+
+181
+00:06:14,000 --> 00:06:16,000
+acho que é mesmo fazer
+
+182
+00:06:16,000 --> 00:06:18,000
+o modelo, não é?
+
+183
+00:06:18,000 --> 00:06:20,000
+E testar o modelo, porque o
+
+184
+00:06:20,000 --> 00:06:22,000
+protege bastante, por isso também não
+
+185
+00:06:22,000 --> 00:06:24,000
+estou muito preocupado, porque eu também
+
+186
+00:06:24,000 --> 00:06:26,000
+eu sei mais ou menos o que é para fazer
+
+187
+00:06:26,000 --> 00:06:28,000
+e estou tranquilo.
+
+188
+00:06:28,000 --> 00:06:30,000
+E se tiver alguma dúvida, também perguntou
+
+189
+00:06:30,000 --> 00:06:32,000
+e o que dá bastante dicas, que até são
+
+190
+00:06:32,000 --> 00:06:34,000
+melhores do que a do professor,
+
+191
+00:06:34,000 --> 00:06:36,000
+porque o gato está dentro do projeto
+
+192
+00:06:36,000 --> 00:06:38,000
+e ele percebe muito melhor.
+
+193
+00:06:38,000 --> 00:06:40,000
+Por isso
+
+194
+00:06:40,000 --> 00:06:42,000
+acho que é o mais importante
+
+195
+00:06:42,000 --> 00:06:44,000
+é fazer o modelo
+
+196
+00:06:44,000 --> 00:06:46,000
+ou testar com vários modelos
+
+197
+00:06:46,000 --> 00:06:48,000
+e depois é fazer o relatório,
+
+198
+00:06:48,000 --> 00:06:50,000
+que seja, ah, eu também entro
+
+199
+00:06:50,000 --> 00:06:52,000
+ontem, já esclareci
+
+200
+00:06:52,000 --> 00:06:54,000
+esclareci com essa minha amiga também,
+
+201
+00:06:54,000 --> 00:06:56,000
+a data de entregar a tese.
+
+202
+00:06:56,000 --> 00:06:58,000
+Ou seja, nós temos até, praticamente
+
+203
+00:06:58,000 --> 00:07:00,000
+outubro
+
+204
+00:07:00,000 --> 00:07:02,000
+afinal
+
+205
+00:07:02,000 --> 00:07:04,000
+ela, como disse,
+
+206
+00:07:04,000 --> 00:07:06,000
+e ela disse para outubro
+
+207
+00:07:06,000 --> 00:07:08,000
+deveria, tens que entregar
+
+208
+00:07:08,000 --> 00:07:10,000
+é o último prazo que eu vais fazendo
+
+209
+00:07:10,000 --> 00:07:12,000
+até outubro, depois é que paga extremamente
+
+210
+00:07:12,000 --> 00:07:14,000
+a extensão da tese.
+
+211
+00:07:16,000 --> 00:07:18,000
+Mas, em princípio
+
+212
+00:07:18,000 --> 00:07:20,000
+não sei o que
+
+213
+00:07:20,000 --> 00:07:22,000
+também quer já fazer, em princípio isto fica
+
+214
+00:07:22,000 --> 00:07:24,000
+arrumado. Não é muito difícil
+
+215
+00:07:24,000 --> 00:07:26,000
+o princípio
+
+216
+00:07:26,000 --> 00:07:28,000
+é um bocado,
+
+217
+00:07:28,000 --> 00:07:30,000
+não é difícil, depois já temos as ideias
+
+218
+00:07:30,000 --> 00:07:32,000
+todas alinhadinhas, não é? O gato também já tem tipo
+
+219
+00:07:32,000 --> 00:07:34,000
+as ideias de como é que vai fazer,
+
+220
+00:07:34,000 --> 00:07:36,000
+vamos reunir os dados, vamos testar com vários modelos
+
+221
+00:07:36,000 --> 00:07:38,000
+e assim.
+
+222
+00:07:38,000 --> 00:07:40,000
+Por isso, acho que
+
+223
+00:07:40,000 --> 00:07:42,000
+em termos de planificação
+
+224
+00:07:42,000 --> 00:07:44,000
+está tudo definido.
+
+225
+00:07:44,000 --> 00:07:46,000
+Ok, ok.
+
+226
+00:07:46,000 --> 00:07:48,000
+E, por acaso, é uma tese interessante
+
+227
+00:07:48,000 --> 00:07:50,000
+até acho que é muito fixe.
+
+228
+00:07:50,000 --> 00:07:52,000
+Paz.
+
+229
+00:07:54,000 --> 00:07:56,000
+Mas era porreiro, se tivesse um professor
+
+230
+00:07:56,000 --> 00:07:58,000
+só que ele já, não sei
+
+231
+00:07:58,000 --> 00:08:00,000
+ele também deixou de me responder
+
+232
+00:08:00,000 --> 00:08:02,000
+mas, aquela edição
+
+233
+00:08:02,000 --> 00:08:04,000
+ele parece que é mal, ele diz
+
+234
+00:08:04,000 --> 00:08:06,000
+depois ou vejo, e depois nunca mais
+
+235
+00:08:06,000 --> 00:08:08,000
+e eu falo.
+
+236
+00:08:08,000 --> 00:08:10,000
+Pode ser que seja a mesma questão
+
+237
+00:08:10,000 --> 00:08:12,000
+esta que se está em saúde
+
+238
+00:08:12,000 --> 00:08:14,000
+e que, eu acho lá não, mas
+
+239
+00:08:14,000 --> 00:08:16,000
+se for que não seja.
+
+240
+00:08:16,000 --> 00:08:18,000
+O pai, eu ouvi dizer, não sei, abracidade
+
+241
+00:08:18,000 --> 00:08:20,000
+ou esse meu amigo até
+
+242
+00:08:20,000 --> 00:08:22,000
+reprobou uma cadeira, não sei, está no ano anterior
+
+243
+00:08:22,000 --> 00:08:24,000
+ao meu. E ele disse, pai,
+
+244
+00:08:24,000 --> 00:08:26,000
+o professor não veio à aula
+
+245
+00:08:26,000 --> 00:08:28,000
+ou ouvi dizer que ele foi à operação,
+
+246
+00:08:28,000 --> 00:08:30,000
+mas não sei, abracidade
+
+247
+00:08:30,000 --> 00:08:32,000
+isso. Mas pode ser
+
+248
+00:08:32,000 --> 00:08:34,000
+para ele faltar também no responder a nós
+
+249
+00:08:34,000 --> 00:08:36,000
+vamos responder.
+
+250
+00:08:36,000 --> 00:08:38,000
+Paz.
+
+251
+00:08:38,000 --> 00:08:40,000
+Mas o que o pode fazer
+
+252
+00:08:40,000 --> 00:08:42,000
+é também, por exemplo, o importante
+
+253
+00:08:42,000 --> 00:08:44,000
+é, pronto,
+
+254
+00:08:44,000 --> 00:08:46,000
+ter um aparte dos dados ser avaliado
+
+255
+00:08:46,000 --> 00:08:48,000
+para os professores
+
+256
+00:08:48,000 --> 00:08:50,000
+oficiais, né, que tenhamos, tipo, avaliado
+
+257
+00:08:50,000 --> 00:08:52,000
+mas alguns dos dados também poderão
+
+258
+00:08:52,000 --> 00:08:54,000
+podermos, podermos ser nós, por exemplo
+
+259
+00:08:54,000 --> 00:08:56,000
+é diferente, mas
+
+260
+00:08:56,000 --> 00:08:58,000
+também é diferente, preciso
+
+261
+00:08:58,000 --> 00:09:00,000
+ver que os pais não podem ser
+
+262
+00:09:00,000 --> 00:09:02,000
+admissíveis para
+
+263
+00:09:02,000 --> 00:09:04,000
+o projeto.
+
+264
+00:09:04,000 --> 00:09:06,000
+Porque tu tens que validar como professores
+
+265
+00:09:06,000 --> 00:09:08,000
+perianos, porque tu vais ter que dizer que
+
+266
+00:09:08,000 --> 00:09:10,000
+na parte
+
+267
+00:09:10,000 --> 00:09:12,000
+da tua
+
+268
+00:09:12,000 --> 00:09:14,000
+no tratamento de analisidades
+
+269
+00:09:14,000 --> 00:09:16,000
+que foram professores com certa experiência
+
+270
+00:09:16,000 --> 00:09:18,000
+com a experiência de X anos
+
+271
+00:09:18,000 --> 00:09:20,000
+em média
+
+272
+00:09:20,000 --> 00:09:22,000
+e depois de disser-se, tipo, a professores
+
+273
+00:09:22,000 --> 00:09:24,000
+e depois
+
+274
+00:09:24,000 --> 00:09:26,000
+uma pessoa qualquer, né?
+
+275
+00:09:26,000 --> 00:09:28,000
+Depois de uma pessoa qualquer é complicado
+
+276
+00:09:28,000 --> 00:09:30,000
+para depois justificar, ok
+
+277
+00:09:30,000 --> 00:09:32,000
+e o conhecimento é que a pessoa tem
+
+278
+00:09:32,000 --> 00:09:34,000
+de um aluno estar atento ou não estar atento, né?
+
+279
+00:09:34,000 --> 00:09:36,000
+Claro.
+
+280
+00:09:36,000 --> 00:09:38,000
+Perda um bocado agora a cidade, não é?
+
+281
+00:09:38,000 --> 00:09:40,000
+Pois, pois.
+
+282
+00:09:40,000 --> 00:09:42,000
+Agora depois podemos arranjar, por exemplo, podermos
+
+283
+00:09:42,000 --> 00:09:44,000
+ir ao Rui
+
+284
+00:09:44,000 --> 00:09:46,000
+da concerto, porque ele também é professor
+
+285
+00:09:46,000 --> 00:09:48,000
+para catalogar alguns dados,
+
+286
+00:09:48,000 --> 00:09:50,000
+que acho que o quanto mais
+
+287
+00:09:50,000 --> 00:09:52,000
+professores tiveres.
+
+288
+00:09:52,000 --> 00:09:54,000
+Eu posso, opa, eu tenho
+
+289
+00:09:54,000 --> 00:09:56,000
+até, mas não é muito assim,
+
+290
+00:09:56,000 --> 00:09:58,000
+não é muito, porque ela acabou o curso
+
+291
+00:09:58,000 --> 00:10:00,000
+agora e ela é professora até, mas é
+
+292
+00:10:00,000 --> 00:10:02,000
+professora de secundário, não sei se dá,
+
+293
+00:10:02,000 --> 00:10:04,000
+se calhar era bom.
+
+294
+00:10:04,000 --> 00:10:06,000
+Vai ter um ano de experiência, não é?
+
+295
+00:10:06,000 --> 00:10:08,000
+Pois é isso. Mas pronto, mas tu pode
+
+296
+00:10:08,000 --> 00:10:10,000
+precisar de um mix, né?
+
+297
+00:10:10,000 --> 00:10:12,000
+Tem que ter várias efetivas,
+
+298
+00:10:12,000 --> 00:10:14,000
+não é?
+
+299
+00:10:14,000 --> 00:10:16,000
+Uma pessoa que será um professor mais antigo,
+
+300
+00:10:16,000 --> 00:10:18,000
+outra que tem uma experiência mais
+
+301
+00:10:18,000 --> 00:10:20,000
+tipo moderna, não sei.
+
+302
+00:10:20,000 --> 00:10:22,000
+Posso depender do meu primo,
+
+303
+00:10:22,000 --> 00:10:24,000
+ele é de professor. Ah, e tenho uma senhora
+
+304
+00:10:24,000 --> 00:10:26,000
+também que é professora,
+
+305
+00:10:26,000 --> 00:10:28,000
+é só que é do que secundário, não é?
+
+306
+00:10:28,000 --> 00:10:30,000
+Pronto, já é prima de meu pai,
+
+307
+00:10:30,000 --> 00:10:32,000
+que já trabalha para 20 anos.
+
+308
+00:10:32,000 --> 00:10:34,000
+Ah, não, eu acho que isso é válido, não é?
+
+309
+00:10:34,000 --> 00:10:36,000
+Agora, o que tipo de dados
+
+310
+00:10:36,000 --> 00:10:38,000
+é que vais escolher?
+
+311
+00:10:38,000 --> 00:10:40,000
+Tu tens de ter tudo
+
+312
+00:10:40,000 --> 00:10:42,000
+que seja tudo defensável,
+
+313
+00:10:42,000 --> 00:10:44,000
+não é? Claro. Imagina que
+
+314
+00:10:44,000 --> 00:10:46,000
+tu tens uma professora
+
+315
+00:10:46,000 --> 00:10:48,000
+de escola primária, que tem 20 anos de
+
+316
+00:10:48,000 --> 00:10:50,000
+experiência em escola primária,
+
+317
+00:10:50,000 --> 00:10:52,000
+a ver a atenção de alunos
+
+318
+00:10:52,000 --> 00:10:54,000
+de secundário, não é?
+
+319
+00:10:54,000 --> 00:10:56,000
+De secundário ou da universidade,
+
+320
+00:10:56,000 --> 00:11:06,000
+não é?
+
+321
+00:11:06,000 --> 00:11:08,000
+Pois, se tem expressa com miúdos
+
+322
+00:11:08,000 --> 00:11:10,000
+que estão sempre cuidando do nariz
+
+323
+00:11:10,000 --> 00:11:12,000
+e a metade do nariz,
+
+324
+00:11:12,000 --> 00:11:14,000
+depois de repente estar com alunos de
+
+325
+00:11:14,000 --> 00:11:16,000
+universidade, poderá ser, mas não sei,
+
+326
+00:11:16,000 --> 00:11:18,000
+não sei, isso é que é
+
+327
+00:11:18,000 --> 00:11:20,000
+o professor que dizia o que é
+
+328
+00:11:20,000 --> 00:11:22,000
+admissível, não é? Certo, era,
+
+329
+00:11:22,000 --> 00:11:24,000
+precisávamos dessa, porque, pronto,
+
+330
+00:11:24,000 --> 00:11:26,000
+ele diz, e o que ele disse foi, ok,
+
+331
+00:11:26,000 --> 00:11:28,000
+tu vais fazer coisas para a empresa,
+
+332
+00:11:28,000 --> 00:11:30,000
+mas para as, pronto, quem manda,
+
+333
+00:11:30,000 --> 00:11:32,000
+não é ele, não é ele, não é ele,
+
+334
+00:11:32,000 --> 00:11:34,000
+não é ele, não é ele, não é ele,
+
+335
+00:11:34,000 --> 00:11:36,000
+se pudesse, tipo, fazer as coisas
+
+336
+00:11:36,000 --> 00:11:38,000
+com a universidade, era dizer assim
+
+337
+00:11:38,000 --> 00:11:40,000
+algo que também tinha que respeitar
+
+338
+00:11:40,000 --> 00:11:42,000
+um bocado a universidade, e as ideias dele,
+
+339
+00:11:42,000 --> 00:11:44,000
+para a empresa, para as pessoas fazer uma
+
+340
+00:11:44,000 --> 00:11:46,000
+coisa, para até gostar de ter
+
+341
+00:11:46,000 --> 00:11:48,000
+conseguido as regras da universidade.
+
+342
+00:11:48,000 --> 00:11:50,000
+Isso era mais no aspecto de, por exemplo,
+
+343
+00:11:50,000 --> 00:11:52,000
+e é como tu estás a dizer, André, isso era
+
+344
+00:11:52,000 --> 00:11:54,000
+mais no aspecto de, por exemplo, escolher um
+
+345
+00:11:54,000 --> 00:11:56,000
+modelo para treinar o ugo
+
+346
+00:11:56,000 --> 00:11:58,000
+e o professor bastante, e ele também
+
+347
+00:11:58,000 --> 00:12:00,000
+faz sentido que ele disse, que eu também
+
+348
+00:12:00,000 --> 00:12:02,000
+entendo que é o melhor modelo, vai ser
+
+349
+00:12:02,000 --> 00:12:04,000
+o melhor neuronal, tipo, é o melhor, é o
+
+350
+00:12:04,000 --> 00:12:06,000
+mais eficiente, mas o professor não
+
+351
+00:12:06,000 --> 00:12:08,000
+disse, opa, era melhor testar vários,
+
+352
+00:12:08,000 --> 00:12:10,000
+que é para depois ter uma base de
+
+353
+00:12:10,000 --> 00:12:12,000
+fundamento para dizer, ok, nós testamos
+
+354
+00:12:12,000 --> 00:12:14,000
+vários, e aquele modelo foi o melhor.
+
+355
+00:12:14,000 --> 00:12:16,000
+Foi isso que o professor disse, que ali a
+
+356
+00:12:16,000 --> 00:12:18,000
+pa empresa bastava a fazer o rede neuronal,
+
+357
+00:12:18,000 --> 00:12:20,000
+porque o ugo já sabe, tem experiência
+
+358
+00:12:20,000 --> 00:12:22,000
+e que vai ser o melhor,
+
+359
+00:12:22,000 --> 00:12:24,000
+mas pronto, mas já é, são,
+
+360
+00:12:24,000 --> 00:12:26,000
+esses são os que ele gostava que se
+
+361
+00:12:26,000 --> 00:12:28,000
+fizesse, para ter mais rica até
+
+362
+00:12:28,000 --> 00:12:30,000
+esse, ver como...
+
+363
+00:12:30,000 --> 00:12:32,000
+Então, André, outra coisa até que
+
+364
+00:12:32,000 --> 00:12:34,000
+surge uma hora, é mais que o professor,
+
+365
+00:12:34,000 --> 00:12:36,000
+se quiser, opa, eu estou a fazer a tese
+
+366
+00:12:36,000 --> 00:12:38,000
+em português, não sei se quiser,
+
+367
+00:12:38,000 --> 00:12:40,000
+se eu posso fazer inglês, talvez eu tenho
+
+368
+00:12:40,000 --> 00:12:42,000
+a impressão de fazer inglês.
+
+369
+00:12:42,000 --> 00:12:44,000
+Fazer em português, não é?
+
+370
+00:12:44,000 --> 00:12:46,000
+A tua universidade, qual é o requerimento
+
+371
+00:12:46,000 --> 00:12:48,000
+de querer em português, não é?
+
+372
+00:12:48,000 --> 00:12:50,000
+É, é...
+
+373
+00:12:50,000 --> 00:12:52,000
+O abstrato é se terem inglês e português,
+
+374
+00:12:52,000 --> 00:12:54,000
+não.
+
+375
+00:12:54,000 --> 00:12:56,000
+É, os meus amigos já fazem português,
+
+376
+00:12:56,000 --> 00:12:58,000
+outros já fazem inglês, e o abstrato
+
+377
+00:12:58,000 --> 00:13:00,000
+é se terem os dois.
+
+378
+00:13:00,000 --> 00:13:02,000
+Ok.
+
+379
+00:13:02,000 --> 00:13:04,000
+É sim, super indiferente.
+
+380
+00:13:06,000 --> 00:13:08,000
+A inglesa é melhor para ti,
+
+381
+00:13:08,000 --> 00:13:10,000
+não é?
+
+382
+00:13:10,000 --> 00:13:12,000
+Claro.
+
+383
+00:13:12,000 --> 00:13:14,000
+Agora, se depois,
+
+384
+00:13:14,000 --> 00:13:16,000
+vai ter que fazer a defesa de tese,
+
+385
+00:13:16,000 --> 00:13:18,000
+com slide em português,
+
+386
+00:13:18,000 --> 00:13:20,000
+e com slides em inglês...
+
+387
+00:13:20,000 --> 00:13:22,000
+Mas eu acho que, pois não sei
+
+388
+00:13:22,000 --> 00:13:24,000
+como é que isso funciona, até posso perguntar
+
+389
+00:13:24,000 --> 00:13:26,000
+aos mais velhos, porque há muita gente a fazer
+
+390
+00:13:26,000 --> 00:13:28,000
+a apresentação, sei que é em português,
+
+391
+00:13:28,000 --> 00:13:30,000
+mesmo que se faça tese em inglês.
+
+392
+00:13:32,000 --> 00:13:34,000
+Mas, opa, eu agora estava
+
+393
+00:13:34,000 --> 00:13:36,000
+mesmo à espera de fazer a apresentação
+
+394
+00:13:36,000 --> 00:13:38,000
+desta pretese, que é um
+
+395
+00:13:38,000 --> 00:13:40,000
+5, 10 minutos, explicar o que é que é o objetivo,
+
+396
+00:13:40,000 --> 00:13:42,000
+problemas, e plano,
+
+397
+00:13:42,000 --> 00:13:44,000
+e contextualização,
+
+398
+00:13:44,000 --> 00:13:46,000
+e depois já era
+
+399
+00:13:46,000 --> 00:13:48,000
+falar com o professor mesmo, para ver
+
+400
+00:13:48,000 --> 00:13:50,000
+se ele aceitava a ideia, não é?
+
+401
+00:13:50,000 --> 00:13:52,000
+A pessoa olha, nós temos que querer avançar
+
+402
+00:13:52,000 --> 00:13:54,000
+com a parte dos dados, fazer os dataset,
+
+403
+00:13:54,000 --> 00:13:56,000
+e queremos, olha,
+
+404
+00:13:56,000 --> 00:13:58,000
+utilizar professores...
+
+405
+00:13:58,000 --> 00:14:00,000
+Opa, eu já lhe disse,
+
+406
+00:14:00,000 --> 00:14:02,000
+mas agora era a mesma validade,
+
+407
+00:14:02,000 --> 00:14:04,000
+olha, tem estes professores, e assim,
+
+408
+00:14:04,000 --> 00:14:06,000
+será que você acha concorda, acha que
+
+409
+00:14:06,000 --> 00:14:08,000
+para tão mal?
+
+410
+00:14:08,000 --> 00:14:10,000
+Claro que tem que, opa, eu acho que vai concordar,
+
+411
+00:14:10,000 --> 00:14:12,000
+não é? Porque
+
+412
+00:14:12,000 --> 00:14:14,000
+o André todo também sabe,
+
+413
+00:14:14,000 --> 00:14:16,000
+nós já sabemos, e...
+
+414
+00:14:16,000 --> 00:14:18,000
+faz sentido, não é? Não vai dizer que
+
+415
+00:14:18,000 --> 00:14:20,000
+acho que muito dificilmente ele ia
+
+416
+00:14:20,000 --> 00:14:22,000
+discordar.
+
+417
+00:14:22,000 --> 00:14:24,000
+Pois...
+
+418
+00:14:24,000 --> 00:14:26,000
+Não sei, não sei,
+
+419
+00:14:26,000 --> 00:14:28,000
+mas isso é
+
+420
+00:14:28,000 --> 00:14:30,000
+conforme...
+
+421
+00:14:30,000 --> 00:14:32,000
+conforme a universidade
+
+422
+00:14:32,000 --> 00:14:34,000
+permitir, e o que tu quiseres.
+
+423
+00:14:38,000 --> 00:14:40,000
+Tu estás escrevendo para já que é em português?
+
+424
+00:14:40,000 --> 00:14:42,000
+Opa, eu escrevi em português, porque
+
+425
+00:14:42,000 --> 00:14:44,000
+até eu ia perguntar numa reunião,
+
+426
+00:14:44,000 --> 00:14:46,000
+que foi até, e ele deixou-me responder, ele disse,
+
+427
+00:14:46,000 --> 00:14:48,000
+eu mandei-lhe a pretese, a introdução,
+
+428
+00:14:48,000 --> 00:14:50,000
+uma vez ele disse, opa aí, vou dar uma vista de olhos,
+
+429
+00:14:50,000 --> 00:14:52,000
+e eu digo-te alguma coisa, é que o normal
+
+430
+00:14:52,000 --> 00:14:54,000
+ele faz sublinhar, e
+
+431
+00:14:54,000 --> 00:14:56,000
+a nota diz, olha, não digas isso, não digas aquilo.
+
+432
+00:14:56,000 --> 00:14:58,000
+E ele disse, depois nunca mais respondeu,
+
+433
+00:14:58,000 --> 00:15:00,000
+mas eu e ele, pronto, foi ele sempre mandando
+
+434
+00:15:00,000 --> 00:15:02,000
+emails, que era para ter a certeza
+
+435
+00:15:02,000 --> 00:15:04,000
+que fiz alguma coisa, não é? Porque senão, depois
+
+436
+00:15:04,000 --> 00:15:06,000
+ele até podia dizer, rapaz, não fizeste nada, nem me avisaste.
+
+437
+00:15:06,000 --> 00:15:08,000
+Claro, claro. Podias ter mandado não a mesma,
+
+438
+00:15:08,000 --> 00:15:10,000
+mesmo que eu não respondesse,
+
+439
+00:15:10,000 --> 00:15:12,000
+mandava sempre, então eu fui ele mandando, olha,
+
+440
+00:15:12,000 --> 00:15:14,000
+pessoa fiz esta parte, passando uma semana,
+
+441
+00:15:14,000 --> 00:15:16,000
+fiz outra pessoa, fiz outra.
+
+442
+00:15:16,000 --> 00:15:18,000
+Olha, tipo o qual ato-me aqui a ligar.
+
+443
+00:15:18,000 --> 00:15:20,000
+Sem problema, André, estou tranquilo.
+
+444
+00:15:42,000 --> 00:15:44,000
+Boa tarde, Hugo.
+
+445
+00:15:45,000 --> 00:15:48,000
+O André saiu agora, porque
+
+446
+00:15:48,000 --> 00:15:50,000
+ele ligou, mas ele já voltou.
+
+447
+00:15:50,000 --> 00:15:52,000
+Olha, pessoal,
+
+448
+00:15:52,000 --> 00:15:54,000
+eu vou ter que sair só aqui 10 minutinhos.
+
+449
+00:15:54,000 --> 00:15:56,000
+Ok.
+
+450
+00:15:56,000 --> 00:15:58,000
+Eu volto a entrar, tá bem?
+
+451
+00:15:58,000 --> 00:16:00,000
+Mas continuem, tá?
+
+452
+00:16:00,000 --> 00:16:02,000
+Até já.
+
+453
+00:16:06,000 --> 00:16:08,000
+Vocês estavam a falar de...
+
+454
+00:16:08,000 --> 00:16:10,000
+Olha, estamos,
+
+455
+00:16:10,000 --> 00:16:12,000
+estamos a falar da tese,
+
+456
+00:16:12,000 --> 00:16:14,000
+que foi o André que perguntou
+
+457
+00:16:14,000 --> 00:16:16,000
+sobre ti,
+
+458
+00:16:16,000 --> 00:16:18,000
+que já tinha ideias de começar a fazer
+
+459
+00:16:18,000 --> 00:16:20,000
+o data set
+
+460
+00:16:20,000 --> 00:16:22,000
+para o modelo, e ele só parou,
+
+461
+00:16:22,000 --> 00:16:24,000
+já falou contigo a você, sim, já falou,
+
+462
+00:16:24,000 --> 00:16:26,000
+então vamos a falar sobre
+
+463
+00:16:26,000 --> 00:16:28,000
+como é que vamos fazer.
+
+464
+00:16:32,000 --> 00:16:34,000
+Se podiam ser professores, tinham que ser,
+
+465
+00:16:34,000 --> 00:16:36,000
+se calhar, professores universitários, ou...
+
+466
+00:16:36,000 --> 00:16:38,000
+Não, não, não.
+
+467
+00:16:38,000 --> 00:16:40,000
+E se faz sentido, Serem?
+
+468
+00:16:40,000 --> 00:16:42,000
+Pois, eu até falo...
+
+469
+00:16:42,000 --> 00:16:44,000
+É que, como tudo,
+
+470
+00:16:44,000 --> 00:16:46,000
+nesses termos de coisas, quanto mais
+
+471
+00:16:46,000 --> 00:16:48,000
+variabilidade tivemos, melhor.
+
+472
+00:16:48,000 --> 00:16:50,000
+Inicialmente,
+
+473
+00:16:50,000 --> 00:16:52,000
+para os universitários de caráter, temos
+
+474
+00:16:52,000 --> 00:16:54,000
+acesso a mais.
+
+475
+00:16:54,000 --> 00:16:56,000
+Você pode pedir universidade, pode pedir
+
+476
+00:16:56,000 --> 00:16:58,000
+o...
+
+477
+00:16:58,000 --> 00:17:00,000
+Por exemplo, também tenho tego, que é,
+
+478
+00:17:00,000 --> 00:17:02,000
+e posso pedir, e por exemplo...
+
+479
+00:17:02,000 --> 00:17:04,000
+Mas é isso, eu também tenho, familiar-se,
+
+480
+00:17:04,000 --> 00:17:06,000
+que são professores, posso lhes pedir também.
+
+481
+00:17:06,000 --> 00:17:08,000
+Sim, sim, sim, sim, é mesmo isso.
+
+482
+00:17:08,000 --> 00:17:10,000
+E temos...
+
+483
+00:17:10,000 --> 00:17:12,000
+É mais fácil, mas
+
+484
+00:17:12,000 --> 00:17:14,000
+o ideal é ser...
+
+485
+00:17:14,000 --> 00:17:16,000
+Ter muita variabilidade.
+
+486
+00:17:16,000 --> 00:17:18,000
+Mais diversos possíveis, exatamente.
+
+487
+00:17:18,000 --> 00:17:20,000
+Opinião de várias pessoas, ok.
+
+488
+00:17:20,000 --> 00:17:22,000
+Exactamente.
+
+489
+00:17:22,000 --> 00:17:24,000
+E quantos mais, mais dados vamos ter anotados,
+
+490
+00:17:24,000 --> 00:17:26,000
+por isso melhor, é o modelo.
+
+491
+00:17:26,000 --> 00:17:28,000
+E...
+
+492
+00:17:28,000 --> 00:17:30,000
+O...
+
+493
+00:17:30,000 --> 00:17:32,000
+E já agora,
+
+494
+00:17:32,000 --> 00:17:34,000
+é que nós tínhamos aqui para ver...
+
+495
+00:17:34,000 --> 00:17:36,000
+O...
+
+496
+00:17:36,000 --> 00:17:38,000
+O...
+
+497
+00:17:38,000 --> 00:17:40,000
+Só uma...
+
+498
+00:17:40,000 --> 00:17:42,000
+Uma pergunta que nem é muito interessante,
+
+499
+00:17:42,000 --> 00:17:44,000
+que eu tive a investigar, mas ainda não
+
+500
+00:17:44,000 --> 00:17:46,000
+investiguei. Eu, pronto, estou a fazer
+
+501
+00:17:46,000 --> 00:17:48,000
+aquela página,
+
+502
+00:17:48,000 --> 00:17:50,000
+o web, mais...
+
+503
+00:17:50,000 --> 00:17:52,000
+Pronto, é um básico, mas do relatório.
+
+504
+00:17:52,000 --> 00:17:54,000
+Ah...
+
+505
+00:17:54,000 --> 00:17:56,000
+E eu tive a falar com o André, e depois até
+
+506
+00:17:56,000 --> 00:17:58,000
+me apercebi, porque a parte de chat se apetitiva
+
+507
+00:17:58,000 --> 00:18:00,000
+já está uma coisa porreira, até.
+
+508
+00:18:00,000 --> 00:18:02,000
+Já manda mesmo
+
+509
+00:18:02,000 --> 00:18:04,000
+o formato
+
+510
+00:18:04,000 --> 00:18:06,000
+Jason, né?
+
+511
+00:18:06,000 --> 00:18:08,000
+Manda nesse formato, tudo perfeitinho,
+
+512
+00:18:08,000 --> 00:18:10,000
+para...
+
+513
+00:18:10,000 --> 00:18:12,000
+A pai até perguntei, eu já desapetei, te valer
+
+514
+00:18:12,000 --> 00:18:14,000
+aquilo, e eu mando mesmo o formato,
+
+515
+00:18:14,000 --> 00:18:16,000
+e ele é só para encher, ou seja,
+
+516
+00:18:16,000 --> 00:18:18,000
+eu mando o mesmo formato de Jason e diz, olha,
+
+517
+00:18:18,000 --> 00:18:20,000
+completa isto,
+
+518
+00:18:20,000 --> 00:18:22,000
+e ele faz tudo direitinho, sem...
+
+519
+00:18:22,000 --> 00:18:24,000
+sem texto inicial, sem...
+
+520
+00:18:24,000 --> 00:18:26,000
+Para agro, ele manda tudo perfeito.
+
+521
+00:18:26,000 --> 00:18:28,000
+O que falta agora, eu gostava
+
+522
+00:18:28,000 --> 00:18:30,000
+de saber como é que, por exemplo,
+
+523
+00:18:30,000 --> 00:18:32,000
+o André até me perguntou onde, ah, isso foi
+
+524
+00:18:32,000 --> 00:18:34,000
+tipo, para fazer agora, ou para a semana, assim,
+
+525
+00:18:34,000 --> 00:18:36,000
+para ter 30 pessoas.
+
+526
+00:18:36,000 --> 00:18:38,000
+Eu agora queria saber como é que era o stream
+
+527
+00:18:38,000 --> 00:18:40,000
+lito, deve fazer, por exemplo, em vez de estar a criar
+
+528
+00:18:40,000 --> 00:18:42,000
+um link para cada um, não era fazer-me com várias
+
+529
+00:18:42,000 --> 00:18:44,000
+páginas, por exemplo, Daniel, aquelas...
+
+530
+00:18:44,000 --> 00:18:46,000
+barra, não é? Tipo...
+
+531
+00:18:46,000 --> 00:18:48,000
+Eu não sei como é que se diz isso.
+
+532
+00:18:48,000 --> 00:18:50,000
+Sim, sim, é...
+
+533
+00:18:50,000 --> 00:18:52,000
+Se não, eu tinha que criar um repositório
+
+534
+00:18:52,000 --> 00:18:54,000
+para cada um.
+
+535
+00:18:54,000 --> 00:18:56,000
+Era isso que eu ia ver, era essa parte
+
+536
+00:18:56,000 --> 00:18:58,000
+que eu gostava de ver agora.
+
+537
+00:18:58,000 --> 00:19:00,000
+Ah, por acaso, não sei se o stream lito
+
+538
+00:19:00,000 --> 00:19:02,000
+permite fazer isso.
+
+539
+00:19:02,000 --> 00:19:04,000
+São slugs, é assim que se chama isso.
+
+540
+00:19:04,000 --> 00:19:06,000
+Ah, ok.
+
+541
+00:19:06,000 --> 00:19:08,000
+Sério. Por nos RLs,
+
+542
+00:19:08,000 --> 00:19:10,000
+as slugs são tipo, as queries
+
+543
+00:19:10,000 --> 00:19:12,000
+que tens depois no fim.
+
+544
+00:19:12,000 --> 00:19:14,000
+Ok. Por menos há o nome que eu uso.
+
+545
+00:19:14,000 --> 00:19:16,000
+Não, não, eu é que não me
+
+546
+00:19:16,000 --> 00:19:18,000
+tão muito a par,
+
+547
+00:19:18,000 --> 00:19:20,000
+dos nomes técnicos.
+
+548
+00:19:20,000 --> 00:19:22,000
+Eu tive a ver como é que multi-page o
+
+549
+00:19:22,000 --> 00:19:24,000
+website do stream lito, tenho aqui um vídeo.
+
+550
+00:19:24,000 --> 00:19:26,000
+Vou ver aqui alguns
+
+551
+00:19:26,000 --> 00:19:28,000
+para fazer.
+
+552
+00:19:56,000 --> 00:19:58,000
+É...
+
+553
+00:19:58,000 --> 00:20:00,000
+Eu gostava de ver agora, amanhã
+
+554
+00:20:00,000 --> 00:20:02,000
+e às vezes semana fazer isso
+
+555
+00:20:02,000 --> 00:20:04,000
+e depois segunda-feira já
+
+556
+00:20:04,000 --> 00:20:06,000
+tinha mais ou menos essa parte
+
+557
+00:20:06,000 --> 00:20:08,000
+automatizada.
+
+558
+00:20:08,000 --> 00:20:10,000
+E assim, se fosse para diferentes pessoas
+
+559
+00:20:10,000 --> 00:20:12,000
+já era
+
+560
+00:20:12,000 --> 00:20:14,000
+fazer isso para diferentes pessoas.
+
+561
+00:20:16,000 --> 00:20:18,000
+É bastante simples até.
+
+562
+00:20:20,000 --> 00:20:22,000
+É bastante simples.
+
+563
+00:20:22,000 --> 00:20:24,000
+O que diz aqui
+
+564
+00:20:26,000 --> 00:20:28,000
+é só outro nome de um ficheiro
+
+565
+00:20:28,000 --> 00:20:30,000
+e criar outro ficheiro.
+
+566
+00:20:30,000 --> 00:20:32,000
+Ok.
+
+567
+00:20:32,000 --> 00:20:34,000
+Não sei se é esta página que se faz a ler
+
+568
+00:20:34,000 --> 00:20:36,000
+mas deixa por aqui.
+
+569
+00:20:36,000 --> 00:20:38,000
+Imagina que seja
+
+570
+00:20:38,000 --> 00:20:40,000
+tem quatro passos
+
+571
+00:20:40,000 --> 00:20:42,000
+literalmente surreal.
+
+572
+00:20:46,000 --> 00:20:48,000
+Está aqui.
+
+573
+00:20:48,000 --> 00:20:50,000
+É mesmo o deles.
+
+574
+00:20:50,000 --> 00:20:52,000
+Ah, ok.
+
+575
+00:20:56,000 --> 00:20:58,000
+É mesmo isto.
+
+576
+00:20:58,000 --> 00:21:00,000
+Tó, bom.
+
+577
+00:21:00,000 --> 00:21:02,000
+Já estava a ver até um vídeo.
+
+578
+00:21:02,000 --> 00:21:04,000
+Ainda não tenho explorado muito bem
+
+579
+00:21:04,000 --> 00:21:06,000
+mas marquei alguns vídeos no Youtube
+
+580
+00:21:06,000 --> 00:21:08,000
+para ver.
+
+581
+00:21:08,000 --> 00:21:10,000
+Assim, este aqui é mais fácil
+
+582
+00:21:10,000 --> 00:21:12,000
+que é...
+
+583
+00:21:12,000 --> 00:21:14,000
+É muito fácil
+
+584
+00:21:14,000 --> 00:21:16,000
+por acaso streamlite está um luxo
+
+585
+00:21:16,000 --> 00:21:18,000
+para ver mais.
+
+586
+00:21:18,000 --> 00:21:20,000
+Certo.
+
+587
+00:21:22,000 --> 00:21:24,000
+Literalmente se criar mais ficheiros
+
+588
+00:21:24,000 --> 00:21:34,000
+e depois só fazer colar a app principal, a base app, basicamente e...
+
+589
+00:21:34,000 --> 00:21:36,000
+Fiz que assim...
+
+590
+00:21:36,000 --> 00:21:40,000
+...e está feito com...
+
+591
+00:21:40,000 --> 00:21:42,000
+Assim é porreiro...
+
+592
+00:21:42,000 --> 00:21:45,000
+Que só se cria um link.
+
+593
+00:23:54,000 --> 00:23:58,000
+E depois podes testar isto.
+
+594
+00:23:58,000 --> 00:24:02,000
+Que eu estou a enviar.
+
+595
+00:24:02,000 --> 00:24:05,000
+Podes pegar isto, basicamente.
+
+596
+00:24:05,000 --> 00:24:08,000
+Mas é...
+
+597
+00:24:08,000 --> 00:24:12,000
+...porra, basicamente...
+
+598
+00:24:24,000 --> 00:24:32,000
+...e...
+
+599
+00:24:32,000 --> 00:24:36,000
+...e...
+
+600
+00:24:36,000 --> 00:24:40,000
+...e...
+
+601
+00:24:40,000 --> 00:24:44,000
+...e...
+
+602
+00:24:44,000 --> 00:24:48,000
+...e...
+
+603
+00:24:48,000 --> 00:24:54,000
+...e...
+
+604
+00:24:54,000 --> 00:24:58,000
+...e...
+
+605
+00:24:58,000 --> 00:25:02,000
+...e...
+
+606
+00:25:02,000 --> 00:25:06,000
+...e...
+
+607
+00:25:06,000 --> 00:25:12,000
+...e...
+
+608
+00:25:12,000 --> 00:25:18,000
+...e...
+
+609
+00:25:18,000 --> 00:25:22,000
+...e...
+
+610
+00:25:22,000 --> 00:25:26,000
+...e...
+
+611
+00:25:26,000 --> 00:25:30,000
+...e...
+
+612
+00:25:30,000 --> 00:25:32,000
+...e isto aqui.
+
+613
+00:25:32,000 --> 00:25:34,000
+Basicamente antes disso...
+
+614
+00:25:34,000 --> 00:25:36,000
+...vamos implementar...
+
+615
+00:25:36,000 --> 00:25:38,000
+...usar a autenticação nisso, já agora...
+
+616
+00:25:38,000 --> 00:25:40,000
+...estamos a fazer...
+
+617
+00:25:40,000 --> 00:25:42,000
+...que é...
+
+618
+00:25:42,000 --> 00:25:44,000
+...em vez, não te estou a ouvir...
+
+619
+00:25:44,000 --> 00:25:46,000
+...está ficando encrotificado.
+
+620
+00:25:46,000 --> 00:25:48,000
+Ah, estar a ouvir?
+
+621
+00:25:48,000 --> 00:25:50,000
+Já estava a estar bastante tempo.
+
+622
+00:25:50,000 --> 00:25:52,000
+Se tivesse a falar nos últimos 5 minutos, não havia nada.
+
+623
+00:25:52,000 --> 00:25:54,000
+Estranho até mas...
+
+624
+00:25:54,000 --> 00:25:58,000
+Eu estava para a pesquisar porque pensava que estava a fazer umas pesquisas...
+
+625
+00:25:58,000 --> 00:26:00,000
+...basicamente o que estava a dizer é...
+
+626
+00:26:00,000 --> 00:26:02,000
+...e...
+
+627
+00:26:02,000 --> 00:26:04,000
+...porque isso aí depois vai ser o tema.
+
+628
+00:26:04,000 --> 00:26:06,000
+Temos diferentes páginas para diferentes utilizadores, sim, mas...
+
+629
+00:26:06,000 --> 00:26:08,000
+...e cada um pode...
+
+630
+00:26:08,000 --> 00:26:10,000
+...procurar ver as páginas dos outros...
+
+631
+00:26:10,000 --> 00:26:12,000
+...por isso basicamente era como ter um drop down...
+
+632
+00:26:12,000 --> 00:26:14,000
+...utilizador.
+
+633
+00:26:14,000 --> 00:26:16,000
+Ah, pois porque...
+
+634
+00:26:16,000 --> 00:26:18,000
+Não diz...
+
+635
+00:26:18,000 --> 00:26:20,000
+O que vamos fazer é...
+
+636
+00:26:20,000 --> 00:26:22,000
+...antes até de fazermos isso...
+
+637
+00:26:22,000 --> 00:26:24,000
+...multipleis...
+
+638
+00:26:24,000 --> 00:26:26,000
+...simple-auth...
+
+639
+00:26:26,000 --> 00:26:28,000
+...autenticação...
+
+640
+00:26:28,000 --> 00:26:30,000
+...com diferentes premições para diferentes páginas...
+
+641
+00:26:30,000 --> 00:26:32,000
+...o que vamos fazer é...
+
+642
+00:26:32,000 --> 00:26:34,000
+...primeiro, quando temos autenticação...
+
+643
+00:26:34,000 --> 00:26:36,000
+...que está aí o link, o terceiro...
+
+644
+00:26:36,000 --> 00:26:38,000
+...e depois fazemos autenticação.
+
+645
+00:26:40,000 --> 00:26:42,000
+Vamos passar...
+
+646
+00:26:42,000 --> 00:26:44,000
+...com uma página de login assim já podemos...
+
+647
+00:26:44,000 --> 00:26:46,000
+...vamos adiantar...
+
+648
+00:26:46,000 --> 00:26:48,000
+...nós estamos a fazer aqui é para...
+
+649
+00:26:48,000 --> 00:26:50,000
+...temos uma aplicação inicial sem...
+
+650
+00:26:50,000 --> 00:26:52,000
+...temos development.
+
+651
+00:26:52,000 --> 00:26:54,000
+Nós vamos ter um...
+
+652
+00:26:54,000 --> 00:26:56,000
+...back-end e front-end e para aí fora que...
+
+653
+00:26:56,000 --> 00:26:58,000
+...nós vamos tratar mais da parte da analisidade...
+
+654
+00:26:58,000 --> 00:27:00,000
+...dados e de...
+
+655
+00:27:00,000 --> 00:27:02,000
+...ser na modelo e para aí fora e depois...
+
+656
+00:27:02,000 --> 00:27:04,000
+...as nossas aplicações vão ser imbevidas...
+
+657
+00:27:04,000 --> 00:27:06,000
+...no 10 portes final...
+
+658
+00:27:06,000 --> 00:27:08,000
+...mas...
+
+659
+00:27:08,000 --> 00:27:10,000
+...tá já vamos com uma aplicação inicial...
+
+660
+00:27:10,000 --> 00:27:12,000
+...high-level...
+
+661
+00:27:12,000 --> 00:27:14,000
+...isso...
+
+662
+00:27:14,000 --> 00:27:16,000
+...faz isto a parte da autenticação...
+
+663
+00:27:16,000 --> 00:27:18,000
+...lá está isto...
+
+664
+00:27:18,000 --> 00:27:20,000
+...e aqui com o streamlit...
+
+665
+00:27:20,000 --> 00:27:22,000
+...e temos aqui a library...
+
+666
+00:27:22,000 --> 00:27:24,000
+...que é o streamlit-authenticator...
+
+667
+00:27:24,000 --> 00:27:26,000
+...basicamente...
+
+668
+00:27:26,000 --> 00:27:28,000
+...este é a página do...
+
+669
+00:27:28,000 --> 00:27:30,000
+...streamlit-authenticator...
+
+670
+00:27:30,000 --> 00:27:32,000
+...tenho...
+
+671
+00:27:32,000 --> 00:27:34,000
+...tudo de instalação...
+
+672
+00:27:34,000 --> 00:27:36,000
+...e tens...
+
+673
+00:27:36,000 --> 00:27:38,000
+...o...
+
+674
+00:27:38,000 --> 00:27:40,000
+...get-in-start...
+
+675
+00:27:40,000 --> 00:27:42,000
+...é só o seguinte...
+
+676
+00:27:42,000 --> 00:27:44,000
+...e depois...
+
+677
+00:27:44,000 --> 00:27:46,000
+...vamos adicionar...
+
+678
+00:27:46,000 --> 00:27:48,000
+...estas coisas até...
+
+679
+00:27:48,000 --> 00:27:50,000
+...creating new-user...
+
+680
+00:27:50,000 --> 00:27:52,000
+...forgot-pass...
+
+681
+00:27:52,000 --> 00:27:54,000
+...temos uma coisa mais bonita...
+
+682
+00:27:54,000 --> 00:27:56,000
+...com mais funcionalidades...
+
+683
+00:27:56,000 --> 00:27:58,000
+...tanto todas nesses links...
+
+684
+00:27:58,000 --> 00:28:00,000
+...e depois lá está...
+
+685
+00:28:00,000 --> 00:28:02,000
+...multi-page...
+
+686
+00:28:02,000 --> 00:28:04,000
+...e está feito...
+
+687
+00:28:04,000 --> 00:28:06,000
+...até vou por aqui nas tarefas...
+
+688
+00:28:08,000 --> 00:28:10,000
+...já com o Dreffel ou nisso...
+
+689
+00:28:10,000 --> 00:28:12,000
+...chart-chapthp e podemos puxar...
+
+690
+00:28:12,000 --> 00:28:14,000
+...vou passar esta tarefa para...
+
+691
+00:28:20,000 --> 00:28:22,000
+...0.1...
+
+692
+00:28:22,000 --> 00:28:24,000
+...vai ser user authentication...
+
+693
+00:28:26,000 --> 00:28:28,000
+...para...
+
+694
+00:28:29,000 --> 00:28:31,000
+...passar uma semana...
+
+695
+00:28:36,000 --> 00:28:38,000
+...e adicionar...
+
+696
+00:28:58,000 --> 00:29:00,000
+...tudo de instalação...
+
+736
+00:30:18,000 --> 00:30:24,300
+Lógico que imagina, pois soa para-se todo com muitas faltas de funcionalidade, porque
+
+737
+00:30:24,300 --> 00:30:28,860
+o seu objectivo é fazer coisas assim como tu está a ver super rápidas, só mesmo coisas
+
+738
+00:30:28,860 --> 00:30:34,060
+relativamente básicas, não é para fazer grandes interações e coisas muito dinâmicas.
+
+739
+00:30:34,060 --> 00:30:40,420
+Não tem nada a ver com, por exemplo, o reacto por aí fora, obviamente, mas lá está como
+
+740
+00:30:40,420 --> 00:30:47,380
+consegues ver já faz coisas muito boas, muito rapidamente e depois lá está isto e já
+
+741
+00:30:47,380 --> 00:30:56,980
+vamos ter aqui um pausão de tipozinho interessante, pegámos nisto e é só, é isso, fica diferente
+
+742
+00:30:56,980 --> 00:31:01,380
+a apresentar uma coisa destas com uma autenticação, diferentes páginas, password.
+
+743
+00:31:18,380 --> 00:31:29,380
+Vou pôr os links aqui nas descrições de cada um, aqui está tudo organizadinho, é assim.
+
+744
+00:31:29,380 --> 00:31:35,380
+Então depois aqui ainda tem várias aplicas, várias app gallery, que são vários websites que eles têm.
+
+745
+00:31:35,380 --> 00:31:41,380
+E era isso que eu ia dizer, pois pegas nisso e...
+
+746
+00:31:42,380 --> 00:31:50,380
+E podes criar, por exemplo, em termos de front-end e assim, para pôr a coisa mais bonitinha, é só mesmo
+
+747
+00:31:50,380 --> 00:31:55,380
+criar essas coisitas a maior parte delas, já está tudo pronto.
+
+748
+00:32:11,380 --> 00:32:31,380
+Então desculpe lá. Nada, sem problema.
+
+749
+00:32:31,380 --> 00:32:34,380
+Toda a volta, não, tinha o meu catênero, está chamada.
+
+750
+00:32:37,380 --> 00:32:44,380
+Já estamos aqui, a organizar esta raiva.
+
+751
+00:32:49,380 --> 00:32:55,380
+E é tudo fechado essa necessidade, deixe-me se organizar ali, já falo.
+
+752
+00:33:01,380 --> 00:33:11,380
+ells das попробuições.
+
+753
+00:33:22,380 --> 00:33:30,380
+Nesses links, a multiplaidcauthentication, aqui porigung às itálidas.
+
+754
+00:33:30,380 --> 00:33:39,380
+Mas, tudo depois, talvez, ver as outras coisas.
+
+755
+00:33:39,380 --> 00:33:41,380
+É isso.
+
+756
+00:33:41,380 --> 00:33:44,380
+Foi só a pesquisa feita em dois minutos.
+
+757
+00:33:49,380 --> 00:33:52,380
+Ah, estou misturado, tenho uma parte de dois que...
+
+758
+00:34:01,380 --> 00:34:06,380
+Depois...
+
+759
+00:34:17,380 --> 00:34:19,380
+Quero um guest, vamo.
+
+760
+00:34:19,380 --> 00:34:21,380
+Posso mais um cara, guest.
+
+761
+00:34:22,380 --> 00:34:28,380
+Mas, a ver, as tarefas, o da...
+
+762
+00:34:28,380 --> 00:34:30,380
+Aqui na lista.
+
+763
+00:34:30,380 --> 00:34:34,380
+Estou só preparando, mas pode anilhar o decorco.
+
+764
+00:34:34,380 --> 00:34:36,380
+Viste este agora, falaste com ele.
+
+765
+00:34:36,380 --> 00:34:37,380
+Ok, ok.
+
+766
+00:34:37,380 --> 00:34:39,380
+Para tentar servir isso.
+
+767
+00:34:39,380 --> 00:34:41,380
+Também vai acabar por aí.
+
+768
+00:34:51,380 --> 00:34:53,380
+Estou só preparando.
+
+769
+00:34:53,380 --> 00:34:55,380
+Estou só preparando.
+
+770
+00:34:55,380 --> 00:34:57,380
+Estou só preparando.
+
+771
+00:34:57,380 --> 00:34:59,380
+Estou só preparando.
+
+772
+00:34:59,380 --> 00:35:01,380
+Estou só preparando.
+
+773
+00:35:01,380 --> 00:35:03,380
+Estou só preparando.
+
+774
+00:35:03,380 --> 00:35:05,380
+Estou só preparando.
+
+775
+00:35:05,380 --> 00:35:07,380
+Estou só preparando.
+
+776
+00:35:07,380 --> 00:35:09,380
+Estou só preparando.
+
+777
+00:35:09,380 --> 00:35:11,380
+Estou só preparando.
+
+778
+00:35:11,380 --> 00:35:13,380
+Estou só preparando.
+
+779
+00:35:13,380 --> 00:35:15,380
+Estou só preparando.
+
+780
+00:35:15,380 --> 00:35:17,380
+Estou só preparando.
+
+781
+00:35:17,380 --> 00:35:19,380
+Estou só preparando.
+
+782
+00:35:19,380 --> 00:35:21,380
+Estou só preparando.
+
+783
+00:35:21,380 --> 00:35:23,380
+Estou só preparando.
+
+784
+00:35:23,380 --> 00:35:25,380
+Estou só preparando.
+
+785
+00:35:25,380 --> 00:35:27,380
+Estou só preparando.
+
+786
+00:35:27,380 --> 00:35:29,380
+Estou só preparando.
+
+787
+00:35:29,380 --> 00:35:31,380
+Estou só preparando.
+
+788
+00:35:31,380 --> 00:35:33,380
+Estou só preparando.
+
+789
+00:35:33,380 --> 00:35:35,380
+Estou só preparando.
+
+790
+00:35:35,380 --> 00:35:37,380
+Estou só preparando.
+
+791
+00:35:39,380 --> 00:35:41,380
+Estou só preparando.
+
+792
+00:35:41,380 --> 00:35:43,380
+Estou só preparando.
+
+793
+00:35:43,380 --> 00:35:45,380
+Estou só preparando.
+
+794
+00:35:45,380 --> 00:35:47,380
+Estou só preparando.
+
+795
+00:35:47,380 --> 00:35:49,380
+Estou só preparando.
+
+796
+00:35:49,380 --> 00:35:51,380
+Estou só preparando.
+
+797
+00:35:51,380 --> 00:35:53,380
+Estou só preparando.
+
+798
+00:35:53,380 --> 00:35:55,380
+Estou só preparando.
+
+799
+00:35:55,380 --> 00:35:57,380
+Estou só preparando.
+
+800
+00:35:57,380 --> 00:35:59,380
+Estou só preparando.
+
+801
+00:35:59,380 --> 00:36:01,380
+Estou só preparando.
+
+802
+00:36:01,380 --> 00:36:03,380
+Estou só preparando.
+
+803
+00:36:03,380 --> 00:36:05,380
+Estou só preparando.
+
+804
+00:36:07,380 --> 00:36:09,380
+Estou só preparando.
+
+805
+00:36:09,380 --> 00:36:11,380
+Estou só preparando.
+
+806
+00:36:11,380 --> 00:36:13,380
+Estou só preparando.
+
+807
+00:36:13,380 --> 00:36:15,380
+Estou só preparando.
+
+808
+00:36:15,380 --> 00:36:17,380
+Estou só preparando.
+
+809
+00:36:17,380 --> 00:36:19,380
+Estou só preparando.
+
+810
+00:36:19,380 --> 00:36:21,380
+Estou só preparando.
+
+811
+00:36:21,380 --> 00:36:23,380
+Estou só preparando.
+
+812
+00:36:23,380 --> 00:36:25,380
+Estou só preparando.
+
+813
+00:36:25,380 --> 00:36:27,380
+Estou só preparando.
+
+814
+00:36:27,380 --> 00:36:29,380
+Estou só preparando.
+
+815
+00:36:29,380 --> 00:36:31,380
+Estou só preparando.
+
+816
+00:36:31,380 --> 00:36:33,380
+Estou só preparando.
+
+817
+00:36:35,380 --> 00:36:37,380
+Estou só preparando.
+
+818
+00:36:37,380 --> 00:36:39,380
+Estou só preparando.
+
+819
+00:36:39,380 --> 00:36:41,380
+Estou só preparando.
+
+820
+00:36:41,380 --> 00:36:43,380
+Estou só preparando.
+
+821
+00:36:43,380 --> 00:36:45,380
+Estou só preparando.
+
+822
+00:36:45,380 --> 00:36:47,380
+Estou.
+
+823
+00:36:51,380 --> 00:36:53,380
+Estou já기가.
+
+824
+00:36:53,380 --> 00:36:57,240
+Estou já
+
+825
+00:36:57,240 --> 00:36:59,380
+planejado.
+
+826
+00:36:59,380 --> 00:37:01,380
+Estou já by chatting.
+
+827
+00:37:01,380 --> 00:37:03,380
+Estando já by chatting.
+
+828
+00:37:03,380 --> 00:37:05,380
+Estou já by chatting.
+
+829
+00:37:05,380 --> 00:37:07,380
+Estava a fazer aquilo.
+
+830
+00:37:07,380 --> 00:37:09,380
+Estamos aqui aproveitado.
+
+831
+00:37:09,380 --> 00:37:11,380
+Estávamos aqui aproveitado.
+
+832
+00:37:11,380 --> 00:37:28,380
+O que eu estava a dizer, aquela necessidade de criar páginas diferentes para utilizadores
+
+833
+00:37:28,380 --> 00:37:37,940
+diferentes, isso é bom, mas imagina, obviamente se não tivesse um access control, qualquer
+
+834
+00:37:37,940 --> 00:37:42,940
+utilizador poderá o página do colega e ver, por isso é a mesma coisa de ter um dropdown,
+
+835
+00:37:42,940 --> 00:37:48,940
+é a mesma coisa, para isso que eu estava a dizer, é, o streamlet permite fazer isto tudo,
+
+836
+00:37:48,940 --> 00:37:58,940
+vamos já criar user authentication, vamos criar multi-page access, aquilo que tu estava a dizer,
+
+837
+00:37:58,940 --> 00:38:05,940
+uma página para cada um e depois para o professor e para fora, com os registros de utilizadores,
+
+838
+00:38:05,940 --> 00:38:11,940
+como o Forgot Airpass, para fora e ficamos já com uma web app inicial, com isto tudo,
+
+839
+00:38:11,940 --> 00:38:15,940
+que é lá está isto, conseguimos fazer isto tudo que streamlet inicialmente,
+
+840
+00:38:15,940 --> 00:38:20,940
+óbvio que era o que eu estava a explicar ao Daniel, tenho estas funcionalidades que é rapidíssimo
+
+841
+00:38:20,940 --> 00:38:25,940
+de implementar, que já está tudo, é só seguir tutorial, e é tudo, já está tudo pronto,
+
+842
+00:38:25,940 --> 00:38:30,940
+já temos libraries para tudo, e você consegue-se para a coisa mais bonitinha e para fora,
+
+843
+00:38:30,940 --> 00:38:35,940
+mas obviamente que vai ser um protótipo e vai ser funcional até para as universidades,
+
+844
+00:38:35,940 --> 00:38:43,940
+depois para eles utilizarem isto, já fica funcional, obviamente que depois não tem nada a ver
+
+845
+00:38:43,940 --> 00:38:49,940
+com fazermos algo em react e para fora, aqueles levantamentos requisitos que nós já temos falado,
+
+846
+00:38:49,940 --> 00:38:56,940
+de fazer uma web que é para vivo, que depois responda a necessidades que vamos ter,
+
+847
+00:38:57,940 --> 00:39:04,940
+mas isto para um protótipo inicial, nem para um mvp, isto vai ficar um produto que pode ser utilizado
+
+848
+00:39:04,940 --> 00:39:13,940
+para estarmos, por isso, vamos estar priorizados então a isto, temos esta parte do API pronto,
+
+849
+00:39:13,940 --> 00:39:22,940
+do API, isto já está minimamente otimizado, e depois era o que eu estava a falar,
+
+850
+00:39:22,940 --> 00:39:33,940
+eu esta tarefa, quero começá-la antes de, esta não é prioridade, esta também não,
+
+851
+00:39:39,940 --> 00:39:45,940
+eu quero começar para as coisas de data sete, antes de arrancarmos,
+
+852
+00:39:46,940 --> 00:39:50,940
+eu contei-se que aquilo ia ser guardado em fecheiros JSON, Daniel,
+
+853
+00:39:50,940 --> 00:39:56,940
+é porque o objetivo é que a estrutura inicialmente fiquem JSON para unificarmos tudo,
+
+854
+00:39:56,940 --> 00:40:03,940
+depois para isso ser utilizado e guardado em base de dados, é muito mais simples de se desistir
+
+855
+00:40:03,940 --> 00:40:07,940
+de tudo podronizado, mas o objetivo obviamente não vai ser este, já vi este episódio,
+
+856
+00:40:07,940 --> 00:40:13,940
+isso que é, imagina, e isso é extremamente fácil de fazer, eu até tenho isso feito,
+
+857
+00:40:13,940 --> 00:40:18,940
+mas há coisas de trabalho, mas se é fácil de fazer, eu preciso de ajuda, mas por extremamente,
+
+858
+00:40:18,940 --> 00:40:25,940
+eu até vou colocar uma tarefa aqui para, vai ser o 1.5, vai ser a seguida, começarmos,
+
+859
+00:40:25,940 --> 00:40:30,940
+nós temos de preparar a metodologia de labeling, para mandar para o pessoal.
+
+860
+00:40:30,940 --> 00:40:34,940
+Entendimento é que está enviado, eles vão demorar tempo e tempo,
+
+861
+00:40:34,940 --> 00:40:37,940
+porque eu sei como é que as coisas estão, vão demorar três semanas para termos
+
+862
+00:40:37,940 --> 00:40:42,940
+meia dúzia de respostas às vezes, por isso vamos passar isso para o lado deles,
+
+863
+00:40:42,940 --> 00:40:47,940
+depois vamos fazendo pressão, volta e meia, e à medida que fazemos isso,
+
+864
+00:40:47,940 --> 00:40:58,940
+vamos continuar a trabalhar outra coisa, que é o, para guardar os JSON,
+
+865
+00:40:58,940 --> 00:41:02,940
+onde realmente tem de estar que não são JSON-C, guardarem-se em base de dados,
+
+866
+00:41:02,940 --> 00:41:08,940
+o transcript para o MongoDB, e os dados trabalhados, e por aí fora,
+
+867
+00:41:08,940 --> 00:41:12,940
+uma pós-grésia, e por aí fora, fazemos implementos, isso é uma cláusica,
+
+868
+00:41:12,940 --> 00:41:19,940
+eu quero, não interessa, para começarmos a trabalhar como deve ser,
+
+869
+00:41:19,940 --> 00:41:23,940
+na base de dados, que é como vai ser no futuro, para o futuro,
+
+870
+00:41:23,940 --> 00:41:29,940
+mas é, por isso, agora, fechar este tema de user authentication multi-page app,
+
+871
+00:41:29,940 --> 00:41:34,940
+multi-page authentication app, with permissions, e depois adicionar as funcionalidades,
+
+872
+00:41:34,940 --> 00:41:38,940
+eu sei que trafem as boas relativamente fáceis de fazer, mas é,
+
+873
+00:41:38,940 --> 00:41:45,940
+quando se dá-se para guardar, tem que ser isso direitinho, e depois,
+
+874
+00:41:45,940 --> 00:41:51,940
+fazemos para a inteligência de labeling, e vou te ensinar aqui a tarefa 1.5,
+
+875
+00:41:51,940 --> 00:41:58,940
+que é, já me dá para falar agora.
+
+876
+00:41:58,940 --> 00:42:00,940
+Nos vemos na próxima.
+
+877
+00:42:28,940 --> 00:42:42,940
+E pronto.
+
+878
+00:42:42,940 --> 00:42:52,940
+Isto aqui não será, está a causa da semana, será a semana de...
+
+879
+00:42:52,940 --> 00:42:55,940
+Está a semana.
+
+880
+00:42:55,940 --> 00:42:59,940
+Eu, por exemplo, na segunda, não vou poder fazer o ponto de situação contigo.
+
+881
+00:42:59,940 --> 00:43:01,940
+Ok.
+
+882
+00:43:01,940 --> 00:43:05,940
+Podemos, se calhar, reunir na quarta.
+
+883
+00:43:05,940 --> 00:43:06,940
+Sim.
+
+884
+00:43:06,940 --> 00:43:08,940
+Está aqui o que eu vou chegar.
+
+885
+00:43:08,940 --> 00:43:10,940
+Mas, eu combino contigo.
+
+886
+00:43:10,940 --> 00:43:12,940
+Certo, sempre lovo.
+
+887
+00:43:12,940 --> 00:43:16,940
+Pode ser que eu tenha um tempo na segunda-feira, falar contigo um bocado,
+
+888
+00:43:16,940 --> 00:43:19,940
+mas eu falo contigo por...
+
+889
+00:43:19,940 --> 00:43:24,940
+Certo.
+
+890
+00:43:24,940 --> 00:43:28,940
+Isto vai para aqui escalar.
+
+891
+00:43:28,940 --> 00:43:30,940
+Cinco.
+
+892
+00:43:30,940 --> 00:43:32,940
+Esta semana, está, está.
+
+893
+00:43:32,940 --> 00:43:35,940
+Não tinha isso, porque é porque o que eu quero ver,
+
+894
+00:43:35,940 --> 00:43:38,940
+eu vou aproveitar para fazer essa pesquisa,
+
+895
+00:43:38,940 --> 00:43:42,940
+para vermos como é que vai fazer este labeling.
+
+896
+00:43:42,940 --> 00:43:46,940
+Vamos dar aquilo que o André e eu já tínhamos testado,
+
+897
+00:43:46,940 --> 00:43:51,940
+mas se eu se calhar, a versão grátis não é melhor do que a versão grátis do Forms,
+
+898
+00:43:51,940 --> 00:43:54,940
+ou assim, do Gold Forms, que as pessoas têm mais à vontade em usar.
+
+899
+00:43:54,940 --> 00:43:57,940
+Mas eu vejo isso depois que falamos disso.
+
+900
+00:43:57,940 --> 00:43:58,940
+Ok.
+
+901
+00:43:58,940 --> 00:44:02,940
+Tem que testar os output, como é que são os fones,
+
+902
+00:44:02,940 --> 00:44:09,940
+mas pronto, tens aqui tudo organizado.
+
+903
+00:44:09,940 --> 00:44:16,940
+Vocês dois chegaram a ver, então, ontem, os outputs do API.
+
+904
+00:44:16,940 --> 00:44:20,940
+Estão lá que ficaram.
+
+905
+00:44:20,940 --> 00:44:22,940
+Estás a falar do...
+
+906
+00:44:22,940 --> 00:44:24,940
+Pai, eu acho que ficaram...
+
+907
+00:44:24,940 --> 00:44:26,940
+Sim, sim.
+
+908
+00:44:26,940 --> 00:44:31,940
+Eles já estão direitinhos, agora eu até te posso mostrar.
+
+909
+00:44:31,940 --> 00:44:36,940
+Se tu e o André ontem viram isso,
+
+910
+00:44:36,940 --> 00:44:41,940
+se estábamos funcionais, se estava porreiro...
+
+911
+00:44:41,940 --> 00:44:43,940
+Eu acho que sim.
+
+912
+00:44:43,940 --> 00:44:47,940
+Por que eu estava porreiro aquilo que o André ontem fez?
+
+913
+00:44:47,940 --> 00:44:50,940
+Posso agora dar uns pozinhos diferentes,
+
+914
+00:44:50,940 --> 00:44:53,940
+por mais detalhado e assim, mas...
+
+915
+00:44:53,940 --> 00:44:57,940
+Sim, isso otimizar ao máximo, isso vai ser detrativo.
+
+916
+00:44:57,940 --> 00:45:02,940
+Por isso, não será por aí...
+
+917
+00:45:02,940 --> 00:45:04,940
+Agora vamos trabalhar.
+
+918
+00:45:04,940 --> 00:45:10,940
+E otimizar coisas é coisa do futuro.
+
+919
+00:45:10,940 --> 00:45:13,940
+Se já está minimamente pronto a funcionar,
+
+920
+00:45:13,940 --> 00:45:14,940
+depois do ano do que tivemos,
+
+921
+00:45:14,940 --> 00:45:16,940
+eu vou passar as coisas para os resultados.
+
+922
+00:45:16,940 --> 00:45:19,940
+Podemos rever isso um bocado, mas sendo assim,
+
+923
+00:45:19,940 --> 00:45:21,940
+posso me passar.
+
+924
+00:45:21,940 --> 00:45:22,940
+Começar por aqui.
+
+925
+00:45:22,940 --> 00:45:24,940
+Até já está tudo prova bem direitinho.
+
+926
+00:45:24,940 --> 00:45:29,940
+É só isso seguindo.
+
+927
+00:45:29,940 --> 00:45:32,940
+E, de resto, acho que temos tudo deixado.
+
+928
+00:45:32,940 --> 00:45:36,940
+Já disponibiliza a André.
+
+929
+00:45:36,940 --> 00:45:40,940
+Não sei se os caras estão a falar com ele, mas...
+
+930
+00:45:40,940 --> 00:45:43,940
+Não, por acaso o Daniel não tem usado a minha conta,
+
+931
+00:45:43,940 --> 00:45:44,940
+ou não?
+
+932
+00:45:44,940 --> 00:45:46,940
+Não, não.
+
+933
+00:45:46,940 --> 00:45:48,940
+Eu disse isso porque ele...
+
+934
+00:45:48,940 --> 00:45:50,940
+Não tem cinco horários.
+
+935
+00:45:50,940 --> 00:45:52,940
+Porque o que é?
+
+936
+00:45:52,940 --> 00:45:53,940
+É normal.
+
+937
+00:45:53,940 --> 00:45:54,940
+Não te preocupes com isso.
+
+938
+00:45:54,940 --> 00:45:56,940
+Ele, basicamente, para testar,
+
+939
+00:45:56,940 --> 00:45:59,940
+meteu cinco horários na conta dele,
+
+940
+00:45:59,940 --> 00:46:02,940
+e eu disse-lhe que não tem necessidade de nenhuma
+
+941
+00:46:02,940 --> 00:46:04,940
+que nós temos, que estáis contra os prótemos.
+
+942
+00:46:04,940 --> 00:46:06,940
+Tudo está aí de para e fora.
+
+943
+00:46:06,940 --> 00:46:10,940
+Para poder o rimbolso, para meter o rimbolso.
+
+944
+00:46:10,940 --> 00:46:13,940
+E, obviamente, imagina,
+
+945
+00:46:13,940 --> 00:46:15,940
+foi uma das coisas que eu falei com ele sobre este tema,
+
+946
+00:46:15,940 --> 00:46:17,940
+que é, nós não vamos ter problemas
+
+947
+00:46:17,940 --> 00:46:20,940
+em termos de consumos.
+
+948
+00:46:20,940 --> 00:46:25,940
+Nem que neste momento tivéssemos cinco universidades de nada,
+
+949
+00:46:25,940 --> 00:46:27,940
+todas com aulas de anoite,
+
+950
+00:46:27,940 --> 00:46:29,940
+os nossos consumos vão ser irrisários.
+
+951
+00:46:29,940 --> 00:46:30,940
+É.
+
+952
+00:46:30,940 --> 00:46:31,940
+E que nós não temos coisas...
+
+953
+00:46:31,940 --> 00:46:33,940
+Não temos muita fecalos, imagina.
+
+954
+00:46:33,940 --> 00:46:35,940
+Um transcript é uma cala inteira.
+
+955
+00:46:35,940 --> 00:46:37,940
+E, depois, calmas, palmas.
+
+956
+00:46:37,940 --> 00:46:40,940
+Nós, isso, otimizar que isso vai ser uma coisa de esquecer,
+
+957
+00:46:40,940 --> 00:46:42,940
+nós, com uma conta para o PAN, é que, sim, inteiras,
+
+958
+00:46:42,940 --> 00:46:44,940
+vai nos chegar e vai sobrear, provavelmente.
+
+959
+00:46:44,940 --> 00:46:46,940
+É assim, eu tenho uma conta,
+
+960
+00:46:46,940 --> 00:46:48,940
+uma daquelas contas pagas, que é, tipo,
+
+961
+00:46:48,940 --> 00:46:51,940
+vinte de aulas por mês, e acho que o Francisco tem igual.
+
+962
+00:46:51,940 --> 00:46:54,940
+Se depois, mais tarde, precisamos de uma conta empresarial,
+
+963
+00:46:55,940 --> 00:46:58,940
+então, não sei se tem vantagens, se tiver vantagens,
+
+964
+00:46:58,940 --> 00:47:00,940
+se tiver vantagens, fazemos isso.
+
+965
+00:47:00,940 --> 00:47:02,940
+Não vale a pena, também, estar se...
+
+966
+00:47:02,940 --> 00:47:05,940
+Porque há uma coisa importante que é,
+
+967
+00:47:05,940 --> 00:47:11,940
+a parte da conta paga, a vantagem que eles não usam para eles.
+
+968
+00:47:11,940 --> 00:47:14,940
+Por isso, nós, tendo informação confidencial,
+
+969
+00:47:14,940 --> 00:47:19,940
+não convém-te a ir para o PAN e a ir para trabalhar modelos deles,
+
+970
+00:47:19,940 --> 00:47:22,940
+e ficar no nosso.
+
+971
+00:47:22,940 --> 00:47:25,940
+Por isso, se for preciso, um, ou usar uma conta,
+
+972
+00:47:25,940 --> 00:47:29,940
+criarmos uma conta anexia, desde vinte de aulas por mês,
+
+973
+00:47:29,940 --> 00:47:31,940
+ou criar uma empresarial, que eu não sei,
+
+974
+00:47:31,940 --> 00:47:33,940
+eu, para acaso, não sei a vantagem da empresarial,
+
+975
+00:47:33,940 --> 00:47:36,940
+fazemos isso, por seja, não convém-te a ir-nos agora.
+
+976
+00:47:36,940 --> 00:47:38,940
+É isso que eu ia dizer, é isso que eu ia dizer.
+
+977
+00:47:38,940 --> 00:47:40,940
+E mesmo utilizar a tua,
+
+978
+00:47:40,940 --> 00:47:43,940
+e tu falaste na altura de utilizar a tua,
+
+979
+00:47:43,940 --> 00:47:45,940
+mas, ao mesmo tempo, vai dar,
+
+980
+00:47:45,940 --> 00:47:49,940
+quase, a mesma coisa, em termos de confidencialidade,
+
+981
+00:47:49,940 --> 00:47:53,940
+que é uma conta pessoal.
+
+982
+00:47:53,940 --> 00:47:55,940
+Mas as minhas pesquisas,
+
+983
+00:47:55,940 --> 00:47:57,940
+vocês também já me conhecem um bocadinho,
+
+984
+00:47:57,940 --> 00:47:59,940
+já sabem que eu, se calhar, sou um bocadinho bom maluco,
+
+985
+00:47:59,940 --> 00:48:02,940
+e as minhas pesquisas,
+
+986
+00:48:02,940 --> 00:48:04,940
+as minhas pesquisas,
+
+987
+00:48:04,940 --> 00:48:06,940
+para, se vocês virem no meu YouTube,
+
+988
+00:48:06,940 --> 00:48:08,940
+as sugestões que eu recebo,
+
+989
+00:48:08,940 --> 00:48:11,940
+e nos chatos IPTs, as pesquisas que eu faço,
+
+990
+00:48:11,940 --> 00:48:13,940
+as dizinhas de queijo, não mate muito,
+
+991
+00:48:13,940 --> 00:48:15,940
+não fecha muito bem a porta,
+
+992
+00:48:15,940 --> 00:48:18,940
+mas, também, não tenho problemas como isso.
+
+993
+00:48:18,940 --> 00:48:21,940
+Eu sou capaz de fazer uma pergunta de história,
+
+994
+00:48:21,940 --> 00:48:24,940
+como, logo a seguir, estar a ver um vídeo de snowboarding.
+
+995
+00:48:24,940 --> 00:48:27,940
+Então, tu ves o meu,
+
+996
+00:48:27,940 --> 00:48:29,940
+vocês viram meu YouTube,
+
+997
+00:48:29,940 --> 00:48:32,940
+vocês dizem, pais, não faz sentido nenhum aqui.
+
+998
+00:48:32,940 --> 00:48:34,940
+Mas não há absolutamente problema nenhum,
+
+999
+00:48:34,940 --> 00:48:35,940
+se for necessário.
+
+1000
+00:48:35,940 --> 00:48:37,940
+Eu acho que o que te preocupa mais
+
+1001
+00:48:37,940 --> 00:48:39,940
+é a questão do gratuito,
+
+1002
+00:48:39,940 --> 00:48:41,940
+e depois termos um problema mais à frente,
+
+1003
+00:48:41,940 --> 00:48:42,940
+porque, sei lá,
+
+1004
+00:48:42,940 --> 00:48:44,940
+Viogo Feio, Rita Batista,
+
+1005
+00:48:44,940 --> 00:48:46,940
+passaram ali,
+
+1006
+00:48:46,940 --> 00:48:48,940
+algo umíquate, mas,
+
+1007
+00:48:48,940 --> 00:48:50,940
+não é muito agradável, não é?
+
+1008
+00:48:50,940 --> 00:48:52,940
+Mesmo que não haja,
+
+1009
+00:48:52,940 --> 00:48:54,940
+pelo menos, em termos confidenciais,
+
+1010
+00:48:54,940 --> 00:48:56,940
+já podemos dizer que temos que cuidar com isso,
+
+1011
+00:48:56,940 --> 00:48:58,940
+tem que estar atento.
+
+1012
+00:48:58,940 --> 00:49:00,940
+Por isso, após, a sugestão seria,
+
+1013
+00:49:00,940 --> 00:49:02,940
+são-te importados, ceder-os, então,
+
+1014
+00:49:02,940 --> 00:49:04,940
+à conta, ao,
+
+1015
+00:49:04,940 --> 00:49:06,940
+ao Daniel,
+
+1016
+00:49:06,940 --> 00:49:08,940
+pelo começar a usar isso,
+
+1017
+00:49:08,940 --> 00:49:10,940
+fica tudo centralizado lá na Vival,
+
+1018
+00:49:10,940 --> 00:49:12,940
+eu vou por aqui, está aqui,
+
+1019
+00:49:12,940 --> 00:49:14,940
+fica já ao eixo.
+
+1020
+00:49:14,940 --> 00:49:16,940
+Então, eu vou para amanhã,
+
+1021
+00:49:16,940 --> 00:49:18,940
+tenho estado para o limite para amanhã,
+
+1022
+00:49:18,940 --> 00:49:20,940
+estou achado.
+
+1023
+00:49:20,940 --> 00:49:22,940
+Isto aqui é para mim,
+
+1024
+00:49:22,940 --> 00:49:24,940
+também tenho de criar,
+
+1025
+00:49:24,940 --> 00:49:26,940
+e para a semana está feita,
+
+1026
+00:49:26,940 --> 00:49:28,940
+tenho de organizar o version control,
+
+1027
+00:49:28,940 --> 00:49:30,940
+também,
+
+1028
+00:49:30,940 --> 00:49:32,940
+e, enfim,
+
+1029
+00:49:32,940 --> 00:49:34,940
+a esta aqui é um dos temas,
+
+1030
+00:49:34,940 --> 00:49:36,940
+nós falamos a semana passada disto,
+
+1031
+00:49:36,940 --> 00:49:38,940
+que é,
+
+1032
+00:49:40,940 --> 00:49:42,940
+uma das formas fáceis de,
+
+1033
+00:49:42,940 --> 00:49:44,940
+também,
+
+1034
+00:49:44,940 --> 00:49:46,940
+optimizar os estudos dos alunos,
+
+1035
+00:49:46,940 --> 00:49:48,940
+isso foi uma sugestão francística, até.
+
+1036
+00:49:48,940 --> 00:49:50,940
+Então, acabamos a falar,
+
+1037
+00:49:50,940 --> 00:49:52,940
+e tal, a altura do tempo em que,
+
+1038
+00:49:52,940 --> 00:49:54,940
+os alunos faltam à aula,
+
+1039
+00:49:54,940 --> 00:49:56,940
+ou os alunos tiveram-nos atentos no tema
+
+1040
+00:49:56,940 --> 00:49:58,940
+X e YZ.
+
+1041
+00:49:58,940 --> 00:50:00,940
+Uma das coisas interessantes,
+
+1042
+00:50:00,940 --> 00:50:02,940
+é, nós em vez de mandarmos notificação,
+
+1043
+00:50:02,940 --> 00:50:04,940
+logo no fim da aula,
+
+1044
+00:50:04,940 --> 00:50:06,940
+que os alunos estão a sair da aula,
+
+1045
+00:50:06,940 --> 00:50:08,940
+como os fila, que sabem notificação,
+
+1046
+00:50:08,940 --> 00:50:10,940
+e de limpar a notificação,
+
+1047
+00:50:10,940 --> 00:50:12,940
+a aula é
+
+1048
+00:50:12,940 --> 00:50:14,940
+de acordo com a pessoa,
+
+1049
+00:50:14,940 --> 00:50:16,940
+e imagina, com uma idade,
+
+1050
+00:50:16,940 --> 00:50:18,940
+e por aí fora, de ver aí uns estudos,
+
+1051
+00:50:18,940 --> 00:50:20,940
+e depois, não é para agora,
+
+1052
+00:50:20,940 --> 00:50:22,940
+mas para o futuro,
+
+1053
+00:50:22,940 --> 00:50:24,940
+e otimizar, quando é que são enviadas
+
+1054
+00:50:24,940 --> 00:50:26,940
+estas notificações,
+
+1055
+00:50:26,940 --> 00:50:28,940
+ele falou, por exemplo,
+
+1056
+00:50:28,940 --> 00:50:30,940
+a noite, quando o gajo está a dormir,
+
+1057
+00:50:30,940 --> 00:50:32,940
+foi assim, um estado mais
+
+1058
+00:50:32,940 --> 00:50:34,940
+visionar, mas quando o gajo está a dormir,
+
+1059
+00:50:34,940 --> 00:50:36,940
+quando há alguma coisa, depois relemra-se,
+
+1060
+00:50:36,940 --> 00:50:38,940
+mas o objetivo é
+
+1061
+00:50:38,940 --> 00:50:40,940
+as notificações, de modo
+
+1062
+00:50:40,940 --> 00:50:42,940
+de otimizar a educação, o nosso objetivo
+
+1063
+00:50:42,940 --> 00:50:44,940
+é
+
+1064
+00:50:44,940 --> 00:50:46,940
+sinalizar a educação
+
+1065
+00:50:46,940 --> 00:50:48,940
+de forma otimizada
+
+1066
+00:50:48,940 --> 00:50:50,940
+para essa pessoa,
+
+1067
+00:50:50,940 --> 00:50:52,940
+e nós mandamos a notificação, na altura 7,
+
+1068
+00:50:52,940 --> 00:50:54,940
+não quando, por exemplo, os aceleróptomos
+
+1069
+00:50:54,940 --> 00:50:56,940
+estão todos a bombar, por exemplo,
+
+1070
+00:50:56,940 --> 00:50:58,940
+eu quando vou a ginásio,
+
+1071
+00:50:58,940 --> 00:51:00,940
+e os meus acelerómetros de telemóvel
+
+1072
+00:51:00,940 --> 00:51:02,940
+estão, e de relógio estão a me laura,
+
+1073
+00:51:02,940 --> 00:51:04,940
+ele não vai mandar uma notificação
+
+1074
+00:51:04,940 --> 00:51:06,940
+para eu ir estudar, a parte que
+
+1075
+00:51:06,940 --> 00:51:08,940
+você tem que desatender, por isso
+
+1076
+00:51:08,940 --> 00:51:10,940
+isto aqui faz sentido, é uma coisa
+
+1077
+00:51:10,940 --> 00:51:12,940
+é low-anging fruit
+
+1078
+00:51:12,940 --> 00:51:14,940
+para otimizar, por isso
+
+1079
+00:51:14,940 --> 00:51:16,940
+tem esta, tem esta coisinha aqui,
+
+1080
+00:51:16,940 --> 00:51:18,940
+vou fechar isto, mas
+
+1081
+00:51:18,940 --> 00:51:20,940
+era para discutir contigo só
+
+1082
+00:51:20,940 --> 00:51:22,940
+o objetivo,
+
+1083
+00:51:22,940 --> 00:51:24,940
+e
+
+1084
+00:51:24,940 --> 00:51:26,940
+estas são termos de agendá-las,
+
+1085
+00:51:26,940 --> 00:51:28,940
+vou adiar para a semana, mas temos de
+
+1086
+00:51:28,940 --> 00:51:30,940
+agendá-las.
+
+1087
+00:51:30,940 --> 00:51:32,940
+Queres que eu fudei a um apeteite aí na,
+
+1088
+00:51:32,940 --> 00:51:34,940
+ok, cá uma série de coisas que
+
+1089
+00:51:34,940 --> 00:51:36,940
+não temos aí escritas.
+
+1090
+00:51:40,940 --> 00:51:42,940
+Mas em relação a isto, é que
+
+1091
+00:51:42,940 --> 00:51:44,940
+se não fechámos isto antes,
+
+1092
+00:51:44,940 --> 00:51:46,940
+que
+
+1093
+00:51:46,940 --> 00:51:48,940
+estás a falar de qual?
+
+1094
+00:51:48,940 --> 00:51:50,940
+Desculpa, agora estou...
+
+1095
+00:51:50,940 --> 00:51:52,940
+Eu agora falo em aquela sessão que
+
+1096
+00:51:52,940 --> 00:51:54,940
+tínhamos de agendar para falar de
+
+1097
+00:51:54,940 --> 00:51:56,940
+repetitivas salariais, de equipe...
+
+1098
+00:51:56,940 --> 00:51:58,940
+Ah, sim, sim, sim, sim.
+
+1099
+00:51:58,940 --> 00:52:00,940
+Isso é um marco finiano, pois marcarmos
+
+1100
+00:52:00,940 --> 00:52:02,940
+é só o que a tarefa para irmos relentando.
+
+1101
+00:52:02,940 --> 00:52:04,940
+Não estou a ver no ecrã?
+
+1102
+00:52:04,940 --> 00:52:06,940
+Não estou a...
+
+1103
+00:52:06,940 --> 00:52:08,940
+Não me estás a ver?
+
+1104
+00:52:08,940 --> 00:52:10,940
+Eu estou a ver, estava a ver.
+
+1105
+00:52:10,940 --> 00:52:12,940
+A partilha do ecrã?
+
+1106
+00:52:12,940 --> 00:52:14,940
+Não está a ver, eu estou a ver.
+
+1107
+00:52:14,940 --> 00:52:16,940
+Ah, já estou a ver, desculpa, já estou a ver.
+
+1108
+00:52:16,940 --> 00:52:18,940
+Já estou a ver.
+
+1109
+00:52:18,940 --> 00:52:20,940
+Estou a ver agora,
+
+1110
+00:52:20,940 --> 00:52:22,940
+porque estou no meu time,
+
+1111
+00:52:22,940 --> 00:52:24,940
+não estou a ver no ecrã.
+
+1112
+00:52:24,940 --> 00:52:26,940
+Ah...
+
+1113
+00:52:26,940 --> 00:52:28,940
+E no meu time,
+
+1114
+00:52:28,940 --> 00:52:30,940
+não estava aquele direito.
+
+1115
+00:52:30,940 --> 00:52:32,940
+Não estava selecionado.
+
+1116
+00:52:32,940 --> 00:52:34,940
+Pronto, mas agora já estou a acompanhar.
+
+1117
+00:52:34,940 --> 00:52:36,940
+Por isso é que eu estava ali, eu estava com
+
+1118
+00:52:36,940 --> 00:52:38,940
+o meu time aberto com as tarefas,
+
+1119
+00:52:38,940 --> 00:52:40,940
+eu não é que ele está aqui a apontar.
+
+1120
+00:52:40,940 --> 00:52:42,940
+OK, era eu.
+
+1121
+00:52:42,940 --> 00:52:44,940
+O...
+
+1122
+00:52:44,940 --> 00:52:46,940
+Pronto, sim.
+
+1123
+00:52:46,940 --> 00:52:48,940
+Olha.
+
+1124
+00:52:48,940 --> 00:52:50,940
+Deixa-me só, para que as notas...
+
+1125
+00:52:50,940 --> 00:52:52,940
+Tem-se tudo aqui dentro das notas,
+
+1126
+00:52:52,940 --> 00:52:54,940
+a minha lollada.
+
+1127
+00:52:54,940 --> 00:52:56,940
+OK.
+
+1128
+00:52:56,940 --> 00:52:58,940
+Mas já falámos gesto, falámos gesto.
+
+1129
+00:52:58,940 --> 00:53:00,940
+Aqui é a agenda da tal sempre que tínhamos falado, André.
+
+1130
+00:53:00,940 --> 00:53:02,940
+Mas isso agendamos quanto eu acho que não é dado.
+
+1131
+00:53:02,940 --> 00:53:04,940
+Sim.
+
+1132
+00:53:04,940 --> 00:53:06,940
+Olha, até se calhar vai ser uma boa...
+
+1133
+00:53:06,940 --> 00:53:08,940
+Uma boa coisa,
+
+1134
+00:53:08,940 --> 00:53:10,940
+para quando tu vieses a Portugal, falámos.
+
+1135
+00:53:10,940 --> 00:53:12,940
+Tá bem.
+
+1136
+00:53:12,940 --> 00:53:14,940
+Onde é que tu vans?
+
+1137
+00:53:14,940 --> 00:53:16,940
+Em março.
+
+1138
+00:53:16,940 --> 00:53:18,940
+Ali no...
+
+1139
+00:53:18,940 --> 00:53:20,940
+24.
+
+1140
+00:53:20,940 --> 00:53:22,940
+Nessa semana.
+
+1141
+00:53:24,940 --> 00:53:26,940
+Vou pôr aqui para essa semana.
+
+1142
+00:53:28,940 --> 00:53:30,940
+24.
+
+1143
+00:53:30,940 --> 00:53:32,940
+Que passinho da feira.
+
+1144
+00:53:32,940 --> 00:53:34,940
+Ah.
+
+1145
+00:53:34,940 --> 00:53:36,940
+Exatamente.
+
+1146
+00:53:36,940 --> 00:53:38,940
+Eu só me peço para falar-se disso,
+
+1147
+00:53:38,940 --> 00:53:40,940
+somente.
+
+1148
+00:53:40,940 --> 00:53:42,940
+Mais um tema para a tarde.
+
+1149
+00:53:42,940 --> 00:53:44,940
+Isso aqui,
+
+1150
+00:53:44,940 --> 00:53:46,940
+acho que vamos fechar.
+
+1151
+00:53:46,940 --> 00:53:48,940
+Vamos fechar.
+
+1152
+00:53:48,940 --> 00:53:50,940
+E ele respondeu,
+
+1153
+00:53:50,940 --> 00:53:52,940
+ele mandou uma mensagem no WhatsApp
+
+1154
+00:53:52,940 --> 00:53:54,940
+a dizer que...
+
+1155
+00:53:54,940 --> 00:53:56,940
+Ele estava...
+
+1156
+00:53:56,940 --> 00:53:58,940
+Não sei o que eu disse.
+
+1157
+00:53:58,940 --> 00:54:00,940
+Não vai ser isso.
+
+1158
+00:54:00,940 --> 00:54:02,940
+Mas combinamos falar.
+
+1159
+00:54:02,940 --> 00:54:04,940
+Para...
+
+1160
+00:54:04,940 --> 00:54:06,940
+Porque eu disse assim,
+
+1161
+00:54:06,940 --> 00:54:08,940
+o freelancer
+
+1162
+00:54:08,940 --> 00:54:10,940
+está...
+
+1163
+00:54:10,940 --> 00:54:12,940
+doente.
+
+1164
+00:54:12,940 --> 00:54:14,940
+E está a fazer isto para o bônus.
+
+1165
+00:54:14,940 --> 00:54:16,940
+Então,
+
+1166
+00:54:16,940 --> 00:54:18,940
+a prioridade é
+
+1167
+00:54:18,940 --> 00:54:20,940
+outra coisa, que é o pitch.
+
+1168
+00:54:20,940 --> 00:54:22,940
+Que eu pedi para fazer o pitch.
+
+1169
+00:54:22,940 --> 00:54:24,940
+E...
+
+1170
+00:54:24,940 --> 00:54:26,940
+Eu disse-lhe só, pai.
+
+1171
+00:54:26,940 --> 00:54:28,940
+E então,
+
+1172
+00:54:28,940 --> 00:54:30,940
+está um bocado complicado,
+
+1173
+00:54:30,940 --> 00:54:32,940
+mas com base naquilo que nós dissemos,
+
+1174
+00:54:32,940 --> 00:54:34,940
+tu consegue criar um...
+
+1175
+00:54:34,940 --> 00:54:36,940
+um plano de qual seria a prioridade
+
+1176
+00:54:36,940 --> 00:54:38,940
+para um MVP e tudo.
+
+1177
+00:54:38,940 --> 00:54:40,940
+E ele disse assim,
+
+1178
+00:54:40,940 --> 00:54:42,940
+mas eu preciso de que as coisas
+
+1179
+00:54:42,940 --> 00:54:44,940
+são mais coisas contigo.
+
+1180
+00:54:44,940 --> 00:54:46,940
+E pronto.
+
+1181
+00:54:46,940 --> 00:54:48,940
+Vamos falar na próxima semana.
+
+1182
+00:54:48,940 --> 00:54:50,940
+Eu acho que ele está mais...
+
+1183
+00:54:50,940 --> 00:54:52,940
+Mas fecha, fecha, pode fechar isso.
+
+1184
+00:54:52,940 --> 00:54:54,940
+E vai ficar agora.
+
+1185
+00:54:54,940 --> 00:54:56,940
+Mas imagina.
+
+1186
+00:54:56,940 --> 00:54:58,940
+Eu acho que cada vez mais,
+
+1187
+00:54:58,940 --> 00:55:00,940
+com isso que vamos fazer, de usar autenticamente,
+
+1188
+00:55:00,940 --> 00:55:02,940
+multi-page app e por aí fora,
+
+1189
+00:55:02,940 --> 00:55:04,940
+vamos ter uma aplicação,
+
+1190
+00:55:04,940 --> 00:55:06,940
+uma app,
+
+1191
+00:55:06,940 --> 00:55:08,940
+uma plataforma,
+
+1192
+00:55:08,940 --> 00:55:10,940
+vai ser um MVP
+
+1193
+00:55:10,940 --> 00:55:12,940
+e acho que vai ser suficiente
+
+1194
+00:55:12,940 --> 00:55:14,940
+para começar a integrar os clientes
+
+1195
+00:55:14,940 --> 00:55:16,940
+de forma...
+
+1196
+00:55:16,940 --> 00:55:18,940
+Porque eles vão poder criar utilizadores
+
+1197
+00:55:18,940 --> 00:55:20,940
+e por aí fora.
+
+1198
+00:55:20,940 --> 00:55:22,940
+Eu acho que vai ser o caminho andado
+
+1199
+00:55:22,940 --> 00:55:24,940
+para nós darmos isso.
+
+1200
+00:55:24,940 --> 00:55:26,940
+Em vez das wireframes,
+
+1201
+00:55:26,940 --> 00:55:28,940
+olha, é para estar aqui,
+
+1202
+00:55:28,940 --> 00:55:30,940
+é isso que nós criamos,
+
+1203
+00:55:30,940 --> 00:55:32,940
+mas, como vai-nos para escalar,
+
+1204
+00:55:32,940 --> 00:55:34,940
+em React, com tudo direitinho,
+
+1205
+00:55:34,940 --> 00:55:36,940
+Express, GES, seja o que for,
+
+1206
+00:55:36,940 --> 00:55:38,940
+para...
+
+1207
+00:55:38,940 --> 00:55:40,940
+Temos tudo escalado.
+
+1208
+00:55:40,940 --> 00:55:42,940
+E acho que é um MVP
+
+1209
+00:55:42,940 --> 00:55:44,940
+como...
+
+1210
+00:55:44,940 --> 00:55:46,940
+o objectivo futuro de ser escalado.
+
+1211
+00:55:46,940 --> 00:55:48,940
+E se ele precisar
+
+1212
+00:55:48,940 --> 00:55:50,940
+de dúvidas contigo, e se quiseres que eu esteja lá,
+
+1213
+00:55:50,940 --> 00:55:52,940
+avisa que...
+
+1214
+00:55:52,940 --> 00:55:54,940
+Eu vou te perguntar...
+
+1215
+00:55:54,940 --> 00:55:56,940
+Qual a certeza que é preciso
+
+1216
+00:55:56,940 --> 00:55:58,940
+que ele deve ter perguntas técnicas?
+
+1217
+00:55:58,940 --> 00:56:00,940
+Pois, é capaz.
+
+1218
+00:56:00,940 --> 00:56:02,940
+Eu vou-te perguntar.
+
+1219
+00:56:02,940 --> 00:56:04,940
+Ele disse também que estava de férias,
+
+1220
+00:56:04,940 --> 00:56:06,940
+mas podemos falar, e disse,
+
+1221
+00:56:06,940 --> 00:56:08,940
+volta de férias e...
+
+1222
+00:56:08,940 --> 00:56:10,940
+e falamos.
+
+1223
+00:56:10,940 --> 00:56:12,940
+O que é essa do gravação
+
+1224
+00:56:12,940 --> 00:56:14,940
+da reunião de Zoom?
+
+1225
+00:56:14,940 --> 00:56:16,940
+Eu quero esclarecer
+
+1226
+00:56:16,940 --> 00:56:18,940
+as dúvidas que é...
+
+1227
+00:56:18,940 --> 00:56:20,940
+Nós já gravamos umas sessões em Zoom,
+
+1228
+00:56:20,940 --> 00:56:22,940
+normais,
+
+1229
+00:56:22,940 --> 00:56:24,940
+mas eu quero testar com Zoom Pro,
+
+1230
+00:56:24,940 --> 00:56:26,940
+porque podemos tomar
+
+1231
+00:56:26,940 --> 00:56:28,940
+a tal coisa da galeria,
+
+1232
+00:56:28,940 --> 00:56:30,940
+que eu quero saber as dimensões,
+
+1233
+00:56:30,940 --> 00:56:32,940
+de, por exemplo, com algumas pessoas,
+
+1234
+00:56:32,940 --> 00:56:34,940
+bastante pessoas a participar na sessão,
+
+1235
+00:56:34,940 --> 00:56:36,940
+na galeria,
+
+1236
+00:56:36,940 --> 00:56:38,940
+que a quantidade de pixels há que temos
+
+1237
+00:56:38,940 --> 00:56:40,940
+para avaliar as caras.
+
+1238
+00:56:40,940 --> 00:56:42,940
+Imagina, modelos
+
+1239
+00:56:42,940 --> 00:56:44,940
+que, se tivarem as caras muito meninas,
+
+1240
+00:56:44,940 --> 00:56:46,940
+conseguirá, às vezes,
+
+1241
+00:56:46,940 --> 00:56:48,940
+informação suficiente.
+
+1242
+00:56:48,940 --> 00:56:50,940
+E quero começar a fazer uns testes com isso.
+
+1243
+00:56:50,940 --> 00:56:52,940
+Não é prioridade neste momento,
+
+1244
+00:56:52,940 --> 00:56:54,940
+mas é para podermos dizer a parte.
+
+1245
+00:56:54,940 --> 00:56:56,940
+Nós, com dez pessoas,
+
+1246
+00:56:56,940 --> 00:56:58,940
+Zoom Pro está a bombar pro reiro,
+
+1247
+00:56:58,940 --> 00:57:00,940
+com vinte pessoas
+
+1248
+00:57:00,940 --> 00:57:02,940
+estamos a otimizar e tal,
+
+1249
+00:57:02,940 --> 00:57:04,940
+porque as caras são pequenas,
+
+1250
+00:57:04,940 --> 00:57:06,940
+é aquele sistema.
+
+1251
+00:57:06,940 --> 00:57:08,940
+É que começar a...
+
+1252
+00:57:08,940 --> 00:57:10,940
+Para não prometer coisas que não conseguimos
+
+1253
+00:57:10,940 --> 00:57:12,940
+cumprir a 100%
+
+1254
+00:57:12,940 --> 00:57:14,940
+para avaliar esses temas.
+
+1255
+00:57:14,940 --> 00:57:16,940
+Ok.
+
+1256
+00:57:16,940 --> 00:57:18,940
+Só aqui nisto,
+
+1257
+00:57:18,940 --> 00:57:20,940
+em relação aos mockups,
+
+1258
+00:57:20,940 --> 00:57:22,940
+no fim de semana
+
+1259
+00:57:22,940 --> 00:57:24,940
+vou falar com o Pete,
+
+1260
+00:57:24,940 --> 00:57:26,940
+que é lá o designer,
+
+1261
+00:57:26,940 --> 00:57:28,940
+e ele vai
+
+1262
+00:57:28,940 --> 00:57:30,940
+trabalhar no sábado,
+
+1263
+00:57:30,940 --> 00:57:32,940
+e depois vamos falar no domingo,
+
+1264
+00:57:32,940 --> 00:57:34,940
+vamos falar, desculpe, vamos falar no domingo,
+
+1265
+00:57:34,940 --> 00:57:36,940
+exatamente, que a ideia
+
+1266
+00:57:36,940 --> 00:57:38,940
+é termos o primeiro
+
+1267
+00:57:38,940 --> 00:57:40,940
+o Pete
+
+1268
+00:57:40,940 --> 00:57:42,940
+do sábado,
+
+1269
+00:57:42,940 --> 00:57:44,940
+e há dois tipos de Pete,
+
+1270
+00:57:44,940 --> 00:57:46,940
+um Pete da apresentação,
+
+1271
+00:57:46,940 --> 00:57:48,940
+este é a NX,
+
+1272
+00:57:48,940 --> 00:57:50,940
+queremos mandar para uma universidade,
+
+1273
+00:57:50,940 --> 00:57:52,940
+ou para uma instituição qualquer,
+
+1274
+00:57:52,940 --> 00:57:54,940
+e temos um...
+
+1275
+00:57:54,940 --> 00:57:56,940
+uma coisa bonitinha a explicar o que fazemos,
+
+1276
+00:57:56,940 --> 00:57:58,940
+e outra é com
+
+1277
+00:57:58,940 --> 00:58:00,940
+informação que já tínhamos trabalhado para investidores,
+
+1278
+00:58:00,940 --> 00:58:02,940
+que até nós
+
+1279
+00:58:02,940 --> 00:58:04,940
+já falámos sobre isso.
+
+1280
+00:58:06,940 --> 00:58:08,940
+E o que vem a seguir é isto,
+
+1281
+00:58:08,940 --> 00:58:10,940
+ou seja,
+
+1282
+00:58:10,940 --> 00:58:12,940
+em termos de prioridade
+
+1283
+00:58:12,940 --> 00:58:14,940
+eu fui o Pete,
+
+1284
+00:58:14,940 --> 00:58:16,940
+e depois
+
+1285
+00:58:16,940 --> 00:58:18,940
+venham os
+
+1286
+00:58:18,940 --> 00:58:20,940
+wireframes para a plataforma do aluno,
+
+1287
+00:58:20,940 --> 00:58:22,940
+para a plataforma do professor,
+
+1288
+00:58:22,940 --> 00:58:24,940
+e que será mais tarde.
+
+1289
+00:58:28,940 --> 00:58:30,940
+Especialmente agora que vamos ter uma web app,
+
+1290
+00:58:30,940 --> 00:58:32,940
+vamos usar as funcionalidades que precisamos.
+
+1291
+00:58:34,940 --> 00:58:36,940
+Eu tenho os códigos de cores,
+
+1292
+00:58:36,940 --> 00:58:38,940
+o hexacode...
+
+1293
+00:58:38,940 --> 00:58:40,940
+Eu lembrei...
+
+1294
+00:58:40,940 --> 00:58:42,940
+Eu lembrei...
+
+1295
+00:58:42,940 --> 00:58:44,940
+Estava a falar aí de
+
+1296
+00:58:44,940 --> 00:58:46,940
+design, essa aqui é o Pere.
+
+1297
+00:58:46,940 --> 00:58:48,940
+Eu estava aqui, escrevi aqui
+
+1298
+00:58:48,940 --> 00:58:50,940
+na tarefa 0.4
+
+1299
+00:58:50,940 --> 00:58:52,940
+de
+
+1300
+00:58:52,940 --> 00:58:54,940
+melhorar o aspecto da página com o piano de template,
+
+1301
+00:58:54,940 --> 00:58:56,940
+mas os templates vêm com o vermelho
+
+1302
+00:58:56,940 --> 00:58:58,940
+e por a rosa,
+
+1303
+00:58:58,940 --> 00:59:00,940
+e imagina, lá nesse tipo de coisas,
+
+1304
+00:59:00,940 --> 00:59:02,940
+para trocar as cores por norma,
+
+1305
+00:59:02,940 --> 00:59:04,940
+é só a RGA ver o que é preciso dar
+
+1306
+00:59:04,940 --> 00:59:06,940
+os números, e isso aí são os códigos de cores.
+
+1307
+00:59:06,940 --> 00:59:08,940
+Se imagina, se os códigos de cores
+
+1308
+00:59:08,940 --> 00:59:10,940
+que tiverem, que era como vinham
+
+1309
+00:59:10,940 --> 00:59:12,940
+em Figma, Daniel,
+
+1310
+00:59:12,940 --> 00:59:14,940
+em hexadecimal,
+
+1311
+00:59:14,940 --> 00:59:16,940
+e puder, novo,
+
+1312
+00:59:16,940 --> 00:59:18,940
+a RGA corre,
+
+1313
+00:59:18,940 --> 00:59:20,940
+pegaste naquilo, metes-me-chato,
+
+1314
+00:59:20,940 --> 00:59:22,940
+no conversor, e conversa,
+
+1315
+00:59:22,940 --> 00:59:24,940
+e fazem a RGA ver que assim,
+
+1316
+00:59:24,940 --> 00:59:26,940
+até já fazemos, além de empanhas,
+
+1317
+00:59:26,940 --> 00:59:28,940
+com as cores da Nexin.
+
+1318
+00:59:30,940 --> 00:59:32,940
+Eu já fui lá ao Figma e tirei,
+
+1319
+00:59:32,940 --> 00:59:34,940
+até vou colocar aqui o logo, se quiserem,
+
+1320
+00:59:34,940 --> 00:59:36,940
+colocar este logo,
+
+1321
+00:59:36,940 --> 00:59:38,940
+e depois vou mandar o branco,
+
+1322
+00:59:38,940 --> 00:59:40,940
+e eu tirei isto tudo,
+
+1323
+00:59:40,940 --> 00:59:42,940
+que era
+
+1324
+00:59:42,940 --> 00:59:44,940
+por acaso de não ter acesso ao Figma, por algum motivo,
+
+1325
+00:59:46,940 --> 00:59:48,940
+já tinha as coisas,
+
+1326
+00:59:48,940 --> 00:59:50,940
+metes isto aqui.
+
+1327
+00:59:50,940 --> 00:59:52,940
+Ah, ok, está bem, está bem.
+
+1328
+00:59:52,940 --> 00:59:54,940
+Mete estas coisas
+
+1329
+00:59:54,940 --> 00:59:56,940
+numa pasta
+
+1330
+00:59:56,940 --> 00:59:58,940
+tipo branding, até que pudemos
+
+1331
+00:59:58,940 --> 01:00:00,940
+criar aqui. Ah, está bem, está bem.
+
+1332
+01:00:00,940 --> 01:00:02,940
+Ok.
+
+1333
+01:00:02,940 --> 01:00:04,940
+É assim, está tudo lá juntinho,
+
+1334
+01:00:04,940 --> 01:00:06,940
+para o futuro.
+
+1335
+01:00:06,940 --> 01:00:08,940
+Ok.
+
+1336
+01:00:08,940 --> 01:00:10,940
+Não, faz sentido. Eu tenho
+
+1337
+01:00:10,940 --> 01:00:12,940
+uma pasta no meu
+
+1338
+01:00:12,940 --> 01:00:14,940
+computador,
+
+1339
+01:00:14,940 --> 01:00:16,940
+e assim até é melhor
+
+1340
+01:00:16,940 --> 01:00:18,940
+pôr-me aqui no...
+
+1341
+01:00:18,940 --> 01:00:20,940
+Ah, veja lá tudo, exatamente.
+
+1342
+01:00:22,940 --> 01:00:24,940
+Eu tenho uma tipo de
+
+1343
+01:00:24,940 --> 01:00:26,940
+design, e então
+
+1344
+01:00:26,940 --> 01:00:28,940
+eu meto aí
+
+1345
+01:00:30,940 --> 01:00:32,940
+aqui.
+
+1346
+01:00:36,940 --> 01:00:38,940
+Ok.
+
+1347
+01:00:38,940 --> 01:00:40,940
+Vou criar aqui,
+
+1348
+01:00:40,940 --> 01:00:42,940
+eu vou passar aqui estas outras tarefas,
+
+1349
+01:00:42,940 --> 01:00:44,940
+para aqui,
+
+1350
+01:00:44,940 --> 01:00:46,940
+que vai ser
+
+1351
+01:00:46,940 --> 01:00:48,940
+de
+
+1352
+01:00:48,940 --> 01:00:50,940
+design,
+
+1353
+01:00:50,940 --> 01:00:52,940
+talvez.
+
+1354
+01:00:52,940 --> 01:00:54,940
+Bem, eu já coloquei aqui,
+
+1355
+01:00:54,940 --> 01:00:56,940
+e agora faço aqui o upload
+
+1356
+01:00:56,940 --> 01:00:58,940
+de isto.
+
+1357
+01:00:58,940 --> 01:01:00,940
+Ah,
+
+1358
+01:01:00,940 --> 01:01:02,940
+para,
+
+1359
+01:01:02,940 --> 01:01:04,940
+porque,
+
+1360
+01:01:04,940 --> 01:01:06,940
+design e branding, talvez.
+
+1361
+01:01:06,940 --> 01:01:08,940
+Ok.
+
+1362
+01:01:12,940 --> 01:01:14,940
+É,
+
+1363
+01:01:14,940 --> 01:01:16,940
+estas coisas todas, assim,
+
+1364
+01:01:16,940 --> 01:01:18,940
+porque,
+
+1365
+01:01:18,940 --> 01:01:20,940
+as mesmas,
+
+1366
+01:01:20,940 --> 01:01:22,940
+temos as tarefas prioridades, que é
+
+1367
+01:01:22,940 --> 01:01:24,940
+até vou adicionar lá aqui,
+
+1368
+01:01:24,940 --> 01:01:26,940
+que é
+
+1369
+01:01:26,940 --> 01:01:28,940
+pico, não é?
+
+1370
+01:01:28,940 --> 01:01:30,940
+É.
+
+1371
+01:01:40,940 --> 01:01:42,940
+Eu, por exemplo,
+
+1372
+01:01:42,940 --> 01:01:44,940
+o efeito da ANI,
+
+1373
+01:01:44,940 --> 01:01:46,940
+mas eu já falo isso melhor,
+
+1374
+01:01:46,940 --> 01:01:48,940
+também coloquei o pico
+
+1375
+01:01:48,940 --> 01:01:50,940
+no organograma.
+
+1376
+01:01:50,940 --> 01:01:52,940
+A nex.
+
+1377
+01:01:56,940 --> 01:01:58,940
+Eu não.
+
+1378
+01:02:00,940 --> 01:02:02,940
+Eu não.
+
+1379
+01:02:02,940 --> 01:02:04,940
+Eu não.
+
+1380
+01:02:04,940 --> 01:02:06,940
+Eu não.
+
+1381
+01:02:18,940 --> 01:02:20,940
+Podes por isso,
+
+1382
+01:02:20,940 --> 01:02:22,940
+para a segunda-feira.
+
+1383
+01:02:22,940 --> 01:02:24,940
+Quarta-feira,
+
+1384
+01:02:24,940 --> 01:02:26,940
+é o,
+
+1385
+01:02:26,940 --> 01:02:28,940
+para falarmos na próxima quinta.
+
+1386
+01:02:28,940 --> 01:02:30,940
+Sim, ok.
+
+1387
+01:02:30,940 --> 01:02:32,940
+O ideal,
+
+1388
+01:02:32,940 --> 01:02:34,940
+é,
+
+1389
+01:02:34,940 --> 01:02:36,940
+é,
+
+1390
+01:02:36,940 --> 01:02:38,940
+é,
+
+1391
+01:02:38,940 --> 01:02:40,940
+é,
+
+1392
+01:02:40,940 --> 01:02:42,940
+o que está,
+
+1393
+01:02:42,940 --> 01:02:44,940
+isso fica como prioridade,
+
+1394
+01:02:44,940 --> 01:02:46,940
+já se pode acima.
+
+1395
+01:02:46,940 --> 01:02:48,940
+Ah, ok.
+
+1396
+01:02:48,940 --> 01:02:50,940
+Olha,
+
+1397
+01:02:50,940 --> 01:02:52,940
+eu acho que falo só, e o resto,
+
+1398
+01:02:52,940 --> 01:02:54,940
+depois falo-se das outras prioridades,
+
+1399
+01:02:54,940 --> 01:02:56,940
+tipo,
+
+1400
+01:02:56,940 --> 01:02:58,940
+eu já passei para a frente.
+
+1401
+01:02:58,940 --> 01:03:00,940
+Ok, mas olha,
+
+1402
+01:03:00,940 --> 01:03:02,940
+a coluna,
+
+1403
+01:03:02,940 --> 01:03:04,940
+a coluna central,
+
+1404
+01:03:04,940 --> 01:03:06,940
+é,
+
+1405
+01:03:06,940 --> 01:03:08,940
+sempre aí,
+
+1406
+01:03:08,940 --> 01:03:10,940
+várias coisas, temos que atualizar isto.
+
+1407
+01:03:10,940 --> 01:03:12,940
+Mas olha, a certificação da ANI,
+
+1408
+01:03:12,940 --> 01:03:14,940
+só para vos dar aqui um apeteite,
+
+1409
+01:03:14,940 --> 01:03:16,940
+para,
+
+1410
+01:03:16,940 --> 01:03:18,940
+nós precisamos de um relatório
+
+1411
+01:03:18,940 --> 01:03:20,940
+do nosso contabilista,
+
+1412
+01:03:20,940 --> 01:03:22,940
+só a dizer que,
+
+1413
+01:03:22,940 --> 01:03:24,940
+uma boa percentagem dos custos
+
+1414
+01:03:24,940 --> 01:03:26,940
+e recursos são alucados,
+
+1415
+01:03:26,940 --> 01:03:28,940
+a investigação de desenvolvimento,
+
+1416
+01:03:28,940 --> 01:03:30,940
+se vai estar feito hoje,
+
+1417
+01:03:30,940 --> 01:03:32,940
+precisamos também de duas declarações de idoneidade,
+
+1418
+01:03:32,940 --> 01:03:34,940
+de,
+
+1419
+01:03:34,940 --> 01:03:36,940
+de,
+
+1420
+01:03:36,940 --> 01:03:38,940
+certas instituições,
+
+1421
+01:03:38,940 --> 01:03:40,940
+aprovadas pela Agência Nacional de Investimento,
+
+1422
+01:03:40,940 --> 01:03:42,940
+e eu falei com a Tecminho,
+
+1423
+01:03:42,940 --> 01:03:44,940
+eu falei, manda-me para uma série delas,
+
+1424
+01:03:44,940 --> 01:03:46,940
+e falei com a Feo,
+
+1425
+01:03:46,940 --> 01:03:48,940
+falei com, pronto,
+
+1426
+01:03:48,940 --> 01:03:50,940
+e com a Tecminho,
+
+1427
+01:03:50,940 --> 01:03:52,940
+por exemplo, eles disseram
+
+1428
+01:03:52,940 --> 01:03:54,940
+que não, já não emitiam
+
+1429
+01:03:54,940 --> 01:03:56,940
+essas declarações,
+
+1430
+01:03:56,940 --> 01:03:58,940
+se fossem empresas com ligação à universidade,
+
+1431
+01:03:58,940 --> 01:04:00,940
+e eu disse que temos ligação,
+
+1432
+01:04:00,940 --> 01:04:02,940
+que é o Daniel,
+
+1433
+01:04:02,940 --> 01:04:04,940
+que tem uma tese de mestrado e tudo,
+
+1434
+01:04:04,940 --> 01:04:06,940
+e que, porque eles dizem que aí passavam.
+
+1435
+01:04:06,940 --> 01:04:08,940
+A outra,
+
+1436
+01:04:08,940 --> 01:04:10,940
+é o Instituto Politécnico de Diana do Castelo,
+
+1437
+01:04:10,940 --> 01:04:12,940
+que também já
+
+1438
+01:04:12,940 --> 01:04:14,940
+eles passeiam a informação,
+
+1439
+01:04:14,940 --> 01:04:16,940
+vamos ter um custo,
+
+1440
+01:04:16,940 --> 01:04:18,940
+mas pronto, mas é melhor que as outras,
+
+1441
+01:04:18,940 --> 01:04:20,940
+que há outras que
+
+1442
+01:04:20,940 --> 01:04:22,940
+exigiam um processo de consultoria
+
+1443
+01:04:22,940 --> 01:04:24,940
+com universidade,
+
+1444
+01:04:24,940 --> 01:04:26,940
+e tudo, não,
+
+1445
+01:04:26,940 --> 01:04:28,940
+isto não é uma startup, não é
+
+1446
+01:04:28,940 --> 01:04:30,940
+um típico,
+
+1447
+01:04:30,940 --> 01:04:32,940
+não me venham vendendo projetos,
+
+1448
+01:04:32,940 --> 01:04:34,940
+e pronto.
+
+1449
+01:04:34,940 --> 01:04:36,940
+É exatamente, é mesmo
+
+1450
+01:04:36,940 --> 01:04:38,940
+um projeto que tem a empresa de consultoria.
+
+1451
+01:04:38,940 --> 01:04:40,940
+É, mas são universidades,
+
+1452
+01:04:40,940 --> 01:04:42,940
+percebem, e assim,
+
+1453
+01:04:42,940 --> 01:04:44,940
+já estou a ver o que tem a casa de gastos,
+
+1454
+01:04:44,940 --> 01:04:46,940
+já sei como é que as fãs estão,
+
+1455
+01:04:46,940 --> 01:04:48,940
+e cada vez estão mais fãs de trabalhar com a Nesi,
+
+1456
+01:04:48,940 --> 01:04:50,940
+com a Nesi,
+
+1457
+01:04:50,940 --> 01:04:52,940
+que são esses instituições,
+
+1458
+01:04:52,940 --> 01:04:54,940
+com todas.
+
+1459
+01:04:54,940 --> 01:04:56,940
+Mas pronto, em princípio são essas duas,
+
+1460
+01:04:56,940 --> 01:04:58,940
+temos um órgão no grama,
+
+1461
+01:04:58,940 --> 01:05:00,940
+e temos aquele formulário que nós
+
+1462
+01:05:00,940 --> 01:05:02,940
+completamos, Lema está há uns tempos,
+
+1463
+01:05:02,940 --> 01:05:04,940
+atrás,
+
+1464
+01:05:04,940 --> 01:05:06,940
+e isso
+
+1465
+01:05:06,940 --> 01:05:08,940
+permite-nos
+
+1466
+01:05:08,940 --> 01:05:10,940
+para, e emitir
+
+1467
+01:05:10,940 --> 01:05:12,940
+o processo.
+
+1468
+01:05:12,940 --> 01:05:14,940
+Tudo depende de nós, as setas declarações,
+
+1469
+01:05:14,940 --> 01:05:16,940
+que dependem de uma bocadinha da velocidade,
+
+1470
+01:05:16,940 --> 01:05:18,940
+estas dois, estes os universidades,
+
+1471
+01:05:18,940 --> 01:05:20,940
+que calculam que não seja assim muito rápido,
+
+1472
+01:05:20,940 --> 01:05:22,940
+mas, por exemplo, a Universidade
+
+1473
+01:05:22,940 --> 01:05:24,940
+do Politecnico de Viana do Castelo,
+
+1474
+01:05:24,940 --> 01:05:26,940
+eles, por acaso, são muito
+
+1475
+01:05:26,940 --> 01:05:28,940
+rápidos a responder.
+
+1476
+01:05:28,940 --> 01:05:30,940
+Bom.
+
+1477
+01:05:30,940 --> 01:05:32,940
+Que mais?
+
+1478
+01:05:32,940 --> 01:05:34,940
+Eu sequer apanho aqui o nome delas,
+
+1479
+01:05:34,940 --> 01:05:36,940
+para depois falar.
+
+1480
+01:05:36,940 --> 01:05:38,940
+Não vale a pena,
+
+1481
+01:05:38,940 --> 01:05:40,940
+nós temos isso até isso avançar,
+
+1482
+01:05:40,940 --> 01:05:42,940
+e todas as semanas
+
+1483
+01:05:42,940 --> 01:05:44,940
+fazemos um apeteite.
+
+1484
+01:05:44,940 --> 01:05:46,940
+No GDPR Assessment
+
+1485
+01:05:46,940 --> 01:05:48,940
+e AI Act, que está aí da
+
+1486
+01:05:48,940 --> 01:05:50,940
+CRS,
+
+1487
+01:05:50,940 --> 01:05:52,940
+eu mandei uma nota agora para
+
+1488
+01:05:52,940 --> 01:05:54,940
+Luiz Galvão Neto, que é um dos
+
+1489
+01:05:54,940 --> 01:05:56,940
+partenais da CRS,
+
+1490
+01:05:56,940 --> 01:05:58,940
+a detalhar melhor
+
+1491
+01:05:58,940 --> 01:06:00,940
+esta nova fase da anexi,
+
+1492
+01:06:00,940 --> 01:06:02,940
+e até ele mandei o
+
+1493
+01:06:02,940 --> 01:06:04,940
+aquele relatório anonymizado, que o Daniel
+
+1494
+01:06:04,940 --> 01:06:06,940
+fez, para,
+
+1495
+01:06:06,940 --> 01:06:08,940
+para, é isto que nós fazemos, e está aqui um exemplo
+
+1496
+01:06:08,940 --> 01:06:10,940
+de um, ainda inicial
+
+1497
+01:06:10,940 --> 01:06:12,940
+daquilo que a anexi faz,
+
+1498
+01:06:12,940 --> 01:06:14,940
+e eles vão ter perguntas
+
+1499
+01:06:14,940 --> 01:06:16,940
+mais,
+
+1500
+01:06:16,940 --> 01:06:18,940
+no princípio de avançar.
+
+1501
+01:06:18,940 --> 01:06:20,940
+Com o Francisco,
+
+1502
+01:06:20,940 --> 01:06:22,940
+e ele estamos a fazer uma lista de,
+
+1503
+01:06:22,940 --> 01:06:24,940
+nós vamos
+
+1504
+01:06:24,940 --> 01:06:26,940
+alargar, porque nós,
+
+1505
+01:06:26,940 --> 01:06:28,940
+o que fizemos é nós, como vocês sabem,
+
+1506
+01:06:28,940 --> 01:06:30,940
+falamos como as universidades, nós temos atrás,
+
+1507
+01:06:30,940 --> 01:06:32,940
+mas foram 3 ou 4, não foi muito,
+
+1508
+01:06:32,940 --> 01:06:34,940
+foi mais para ter feedback,
+
+1509
+01:06:34,940 --> 01:06:36,940
+uma delas nós falamos na próxima semana,
+
+1510
+01:06:36,940 --> 01:06:38,940
+que é a Porto Business School,
+
+1511
+01:06:38,940 --> 01:06:40,940
+mas,
+
+1512
+01:06:40,940 --> 01:06:42,940
+por exemplo, eu hoje,
+
+1513
+01:06:42,940 --> 01:06:44,940
+tive a preparar uma lista
+
+1514
+01:06:44,940 --> 01:06:46,940
+de paves, entidades,
+
+1515
+01:06:46,940 --> 01:06:48,940
+e investidores,
+
+1516
+01:06:48,940 --> 01:06:50,940
+para avançarmos aí,
+
+1517
+01:06:50,940 --> 01:06:52,940
+a toda a força.
+
+1518
+01:06:52,940 --> 01:06:54,940
+O Francisco já tem umas reuniões,
+
+1519
+01:06:54,940 --> 01:06:56,940
+e está a ver, quando dizem o Roadshow,
+
+1520
+01:06:56,940 --> 01:06:58,940
+ele até tem uma série
+
+1521
+01:06:58,940 --> 01:07:00,940
+de reuniões marcadas,
+
+1522
+01:07:00,940 --> 01:07:02,940
+para a semana anterior eu estar em Portugal,
+
+1523
+01:07:02,940 --> 01:07:04,940
+e do 14,
+
+1524
+01:07:04,940 --> 01:07:06,940
+e ele vai ter uma série
+
+1525
+01:07:06,940 --> 01:07:08,940
+de reuniões interessantes.
+
+1526
+01:07:08,940 --> 01:07:10,940
+Daí que temos que ter o pitos feito,
+
+1527
+01:07:10,940 --> 01:07:12,940
+tem que estar tudo
+
+1528
+01:07:12,940 --> 01:07:14,940
+direitinho.
+
+1529
+01:07:14,940 --> 01:07:16,940
+Até diz aqui embaixo, exatamente isso.
+
+1530
+01:07:16,940 --> 01:07:18,940
+Aqui está o Fred.
+
+1531
+01:07:20,940 --> 01:07:22,940
+Mas é o pit,
+
+1532
+01:07:22,940 --> 01:07:24,940
+o Fred tem estado muito ocupado,
+
+1533
+01:07:24,940 --> 01:07:26,940
+e
+
+1534
+01:07:26,940 --> 01:07:28,940
+pronto, e o pit
+
+1535
+01:07:28,940 --> 01:07:30,940
+também tem um outro esperto, é muita mais experiência,
+
+1536
+01:07:30,940 --> 01:07:32,940
+e
+
+1537
+01:07:32,940 --> 01:07:34,940
+pronto.
+
+1538
+01:07:36,940 --> 01:07:38,940
+Que mais, é que tinha para dizer?
+
+1539
+01:07:38,940 --> 01:07:40,940
+Acho que era tudo isso.
+
+1540
+01:07:40,940 --> 01:07:42,940
+Até já falamos no outro dia,
+
+1541
+01:07:42,940 --> 01:07:44,940
+o Itu,
+
+1542
+01:07:44,940 --> 01:07:46,940
+e tem aqui um ponto que
+
+1543
+01:07:46,940 --> 01:07:48,940
+vocês, na altura,
+
+1544
+01:07:48,940 --> 01:07:50,940
+nem sei se foi o Francisco que me pediu,
+
+1545
+01:07:50,940 --> 01:07:52,940
+e é o Diogo
+
+1546
+01:07:52,940 --> 01:07:54,940
+que tinha
+
+1547
+01:07:54,940 --> 01:07:56,940
+falado disto eventualmente
+
+1548
+01:07:56,940 --> 01:07:58,940
+sobre os contactos entre as forças de segurança,
+
+1549
+01:07:58,940 --> 01:08:00,940
+para pilotos, e por aí fora,
+
+1550
+01:08:00,940 --> 01:08:02,940
+acho que ainda não é esta prioridade,
+
+1551
+01:08:02,940 --> 01:08:04,940
+e ele até tinha referido, acho que na vossa reunião
+
+1552
+01:08:04,940 --> 01:08:06,940
+que estava disposta era
+
+1553
+01:08:06,940 --> 01:08:08,940
+para falar também com
+
+1554
+01:08:08,940 --> 01:08:10,940
+universidades, e por aí fora,
+
+1555
+01:08:10,940 --> 01:08:12,940
+mas tem aqui,
+
+1556
+01:08:12,940 --> 01:08:14,940
+na altura, o que foi um de vocês
+
+1557
+01:08:14,940 --> 01:08:16,940
+que falou por aqui.
+
+1558
+01:08:16,940 --> 01:08:18,940
+Mas,
+
+1559
+01:08:18,940 --> 01:08:20,940
+mudar aqui para...
+
+1560
+01:08:24,940 --> 01:08:26,940
+É essa menos prioritária,
+
+1561
+01:08:26,940 --> 01:08:28,940
+para já,
+
+1562
+01:08:28,940 --> 01:08:30,940
+mas
+
+1563
+01:08:36,940 --> 01:08:38,940
+eu vou ter que ser aqui
+
+1564
+01:08:38,940 --> 01:08:40,940
+um minuto.
+
+1565
+01:08:40,940 --> 01:08:42,940
+Estamos fechados,
+
+1566
+01:08:42,940 --> 01:08:44,940
+acho que...
+
+1567
+01:08:44,940 --> 01:08:46,940
+Não, não, há um
+
+1568
+01:08:46,940 --> 01:08:48,940
+ponto mais importante, tenho que ficar registrado
+
+1569
+01:08:48,940 --> 01:08:50,940
+aqui na Câmara,
+
+1570
+01:08:50,940 --> 01:08:52,940
+que é hoje é o Universidade do Francisco,
+
+1571
+01:08:52,940 --> 01:08:54,940
+por isso é que ele se quer estar no local.
+
+1572
+01:08:54,940 --> 01:08:56,940
+É,
+
+1573
+01:08:56,940 --> 01:08:58,940
+23 anos.
+
+1574
+01:08:58,940 --> 01:09:00,940
+23 anos.
+
+1575
+01:09:00,940 --> 01:09:02,940
+E vamos pedir ao modelo,
+
+1576
+01:09:02,940 --> 01:09:04,940
+neste momento, para quando fizer o tránsito
+
+1577
+01:09:04,940 --> 01:09:06,940
+fazer uma chamada de atenção,
+
+1578
+01:09:06,940 --> 01:09:08,940
+e por lá, por exemplo,
+
+1579
+01:09:08,940 --> 01:09:10,940
+Parabéns Francisco em letras grandes,
+
+1580
+01:09:10,940 --> 01:09:12,940
+que ele não vai fazer isto, mas é um teama
+
+1581
+01:09:12,940 --> 01:09:14,940
+que vai impressionar a
+
+1582
+01:09:14,940 --> 01:09:16,940
+aniversário do Francisco.
+
+1583
+01:09:16,940 --> 01:09:18,940
+É um extremamente relevante,
+
+1584
+01:09:18,940 --> 01:09:20,940
+o mais importante que se fala o ex,
+
+1585
+01:09:20,940 --> 01:09:22,940
+e assim mandamos o
+
+1586
+01:09:22,940 --> 01:09:24,940
+relatório disto para o Francisco,
+
+1587
+01:09:24,940 --> 01:09:26,940
+para ele ver que vais a falar disto.
+
+1588
+01:09:26,940 --> 01:09:28,940
+Exato, o texto é que
+
+1589
+01:09:28,940 --> 01:09:30,940
+como o Daniel tem lá, tipo,
+
+1590
+01:09:30,940 --> 01:09:32,940
+Highlights da reunião,
+
+1591
+01:09:32,940 --> 01:09:34,940
+acho que é Highlights que tu usas,
+
+1592
+01:09:34,940 --> 01:09:36,940
+para este termo.
+
+1593
+01:09:36,940 --> 01:09:38,940
+O principal Highlight desta reunião
+
+1594
+01:09:38,940 --> 01:09:40,940
+é o Aniversário do Francisco.
+
+1595
+01:09:40,940 --> 01:09:42,940
+Em primeiro lugar,
+
+1596
+01:09:42,940 --> 01:09:44,940
+dos Highlights, o Aniversário do Francisco.
+
+1597
+01:09:44,940 --> 01:09:46,940
+Exato.
+
+1598
+01:09:46,940 --> 01:09:48,940
+Todos, como de um grande teama,
+
+1599
+01:09:48,940 --> 01:09:50,940
+com grande sorriso, vamos,
+
+1600
+01:09:50,940 --> 01:09:52,940
+de um grande sábio de sorrisas,
+
+1601
+01:09:52,940 --> 01:09:54,940
+toda a gente,
+
+1602
+01:09:54,940 --> 01:09:56,940
+está parecendo sentimento,
+
+1603
+01:09:56,940 --> 01:09:58,940
+sempre de ensinar, porque
+
+1604
+01:09:58,940 --> 01:10:00,940
+estamos a falar deste tema.
+
+1605
+01:10:00,940 --> 01:10:02,940
+E é o vigésimo quinto aniversário
+
+1606
+01:10:02,940 --> 01:10:04,940
+que fica bem registrado,
+
+1607
+01:10:04,940 --> 01:10:06,940
+todos os dias que
+
+1608
+01:10:06,940 --> 01:10:08,940
+se faz 25 anos, Francisco.
+
+1609
+01:10:08,940 --> 01:10:10,940
+Por acaso, ele não partiu,
+
+1610
+01:10:10,940 --> 01:10:12,940
+eu pensava que ele tinha já 28,
+
+1611
+01:10:12,940 --> 01:10:14,940
+mas realmente...
+
+1612
+01:10:14,940 --> 01:10:16,940
+Não estava a ser generoso,
+
+1613
+01:10:16,940 --> 01:10:18,940
+estava a ser generoso.
+
+1614
+01:10:18,940 --> 01:10:20,940
+Tem 28.
+
+1615
+01:10:20,940 --> 01:10:22,940
+Model de corredores aí que é 28 anos
+
+1616
+01:10:22,940 --> 01:10:24,940
+que ele tem.
+
+1617
+01:10:24,940 --> 01:10:26,940
+Exato.
+
+1618
+01:10:26,940 --> 01:10:28,940
+Ok, pessoal, valeu um abraço,
+
+1619
+01:10:28,940 --> 01:10:30,940
+um abraço a todos.
+
+1620
+01:10:30,940 --> 01:10:32,940
+Valeu, obrigado a nós.
+
+1621
+01:10:32,940 --> 01:10:34,940
+E a próxima semana.
+
+1622
+01:10:34,940 --> 01:10:36,940
+É isso, bom trabalho, abraço.
+
+1623
+01:10:36,940 --> 01:10:38,940
+Tchau.

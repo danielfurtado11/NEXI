@@ -1,0 +1,64 @@
+[
+    {
+        "minute_start": 3,
+        "minute_end": 12,
+        "topic": "Data Cataloging and Thesis Guidance",
+        "subtopics": [
+            "Discussion about cataloging data by Hugo",
+            "Need for a professor's guidance for thesis",
+            "Challenges faced by students with unresponsive professors",
+            "Comparison of different thesis projects among peers"
+        ]
+    },
+    {
+        "minute_start": 12,
+        "minute_end": 20,
+        "topic": "Project Development and Data Sets",
+        "subtopics": [
+            "Importance of creating data sets for projects",
+            "Discussion on the progress of thesis models",
+            "Advice on testing various models",
+            "Clarification on thesis submission deadlines and requirements"
+        ]
+    },
+    {
+        "minute_start": 20,
+        "minute_end": 30,
+        "topic": "Professor Engagement and Thesis Support",
+        "subtopics": [
+            "Challenges in obtaining feedback from professors",
+            "Importance of validation from experienced professors",
+            "Discussion on the need for multiple perspectives in data analysis"
+        ]
+    },
+    {
+        "minute_start": 30,
+        "minute_end": 40,
+        "topic": "Technical Implementation of the Project",
+        "subtopics": [
+            "Discussion on using Streamlit for web app development",
+            "Plans for user authentication and multi-page layout",
+            "Considerations for user experience and design"
+        ]
+    },
+    {
+        "minute_start": 40,
+        "minute_end": 50,
+        "topic": "Meeting Logistics and Future Planning",
+        "subtopics": [
+            "Discussion of next meeting schedules",
+            "Planning for feedback collection from universities",
+            "Preparation of pitch presentations for potential stakeholders"
+        ]
+    },
+    {
+        "minute_start": 50,
+        "minute_end": 60,
+        "topic": "Celebration of Milestones",
+        "subtopics": [
+            "Acknowledgment of Francisco's birthday",
+            "Plans for team celebration and recognition of achievements",
+            "Encouragement of team morale and camaraderie"
+        ]
+    }
+]
